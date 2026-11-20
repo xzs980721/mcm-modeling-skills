@@ -20,10 +20,17 @@ description: "用 nature-figure 为美赛（MCM/ICM）英文论文制作题目�
 ## 按图件选择路线
 
 - **矢量图。** 读取 `nature-figure` 的 `references/vector-schematic-workflow.md` 和 `references/vector-schematic-style-rules.md`。汇总正文位置、主要关系、图中术语和风格，请用户集中确认绘图简述后再绘制。保留可编辑 SVG，运行 `scripts/audit_svg_schematic.py`，导出论文用矢量 PDF，按实际版面宽度检查标签、箭头、对齐和留白。
-- **生成图。** 读取 `references/ai-graphical-abstract-workflow.md` 和 `references/openrouter-image-generation.md`。文生图使用 Image2（`openai/gpt-image-2`），按 `nature-figure` 提供的生成和审校流程执行。依据题面与模型逐项检查对象、关系、方向和文字。核查当届 COMAP 官方要求及适用的披露要求，满足纳入条件后才将图作为论文定稿。保存提示词、模型、来源和审核记录。
+- **生成图。** 使用下方的 [内置 Image2 路线](#使用内置-image2-生成图)。按 `nature-figure` 的提示词框架组织图稿，并通过 Codex 内置 Image2 出图。
 - **已有背景素材。** 核对其与题面相关性，记录来源、署名和使用条件。以裁切、标注和版面调整融入计划风格，同时保留素材依据。
 
 已经选定 Image2 的图若遇到模型或工具不可用、当届规则限制或纳入条件未确认，将该图标为待用户决定。可保留内部草稿，等待用户决定是否调整图件或形式。继续制作其余图和撰写正文。必需图未齐时保留未完成状态。
+
+## 使用内置 Image2 生成图
+
+1. 读取 `nature-figure` 的 `references/ai-graphical-abstract-workflow.md`，根据题面、模型和 `plan.md` 写英文图稿简述。包括构图顺序、对象与关系、准确标签、画幅、背景和避用元素。核查当届 COMAP 规则及适用披露要求，确认可纳入论文后再确定论文用定稿。
+2. 用 `nature-figure` 的 `scripts/generate_openrouter_schematic.py` 在离线模式生成完整提示词。将实际风格传给 `--style`，将图稿简述传给 `--prompt-file`，按需补充 `--title` 和 `--panel-map`，以 `--dry-run` 输出 JSON。保持脚本的标准模板，`--raw` 会跳过模板。
+3. 从 JSON 提取 `prompt` 字段，原样交给 Codex 内置生图工具（Image2，`gpt-image-2`）。有用户提供且获准使用的参考图时，通过内置工具随提示词传入。画幅等要求在图稿简述中写清，实际规格以出图为准。
+4. 依据题面与模型逐项核对对象、关系、方向和文字。保存实际提交给 Image2 的完整提示词、模型与调用渠道、出图文件及审核记录。需调整时更新图稿简述并重新生成完整提示词，再出图复查。
 
 ## 定稿与交接
 
