@@ -18,8 +18,8 @@ description: 从 COMAP 美赛（MCM/ICM）题面与附件生成完整英文竞�
 | 阶段                   | 调用                 | 产物                                                                  |
 | ---------------------- | -------------------- | --------------------------------------------------------------------- |
 | 赛题分析与建模设计     | `2analysis-modeling` | `reports/ANALYSIS_MODELING_REPORT.md` 中的基线、候选模型及选型实验    |
-| 求解、实验与数据可视化 | `3coding-visual`     | `code/`、`results/`、数据图和含模型对照的 `reports/RESULTS_REPORT.md` |
-| 背景、机制与流程图     | `4concept-visual`    | 背景图、矢量总体解题路线图、机制图或系统工作图和 `reports/CONCEPT_FIGURES_REPORT.md` |
+| 求解、实验与数据可视化 | `3coding-visual`     | `code/`、`results/`、数据图（至少一张非常规）和含模型对照的 `reports/RESULTS_REPORT.md` |
+| 背景、机制与流程图     | `4concept-visual`    | 至少一张 Image2 文生图背景、矢量总体解题路线图、机制图或系统工作图和 `reports/CONCEPT_FIGURES_REPORT.md` |
 | 美赛论文写作与排版     | `5writing`           | 美赛模板下的`paper/` 源码和 PDF                                       |
 | 提交前验收             | `6verify`            | `reports/VERIFY_REPORT.md`                                            |
 
