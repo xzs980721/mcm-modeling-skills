@@ -12,6 +12,12 @@
         "5writing",
         "6verify"
       ]
+    },
+    {
+      "title": "范文知识提炼",
+      "skills": [
+        "mcm-paper-cards"
+      ]
     }
   ]
 }
