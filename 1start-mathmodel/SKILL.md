@@ -16,10 +16,12 @@ description: 从 COMAP 美赛（MCM/ICM）题面与附件生成完整英文竞�
 
 | 阶段 | 调用 | 产物 |
 | --- | --- | --- |
-| 赛题分析与建模设计 | `2analysis-modeling` | `reports/ANALYSIS_MODELING_REPORT.md` |
-| 求解、实验与数据可视化 | `3coding-visual` | `code/`、`results/`、数据图和 `reports/RESULTS_REPORT.md` |
-| 背景、机制与流程图 | `4drawio` | 按题目需要生成图源和 PDF，并记录于 `reports/DRAWIO_REPORT.md` |
+| 赛题分析与建模设计 | `2analysis-modeling` | `reports/ANALYSIS_MODELING_REPORT.md` 中的基线、候选模型及选型实验 |
+| 求解、实验与数据可视化 | `3coding-visual` | `code/`、`results/`、数据图和含模型对照的 `reports/RESULTS_REPORT.md` |
+| 背景、机制与流程图 | `4drawio` | 按题目需要生成图源和论文用图，并记录于 `reports/DRAWIO_REPORT.md` |
 | 美赛论文写作与排版 | `5writing` | 美赛模板下的 `paper/` 源码和 PDF |
 | 提交前验收 | `6verity` | `reports/VERIFY_REPORT.md` |
 
-按表顺序读取各阶段的 `SKILL.md`。图表集中存放在 `figures/`，数据图从计算结果生成，概念图解释场景、模型结构或流程。论文的表格数值、图和定量结论应能追溯到计算结果。需要补充领域规范时，查看 `../_references/math_modeling_norms.md`。
+按表顺序读取各阶段的 `SKILL.md`。分析阶段结束时，按 [图表工作流](../_references/figure-workflow.md) 在 `plan.md` 中登记各章图表的论证用途与统一风格，供后续阶段更新。模型选型由对照结果决定。图表生成后保留一轮独立的视觉迭代，排版后按实际尺寸复核。
+
+最终图表集中存放在 `figures/`。数据图、表格数值和定量结论应能追溯到计算结果。需要补充领域规范时，查看 [数学建模规范](../_references/math_modeling_norms.md)。
