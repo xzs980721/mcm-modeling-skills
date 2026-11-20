@@ -1,6 +1,6 @@
 ---
 name: 3coding-visual
-description: "美赛（MCM/ICM）数学建模编程实现与数据图表生成阶段。根据 ANALYSIS_MODELING_REPORT.md 编写可复现代码、运行求解、验证约束、输出 RESULTS_REPORT.md 并生成论文可用的数据驱动图表 PDF。"
+description: "美赛（MCM/ICM）数学建模编程实现与数据图表生成阶段。根据 ANALYSIS_MODELING_REPORT.md 编写可复现代码、运行求解、验证约束、输出 RESULTS_REPORT.md，并用 nature-figure 生成符合论文风格的数据图表。"
 ---
 
 # 编程实现与数据图表生成
@@ -16,7 +16,7 @@ description: "美赛（MCM/ICM）数学建模编程实现与数据图表生成�
 ## 阶段边界
 
 - 本阶段负责：代码、实验运行、结果、结果表、数据驱动图表。
-- 本阶段不负责：技术路线图、算法流程图、系统架构图、概念示意图。这些交给 `4drawio`。
+- 技术路线图、算法流程图、系统架构图和概念示意图由 `4concept-visual` 负责。
 - 本阶段不写论文正文，只为 `5writing` 提供可信数值和图表资产。
 
 
@@ -70,7 +70,7 @@ AI 在实现、求解和作图过程中，必须把关键中间过程保存成�
 
 ### Step 5: 生成图表并做独立视觉迭代
 
-用建模报告和结果报告更新 `plan.md` 的图表清单。参照 [图表工作流](../_references/figure-workflow.md)，先画能精确核对数据的初稿，再按统一风格迭代并以预定版面宽度渲染。把美化前后有代表性的对比和实际修正记入结果报告。定稿 PDF 放在 `figures/`。
+用建模报告和结果报告更新 `plan.md` 的图表清单，读取其已确认的「论文图表风格」。读取 [`nature-figure` 入口](../_references/figure-workflow.md#按图件类型使用-nature-figure)，使用其 Python 或 R 数据绘图路线和适用的渲染检查。绘图后端按 `nature-figure` 的规则确定。按计划风格绘制初稿并核对数据，再独立迭代美化，按预定版面宽度渲染。把美化前后的代表性对比、实际修正和校验结果记入结果报告。定稿 PDF 放在 `figures/`。
 
 典型图表：
 

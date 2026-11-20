@@ -2,7 +2,6 @@
 name: 1start-mathmodel
 description: 从 COMAP 美赛（MCM/ICM）题面与附件生成完整英文竞赛论文。用户要求解答美赛赛题、执行题面到论文的完整建模工作流，或显式调用本阶段时使用。
 ---
-
 # 美赛建模工作流
 
 ## 启动与计划
@@ -10,18 +9,20 @@ description: 从 COMAP 美赛（MCM/ICM）题面与附件生成完整英文竞�
 1. 读取题面、附件和当届提交要求。确认题号、需要交付的各问与附加材料，记录缺失数据和关键歧义。
 2. 沿用用户已指定的 Typst 或 LaTeX。选择会影响交付且尚未明确时询问。按美赛英文论文组织内容。
 3. 在本次赛题项目中创建 `plan.md`，记录排版引擎、题目及任务数、模型方向、各阶段的负责人、输入和产物，以及关键假设或风险的检查方式。
-4. 创建 `todo.md`。按下表逐阶段列出带 skill 名称的任务，完成且产物就绪后更新状态。
+4. 请用户选定 [论文图表风格](../_references/figure-workflow.md#由用户选择整篇论文的图表风格)。给出适合本题的预设，也接受自定义或参考图。将确认的风格参数写入 `plan.md`。等待确认期间可以继续分析与求解，出图从确认后的风格开始。
+5. 创建 `todo.md`。按下表逐阶段列出带 skill 名称的任务，完成且产物就绪后更新状态。
 
 ## 顺序与交接
 
-| 阶段 | 调用 | 产物 |
-| --- | --- | --- |
-| 赛题分析与建模设计 | `2analysis-modeling` | `reports/ANALYSIS_MODELING_REPORT.md` 中的基线、候选模型及选型实验 |
-| 求解、实验与数据可视化 | `3coding-visual` | `code/`、`results/`、数据图和含模型对照的 `reports/RESULTS_REPORT.md` |
-| 背景、机制与流程图 | `4drawio` | 按题目需要生成图源和论文用图，并记录于 `reports/DRAWIO_REPORT.md` |
-| 美赛论文写作与排版 | `5writing` | 美赛模板下的 `paper/` 源码和 PDF |
-| 提交前验收 | `6verity` | `reports/VERIFY_REPORT.md` |
 
-按表顺序读取各阶段的 `SKILL.md`。分析阶段结束时，按 [图表工作流](../_references/figure-workflow.md) 在 `plan.md` 中登记各章图表的论证用途与统一风格，供后续阶段更新。模型选型由对照结果决定。图表生成后保留一轮独立的视觉迭代，排版后按实际尺寸复核。
+| 阶段                   | 调用                 | 产物                                                                  |
+| ---------------------- | -------------------- | --------------------------------------------------------------------- |
+| 赛题分析与建模设计     | `2analysis-modeling` | `reports/ANALYSIS_MODELING_REPORT.md` 中的基线、候选模型及选型实验    |
+| 求解、实验与数据可视化 | `3coding-visual`     | `code/`、`results/`、数据图和含模型对照的 `reports/RESULTS_REPORT.md` |
+| 背景、机制与流程图     | `4concept-visual`    | 背景图、矢量总体解题路线图、机制图或系统工作图和 `reports/CONCEPT_FIGURES_REPORT.md` |
+| 美赛论文写作与排版     | `5writing`           | 美赛模板下的`paper/` 源码和 PDF                                       |
+| 提交前验收             | `6verify`            | `reports/VERIFY_REPORT.md`                                            |
+
+按表顺序读取各阶段的 `SKILL.md`。分析阶段结束时，按 [图表工作流](../_references/figure-workflow.md) 在 `plan.md` 中登记各章图表的论证用途。模型选型由对照结果决定。阶段 3 和 4 均通过 `nature-figure` 执行已确认的图表风格。图表生成后保留一轮独立的视觉迭代，排版后按实际尺寸复核。验收发现需要增补概念图时，回到阶段 4，更新论文后重新验收。
 
 最终图表集中存放在 `figures/`。数据图、表格数值和定量结论应能追溯到计算结果。需要补充领域规范时，查看 [数学建模规范](../_references/math_modeling_norms.md)。
