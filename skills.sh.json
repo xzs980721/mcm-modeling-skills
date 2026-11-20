@@ -1,0 +1,23 @@
+{
+  "title": "MathModelAgent · MCM/ICM",
+  "description": "COMAP 美赛工作流，从英文赛题和附件到可复现结果与英文竞赛论文。",
+  "sections": [
+    {
+      "title": "美赛工作流（按顺序使用）",
+      "skills": [
+        "1start-mathmodel",
+        "2analysis-modeling",
+        "3coding-visual",
+        "4drawio",
+        "5writing",
+        "6verity"
+      ]
+    },
+    {
+      "title": "共享参考",
+      "skills": [
+        "_references"
+      ]
+    }
+  ]
+}
