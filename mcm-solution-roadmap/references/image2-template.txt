@@ -1,0 +1,67 @@
+Create a single, publication-quality scientific workflow diagram for the mathematical modeling task specified below. Present every explicit numbered subproblem, the mathematical models and computational procedures actually used, their outputs and validation, and the real dependencies among them.
+
+## 1. Overall composition
+
+- Use a white, landscape canvas at approximately 1.85:1, designed for a 159 mm full-width academic figure. Omit an overall title.
+- Use three horizontal zones in this order: a top shared-input and system region, a central grid of independent numbered subproblem panels, and a full-width final synthesis panel at the bottom.
+- In the central zone, use two balanced columns, with panels in original problem order from left to right, then top to bottom. Use the full central width for a lone panel or an unpaired final panel. Allocate internal space according to information density.
+- Give each explicit subproblem exactly one distinct, clearly bounded panel with its original identifier, a short English heading, an internal workflow, and an identifiable output. Preserve nested identifiers as given in the problem.
+- If the last numbered subproblem is itself the final synthesis, place its one numbered panel in the bottom zone. Otherwise place all numbered panels in the central zone and use the bottom zone for the actual overall output.
+- Keep the internal information order fixed: Input → Mathematical Model → Computational Procedure → Results → Validation. Give distinct documented steps and checks separate short nodes or labels within each stage.
+
+## 2. Shared inputs and system background
+
+- Place the shared system definition, common inputs, common model, key parameters, and common constraints in the top zone. Use a compact, scientifically accurate mechanism illustration, explanatory inset, or topic-specific scientific illustration. Its elements must be legible at the intended print width.
+- Clearly distinguish problem specifications, measured observations, modeling assumptions, and scenario parameters. Label shared inputs that flow to the relevant panels.
+
+## 3. Independent subproblem panels
+
+Use the three content sections below as the sole source of task-specific facts. Apply the layout, styling, and quality rules stated in the surrounding template. For each subproblem, take each supplied input and scope item from A, the actual model, equations and constraints from B, and the ordered procedure, results and checks from C. Preserve the individual items and their meanings in the figure. Use short English labels for individual actions, compact equation blocks, and result cards for verified values and units. Show material missing information as “Not documented” where relevant.
+
+### A. Modeling problems (What)
+
+{{WHAT}}
+
+### B. Modeling methods (How to Model)
+
+{{HOW_TO_MODEL}}
+
+### C. Solution procedures (How to Solve)
+
+{{HOW_TO_SOLVE}}
+
+## 4. Inter-panel relationships
+
+- Draw only documented connections. Distinguish shared input distribution, parameter transfer, intermediate result transfer, constraint transfer, parallel analyses, and final convergence.
+- Connect a shared parameter from the top region to its recipients. Draw a direct subproblem-to-subproblem arrow only when the downstream step actually uses an upstream output or constraint. Keep genuinely parallel analyses visually independent.
+- Use solid arrows for direct transfer and dashed arrows for scenario or sensitivity references. Label important connections with what is transferred. Route orthogonal lines through the space between panels and keep them clear of nodes and text.
+
+## 5. Final synthesis and output
+
+- Collect the applicable verified results in a convergence bus above the bottom panel. Show how the evidence enters the actual decision, recommendation, evaluation, or overall output.
+- Keep the bottom panel distinct and full-width. When the task has no decision, show its documented final integrated output, such as a combined assessment or deliverable. Preserve the original identifier and the five-part internal workflow if this panel corresponds to a numbered subproblem.
+
+## 6. Visual design and academic style
+
+Use the visual language of high-quality CVPR, AAAI, and ICLR research-paper figures: a clean flat infographic appearance, thin consistent borders, rounded rectangular process nodes, precise alignment, consistent arrowheads and line weights, a clear information hierarchy, and generous negative space.
+
+Use this fixed palette and keep each color's meaning consistent throughout:
+
+- Deep navy #193B69: shared system and primary structure.
+- Steel blue #537FA3: primary model and baseline processes.
+- Teal #007E78: resource or material flow and supply.
+- Muted amber #B56815: alternative pathways and optimization results.
+- Muted coral #B95F5C: disruptions, failures, and risk.
+- Desaturated green #60836A: environmental analysis and validation.
+- Light gray #E9EDF2: secondary information and assumptions.
+
+Use Arial-like sans-serif typography, short English node labels, distinguishable panel headings, and approximately 8–10 pt equivalent text at 159 mm width. Preserve mathematical notation, units, and numerical values exactly. Keep the canvas white or near-white. Place explanatory illustrations where they clarify the shared system or a key mechanism. Exclude unrelated decorations, photorealistic backgrounds, cartoon styling, heavy gradients, shadows, 3D effects, and unnecessary legends.
+
+## 7. Final quality requirements
+
+- All explicit subproblems appear once, with their original identifiers and all five stages of their internal workflows.
+- All depicted models, algorithms, equations, units, values, and dependencies match the supplied content. Use the actual final output and retain the distinction between assumptions and observations.
+- The shared inputs, panel-to-panel transfers, and final synthesis are distinguishable. Every arrow has the correct origin, destination, and direction.
+- At least one recognizable scientific illustration appears in the figure. Text, borders, and arrows remain readable and balanced at the intended print width, with no overlapping elements or illegible microtext.
+- Fit the supplied detail by adjusting panel space, using compact subgroups and shortening individual labels without losing their meaning. Shared inputs may be shown once with explicit connections to each recipient. Retain distinct equations, constraints, procedural steps, verified outputs and validation checks.
+- In revisions, apply the requested correction to the affected items and retain the detail and relationships of every other item.
