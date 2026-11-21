@@ -43,14 +43,25 @@ python scripts/render_image2_prompt.py path/to/content.json
 
 ## 局部修订与覆盖检查
 
-1. 以上一版完整内容为基准。若只保留了旧提示词，按 A、B、C 原有边界逐字恢复三个字段。若上一版使用旧母版，保留三个字段的全部内容，用当前母版重新装配。普通美化、重试和排版调整复用同一份完整提示词。用户确认更换全局色板时，复制原 JSON 并只更新 `PALETTE` 后重新装配。需要释放空间时，优先调整板块尺寸、分组和单个标签的长度。
-2. 修改事实或术语时，给脚本提供 JSON 修订清单。每条包含 `field`、`before` 和 `after`，`before` 必须逐字对应字段中唯一的一行。替换文本须非空。补充新项目时，可在保留原行的基础上追加新行。脚本输出一份完整提示词，并另存本次内容 JSON。
+**锁定信息下限。** 基准是最近一份通过内容核对的完整母版提示词、其内容 JSON 和两张核对表。若多轮修订中已经有漏项，回到压缩前的完整版本，把此后已核实的更正和新增项目合并回去。只有旧完整版时按 A、B、C 原边界逐字恢复三个字段，再装入当前母版。找不到可靠完整版时，以题面、建模报告和结果报告重建两张表，再装配提示词。禁用成图、摘要或缩写版 revision 作为内容基准。
+
+**写清逐项保留口径。** 逐问内容表按共享区、各问及其五步、综合区逐项编号。每个独立输入、假设、参数、公式、约束、计算动作、结果、数值、单位和检验都须有原位置和修订后对应位置。跨问连线表逐条保留起点、终点、传递内容、线型和依据。五步是承载多个项目的分组。每步一个概括标签、只数板块数量或行数都不足以通过覆盖检查。
+
+**每次提交完整提示词。** 纯重试直接使用完整版。布局调整、偏色或补漏只用 `--revision-actions` 为完整提示词追加局部动作。每项由 `action` 与短对象名 `target` 组成，可用动作是 `align`（对齐）、`space`（腾出空间）、`balance`（平衡构图）、`legibility`（改善可读性）、`reroute`（调整路线）、`recolor`（恢复全局色义）、`restore`（恢复完整版中的内容）。例如 `[{"action":"restore","target":"Problem 2 solve-hazard equations"}]`。仅将现有图作为视觉参考。用户确认更换全局色板时，只更新 `PALETTE` 后重新装配。
 
 ```text
-python scripts/render_image2_prompt.py content.json --patch changes.json --save-content content-v2.json
+python scripts/render_image2_prompt.py content.json --revision-actions actions.json > roadmap-revision-full.txt
+python scripts/render_image2_prompt.py content.json --revision-actions actions.json --check-prompt roadmap-revision-full.txt
 ```
 
-3. 用两张表逐项对照前后版本。确认每小问原有的输入、假设、公式、约束、实际求解步骤、验证数据、关键数值、单位和跨问传递仍可定位。核对本次修改确实符合用户要求或原文。无关项目及其细节保持原样，独立求解步骤分别保留。若有误删、归并导致信息丢失或新编内容，恢复原项后再出图。成图遗漏细节时修订成图，保留完整提示词作为核对基准。
+**事实只改具体片段。** 修订 JSON 含 `field`、`before` 和 `after`。`before` 逐字定位一行内唯一的原片段，`after` 给出核实后的非空替换。整行保留原文后可追加新行。脚本拒绝用新句子替换整行或将片段替换成多行。核对片段内部的每项事实，保持其他公式、步骤及条件原样。更正后用另存的 JSON 校验最终提示词；如同时调整视觉，两条命令均附同一份 `--revision-actions`。
+
+```text
+python scripts/render_image2_prompt.py content.json --patch changes.json --save-content content-v2.json > roadmap-revision-full.txt
+python scripts/render_image2_prompt.py content-v2.json --check-prompt roadmap-revision-full.txt
+```
+
+**发送和成稿各核对一次。** 送入 Image2 前执行 `--check-prompt`，并用两张表对照本轮请求、原内容和实际发送的提示词。出图后以论文实际尺寸复核每项可见位置及状态。只有逐项保留或经核实更正、且各项可独立读取时才通过。内容拥挤时增加板块空间、调整内部子组或缩短单项措辞，把公式、限制条件、独立步骤和验证等各自保留下来。任何漏项、概括合并、隐藏、不可辨的文字或错误连线均使该版不通过，依据完整提示词修正并再验。保留实际发送的完整版、内容 JSON、局部修改及两张表的核对结果。
 
 ## 完整提示词示例 · 2026 MCM B 题
 
