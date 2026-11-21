@@ -45,15 +45,7 @@ Use the three content sections below as the sole source of task-specific facts. 
 
 Use the visual language of high-quality CVPR, AAAI, and ICLR research-paper figures: a clean flat infographic appearance, thin consistent borders, rounded rectangular process nodes, precise alignment, consistent arrowheads and line weights, a clear information hierarchy, and generous negative space.
 
-Use this fixed palette and keep each color's meaning consistent throughout:
-
-- Deep navy #193B69: shared system and primary structure.
-- Steel blue #537FA3: primary model and baseline processes.
-- Teal #007E78: resource or material flow and supply.
-- Muted amber #B56815: alternative pathways and optimization results.
-- Muted coral #B95F5C: disruptions, failures, and risk.
-- Desaturated green #60836A: environmental analysis and validation.
-- Light gray #E9EDF2: secondary information and assumptions.
+{{PALETTE}}
 
 Use Arial-like sans-serif typography, short English node labels, distinguishable panel headings, and approximately 8–10 pt equivalent text at 159 mm width. Preserve mathematical notation, units, and numerical values exactly. Keep the canvas white or near-white. Place explanatory illustrations where they clarify the shared system or a key mechanism. Exclude unrelated decorations, photorealistic backgrounds, cartoon styling, heavy gradients, shadows, 3D effects, and unnecessary legends.
 
