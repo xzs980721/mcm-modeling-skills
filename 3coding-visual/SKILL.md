@@ -75,4 +75,4 @@ AI 在实现、求解和作图过程中，必须把关键中间过程保存成�
 
 ### Step 5: 交接数据图生成
 
-用建模报告和结果报告更新 `plan.md` 的图表清单。将已确认的数据、各图的论证目的及论文图表风格交给 [mcm-data-figure](../mcm-data-figure/SKILL.md)，按完整阶段要求出图和验收。在 `reports/RESULTS_REPORT.md` 汇总定稿及源代码路径、选型与校验记录。
+用建模报告和结果报告更新 `plan.md` 的图表清单。完整流程按清单分配，至少交付 5 张数据图。单独执行完整数据图阶段也至少交付 5 张。两种情况下均须至少有一张非常规数据图。按[正文图件数量与计数](../_references/figure-workflow.md#正文图件数量与计数)规划独立论证用途。将已确认的数据、各图的论证目的及论文图表风格交给 [mcm-data-figure](../mcm-data-figure/SKILL.md) 出图和验收。在 `reports/RESULTS_REPORT.md` 汇总定稿及源代码路径、选型与校验记录。
