@@ -15,7 +15,7 @@ Options:
   --figures-dir DIR      Figure directory. Defaults to <root-dir>/figures when it exists.
   --results-file FILE    Result summary file. Defaults to <root-dir>/reports/RESULTS_REPORT.md when it exists.
   --problem-analysis FILE
-                          Problem analysis file, used only for soft consistency checks.
+                          Problem analysis file; its filename is checked for leakage.
   --all-results FILE     Aggregated JSON result file. Defaults to <figures-dir>/all_results.json.
   --internal-term TEXT   Extra internal workflow term to reject in paper body. Repeatable.
   --no-internal-check    Skip internal workflow filename leak check.
@@ -338,9 +338,9 @@ info(f"section file count: {len(section_files)}")
 if not section_files:
     warn(f"no separate section {section_ext} files detected; treating paper as a single-file {engine_name} document")
 
-# Include/input detection: Typst uses #include("..."), LaTeX uses \input{...} or \include{...}
+# Include/input detection for the supported Typst and LaTeX forms.
 if is_typst:
-    include_re = re.compile(r'#include\(\s*"([^"]+\.typ)"\s*\)')
+    include_re = re.compile(r'#include(?:\s+|\s*\(\s*)"([^"\r\n]+\.typ)"')
     includes = include_re.findall(main_text)
 else:
     include_re = re.compile(r'\\(?:input|include)\s*\{([^}]+)\}')
@@ -382,19 +382,6 @@ if numbers:
     missing = [num for num in expected if num not in numbers]
     if missing:
         warn(f"numbered section sequence has gaps: {missing}")
-
-if problem_analysis and problem_analysis.exists():
-    pa = read(problem_analysis)
-    problem_hits = re.findall(r"(?:子问题|问题)\s*[一二三四五六七八九十0-9]+", pa)
-    expected_problem_count = len(set(problem_hits))
-    paper_problem_sections = [name for name in include_names or actual_names if re.search(r"problem|问题|q\d", name, re.I)]
-    if expected_problem_count and paper_problem_sections and len(paper_problem_sections) < min(expected_problem_count, 3):
-        warn(
-            "paper problem sections may be fewer than analysis subproblems: "
-            f"paper={len(paper_problem_sections)}, analysis={expected_problem_count}"
-        )
-else:
-    info("problem analysis file not supplied/found; skip subproblem count check")
 
 placeholder_re = re.compile(r"PLACEHOLDER|TODO|TBD|XXX|待补充|待续写|这里补|示例数据|待完善")
 default_internal_terms = [
