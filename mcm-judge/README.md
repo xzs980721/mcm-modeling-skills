@@ -41,7 +41,10 @@ python scripts/aggregate.py --jsonl data/papers.jsonl --outdir .
 | 时点 | 调用 | 产出 | 谁读 |
 |---|---|---|---|
 | 写 `plan.md` 之前 | brief | `reports/AWARD_BRIEF.md` | `1start-mathmodel`、`2analysis-modeling` |
+| **每个阶段结束时（共 5 次）** | **check** | `reports/STAGE_CHECK.md`（追加） | 本阶段（回退修改）、下一阶段（核对遗留） |
 | 提交之前 | review | `reports/JUDGE_REVIEW.md` | `5writing`（改稿）、`6verify`（gate） |
+
+check 是轻量闸门：只查本阶段能改的条目（S1–S5），判定 `pass`/`conditional`/`return`；`return` 最多回退 2 轮，超限则记录缺口前进。条目见 `references/stage-checks.md`。
 
 本技能**只读不写**：不修改 `paper/`、`code/`、`results/`。
 

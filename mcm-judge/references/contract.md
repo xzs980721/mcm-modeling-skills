@@ -7,6 +7,7 @@
 | 文件 | 谁写 | 谁读 | 什么时候 |
 |---|---|---|---|
 | `reports/AWARD_BRIEF.md` | `mcm-judge`（brief 模式） | `1start-mathmodel`、`2analysis-modeling` | 动笔前 |
+| `reports/STAGE_CHECK.md` | `mcm-judge`（check 模式） | 本阶段技能自己、下一阶段技能 | 每个阶段结束时追加 |
 | `reports/JUDGE_REVIEW.md` | `mcm-judge`（review 模式） | `5writing`（改稿）、`6verify`（gate） | 初稿后、提交前 |
 
 反向的输入约定：`mcm-judge` 只读题面、附件、`paper/` 源码与 `results/`，**不修改任何管线产物**。改稿由 `5writing` 执行，`mcm-judge` 只给判断和改法。
@@ -89,6 +90,31 @@ corpus: <对照语料，例如 A 题 n=52>
 - 当前档位：<接近 O 奖 / M–F 之间 / H 以下>
 - 若只能改一件事：<写那一件，以及为什么是它>
 ```
+
+## STAGE_CHECK.md
+
+**追加式**：每个阶段追加一节，不覆盖历史。同一阶段的多轮回退各记一节。
+
+```markdown
+# STAGE_CHECK
+contract: v1
+
+## Stage <N>｜<阶段名>｜round <1..2>
+verdict: pass | conditional | return
+checked: <ISO 时间>
+
+| 编号 | 结果 | 证据 | 缺口 |
+|---|---|---|---|
+| S<N>-1 | pass/gap/unknown | <文件:节号/数字> | <要补什么> |
+
+### 改法（return 时必填，最多 3 条，按代价排序）
+1. <改哪个文件> → <改成什么> — 依据：<阈值或分布>
+
+### 遗留（两轮未过时填写）
+- <未通过项 + 影响>
+```
+
+判定规则：阻断项出现 `gap` 即 `return`；只有非阻断 `gap` 或 `unknown` 为 `conditional`；全 `pass` 为 `pass`。阻断项清单见 `stage-checks.md` 各节末行。
 
 ## 版本与校验
 

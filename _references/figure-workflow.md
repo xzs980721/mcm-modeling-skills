@@ -12,6 +12,8 @@
 
 ## 正文图件数量与计数
 
+本节的分题号下限与密度阈值以 [数值口径](thresholds.md) 第一节为准，本节只说明怎么计数。
+
 完整论文从引言到结论的正文图表数，按题号参考下限核对（近五年 O 奖 P25）：A 17、D 13、C 12、B 12、E 11、F 9；其中概念图至少 4 张、数据图至少 5 张。两类下限之外按论证需要灵活分配，不设上限。概念图须覆盖背景、总体解题路线、机制阐释或系统工作三类独立图件，并至少再有一张承担独立任务的概念图。数据图至少有一张有独立表达价值的非常规图。
 
 图表密度不要套"每页一张"：近五年 O 奖的图表总数 / 正文页数中位为 0.68–0.94，P25 低至 0.42（F 题）。按密度凑图会挤掉正文篇幅。
@@ -64,6 +66,8 @@
 补充的算法或任务流程图可读取 `nature-figure` 的 `references/vector-schematic-workflow.md` 和 `references/vector-schematic-style-rules.md`。汇总正文位置、主要关系、英文术语和风格，请用户集中确认简述。保留可编辑 SVG，运行 `scripts/audit_svg_schematic.py`，导出论文用矢量 PDF，按实际版面宽度检查标签、箭头、对齐和留白。
 
 ### 使用内置 Image2 生成图
+
+**不可用时怎么办。** Image2 不可用、被当届规则限制，或等待确认超过计划时间时，走降级路径而不是停摆：①在 plan.md 把 igure_route 改为 ector 并写明原因与时间；②用向量示意图出稿并在报告中标注 degraded；③记下该图对论证的影响。降级图仍计入图件数量，但正文与报告不得声称其由 Image2 生成。降级影响的是观感，不是图件承担的论证，因此不阻断流程。
 
 1. 读取 `nature-figure` 的 `references/ai-graphical-abstract-workflow.md`。基于本题内容和已确认风格写英文简述，明确对象、关系、构图、画幅、背景和避用元素。需要纳入论文时，核查当届 COMAP 规则和披露要求。
 2. 用实际 `nature-figure` 目录下的 `scripts/generate_openrouter_schematic.py` 离线生成 JSON。风格传给 `--style`，简述传给 `--prompt-file`，按需补充 `--title` 和 `--panel-map`，加 `--dry-run` 保留标准模板及科学约束。

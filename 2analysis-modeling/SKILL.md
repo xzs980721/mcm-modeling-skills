@@ -149,3 +149,14 @@ description: "美赛（MCM/ICM）数学建模赛题分析与建模设计合并�
 - 不跳过歧义分析。
 - 模型既要有数学表达，也要能被代码实现。
 - 若数据不足或题面不清，要明确记录风险和替代方案。
+
+## 阶段自检
+
+本阶段完成、进入下一阶段之前，调用 [mcm-judge](../mcm-judge/SKILL.md) 的 **check 模式**（Stage 2）：
+
+1. 它按 `mcm-judge/references/stage-checks.md` 的 S2 节逐条核对，结果追加到 `reports/STAGE_CHECK.md`。
+2. `verdict: return` 时，按它给出的不超过 3 条改法修，然后重跑核对；同一阶段最多 2 轮（见 [数值口径](../_references/thresholds.md)）。
+3. 两轮仍 `return` 时，把未通过项写进"遗留"节并前进——缺口留痕，不要卡住。
+4. 开始下一阶段前先读上一阶段的"遗留"节，确认已修。
+
+这里不重复 `6verify` 的机检项（编译、章节结构、图件存在性），只判"这一步做对了没有"。

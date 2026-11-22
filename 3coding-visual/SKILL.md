@@ -75,4 +75,15 @@ AI 在实现、求解和作图过程中，必须把关键中间过程保存成�
 
 ### Step 5: 交接数据图生成
 
-用建模报告和结果报告更新 `plan.md` 的图表清单。完整流程按清单分配，至少交付 5 张数据图。单独执行完整数据图阶段也至少交付 5 张。两种情况下均须至少有一张非常规数据图。按[正文图件数量与计数](../_references/figure-workflow.md#正文图件数量与计数)规划独立论证用途。将已确认的数据、各图的论证目的及论文图表风格交给 [mcm-data-figure](../mcm-data-figure/SKILL.md) 出图和验收。在 `reports/RESULTS_REPORT.md` 汇总定稿及源代码路径、选型与校验记录。
+用建模报告和结果报告更新 `plan.md` 的图表清单。完整流程按清单分配，数据图数量见[数值口径](../_references/thresholds.md)第一节；单独执行完整数据图阶段同样按该节下限。两种情况下均须至少有一张非常规数据图。按[正文图件数量与计数](../_references/figure-workflow.md#正文图件数量与计数)规划独立论证用途。将已确认的数据、各图的论证目的及论文图表风格交给 [mcm-data-figure](../mcm-data-figure/SKILL.md) 出图和验收。在 `reports/RESULTS_REPORT.md` 汇总定稿及源代码路径、选型与校验记录。
+
+## 阶段自检
+
+本阶段完成、进入下一阶段之前，调用 [mcm-judge](../mcm-judge/SKILL.md) 的 **check 模式**（Stage 3）：
+
+1. 它按 `mcm-judge/references/stage-checks.md` 的 S3 节逐条核对，结果追加到 `reports/STAGE_CHECK.md`。
+2. `verdict: return` 时，按它给出的不超过 3 条改法修，然后重跑核对；同一阶段最多 2 轮（见 [数值口径](../_references/thresholds.md)）。
+3. 两轮仍 `return` 时，把未通过项写进"遗留"节并前进——缺口留痕，不要卡住。
+4. 开始下一阶段前先读上一阶段的"遗留"节，确认已修。
+
+这里不重复 `6verify` 的机检项（编译、章节结构、图件存在性），只判"这一步做对了没有"。
