@@ -1,0 +1,2677 @@
+{
+ "meta": {
+  "n_total": 295,
+  "min_chars": 3000,
+  "years": [
+   2017,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "source": "papers.jsonl"
+ },
+ "problems": {
+  "A": {
+   "summary": {
+    "n": 49,
+    "pages": {
+     "median": 25,
+     "p25": 25,
+     "p75": 28,
+     "min": 10,
+     "max": 39
+    },
+    "fig_captions": {
+     "median": 18,
+     "p25": 13,
+     "p75": 21,
+     "min": 0,
+     "max": 29
+    },
+    "tab_captions": {
+     "median": 4,
+     "p25": 3,
+     "p75": 7,
+     "min": 0,
+     "max": 16
+    },
+    "fig_max_ref": {
+     "median": 17,
+     "p25": 13,
+     "p75": 20,
+     "min": 0,
+     "max": 29
+    },
+    "tab_max_ref": {
+     "median": 4,
+     "p25": 3,
+     "p75": 7,
+     "min": 0,
+     "max": 16
+    },
+    "abstract_words": {
+     "median": 478,
+     "p25": 436,
+     "p75": 510,
+     "min": 0,
+     "max": 630
+    },
+    "ref_count": {
+     "median": 10,
+     "p25": 5,
+     "p75": 14,
+     "min": 0,
+     "max": 33
+    },
+    "words": {
+     "median": 6953,
+     "p25": 6396,
+     "p75": 7581,
+     "min": 455,
+     "max": 10801
+    },
+    "sections": {
+     "references": 93.9,
+     "introduction": 89.8,
+     "assumptions": 79.6,
+     "toc": 77.6,
+     "solution": 75.5,
+     "model": 71.4,
+     "sensitivity": 71.4,
+     "notation": 57.1,
+     "strengths": 51.0,
+     "conclusion": 46.9,
+     "appendix": 46.9,
+     "weaknesses": 26.5,
+     "letter": 6.1,
+     "ai_report": 6.1,
+     "memo": 2.0
+    },
+    "kw_presence": {
+     "sensitivity": 98.0,
+     "assumption": 98.0,
+     "comparison": 95.9,
+     "strength": 89.8,
+     "simulation": 87.8,
+     "weakness": 85.7,
+     "ode_pde": 53.1,
+     "error": 51.0,
+     "limitation": 49.0,
+     "robust": 44.9,
+     "optimization": 40.8,
+     "validation": 32.7,
+     "uncertainty": 26.5,
+     "classifier": 24.5,
+     "regression": 20.4,
+     "trade_off": 16.3,
+     "baseline": 14.3,
+     "clustering": 14.3,
+     "monte_carlo": 10.2,
+     "queuing": 8.2,
+     "ahp": 8.2,
+     "linear_programming": 8.2,
+     "cellular_automata": 6.1,
+     "network": 6.1,
+     "agent_based": 6.1,
+     "particle_swarm": 6.1,
+     "system_dynamics": 4.1,
+     "topsis": 4.1,
+     "neural_net": 4.1,
+     "genetic_algo": 4.1,
+     "simulated_annealing": 4.1,
+     "game_theory": 4.1,
+     "markov": 4.1,
+     "kmeans": 4.1,
+     "arima": 2.0,
+     "entropy_weight": 2.0,
+     "pca": 2.0,
+     "grey_relation": 2.0
+    },
+    "kw_intensity": {
+     "sensitivity": 8,
+     "error": 1,
+     "assumption": 9,
+     "limitation": 0,
+     "weakness": 3,
+     "strength": 4,
+     "comparison": 5,
+     "optimization": 0,
+     "queuing": 0,
+     "robust": 0,
+     "validation": 0,
+     "simulation": 8,
+     "regression": 0,
+     "ode_pde": 1,
+     "arima": 0,
+     "classifier": 0,
+     "cellular_automata": 0,
+     "system_dynamics": 0,
+     "trade_off": 0,
+     "uncertainty": 0,
+     "entropy_weight": 0,
+     "monte_carlo": 0,
+     "baseline": 0,
+     "network": 0,
+     "ahp": 0,
+     "topsis": 0,
+     "neural_net": 0,
+     "linear_programming": 0,
+     "genetic_algo": 0,
+     "simulated_annealing": 0,
+     "clustering": 0,
+     "agent_based": 0,
+     "game_theory": 0,
+     "pca": 0,
+     "markov": 0,
+     "particle_swarm": 0,
+     "grey_relation": 0,
+     "kmeans": 0
+    },
+    "abstract_first_type": {
+     "other": 51.0,
+     "background": 38.8,
+     "result": 6.1,
+     "method": 4.1
+    },
+    "abstract_has_number": 98.0,
+    "abstract_words_ok": 89.8
+   },
+   "by_year": {
+    "2017": {
+     "n": 4,
+     "pages": 30,
+     "fig_captions": 13,
+     "abstract_words": 500,
+     "ai_report": 0
+    },
+    "2019": {
+     "n": 7,
+     "pages": 24,
+     "fig_captions": 7,
+     "abstract_words": 436,
+     "ai_report": 0
+    },
+    "2020": {
+     "n": 8,
+     "pages": 32,
+     "fig_captions": 15,
+     "abstract_words": 510,
+     "ai_report": 0
+    },
+    "2021": {
+     "n": 6,
+     "pages": 25,
+     "fig_captions": 19,
+     "abstract_words": 477,
+     "ai_report": 0
+    },
+    "2022": {
+     "n": 7,
+     "pages": 25,
+     "fig_captions": 21,
+     "abstract_words": 472,
+     "ai_report": 0
+    },
+    "2023": {
+     "n": 7,
+     "pages": 25,
+     "fig_captions": 19,
+     "abstract_words": 500,
+     "ai_report": 0
+    },
+    "2024": {
+     "n": 5,
+     "pages": 25,
+     "fig_captions": 21,
+     "abstract_words": 491,
+     "ai_report": 40.0
+    },
+    "2025": {
+     "n": 5,
+     "pages": 25,
+     "fig_captions": 13,
+     "abstract_words": 386,
+     "ai_report": 20.0
+    }
+   },
+   "recent": {
+    "n": 30,
+    "pages": {
+     "median": 25,
+     "p25": 25,
+     "p75": 25,
+     "min": 24,
+     "max": 31
+    },
+    "fig_captions": {
+     "median": 20,
+     "p25": 17,
+     "p75": 22,
+     "min": 10,
+     "max": 29
+    },
+    "tab_captions": {
+     "median": 4,
+     "p25": 3,
+     "p75": 7,
+     "min": 1,
+     "max": 14
+    },
+    "fig_max_ref": {
+     "median": 18,
+     "p25": 16,
+     "p75": 21,
+     "min": 9,
+     "max": 29
+    },
+    "tab_max_ref": {
+     "median": 4,
+     "p25": 3,
+     "p75": 6,
+     "min": 1,
+     "max": 14
+    },
+    "abstract_words": {
+     "median": 472,
+     "p25": 441,
+     "p75": 527,
+     "min": 0,
+     "max": 615
+    },
+    "ref_count": {
+     "median": 11,
+     "p25": 8,
+     "p75": 14,
+     "min": 0,
+     "max": 33
+    },
+    "words": {
+     "median": 6801,
+     "p25": 6238,
+     "p75": 7209,
+     "min": 4687,
+     "max": 10801
+    },
+    "sections": {
+     "introduction": 96.7,
+     "references": 96.7,
+     "assumptions": 83.3,
+     "solution": 83.3,
+     "sensitivity": 80.0,
+     "toc": 76.7,
+     "model": 70.0,
+     "notation": 66.7,
+     "strengths": 56.7,
+     "conclusion": 40.0,
+     "appendix": 26.7,
+     "weaknesses": 20.0,
+     "ai_report": 10.0,
+     "memo": 3.3
+    },
+    "kw_presence": {
+     "assumption": 100.0,
+     "strength": 100.0,
+     "sensitivity": 96.7,
+     "weakness": 96.7,
+     "comparison": 96.7,
+     "simulation": 96.7,
+     "ode_pde": 53.3,
+     "robust": 50.0,
+     "error": 43.3,
+     "optimization": 43.3,
+     "validation": 36.7,
+     "limitation": 36.7,
+     "uncertainty": 33.3,
+     "classifier": 30.0,
+     "trade_off": 20.0,
+     "regression": 16.7,
+     "monte_carlo": 13.3,
+     "baseline": 13.3,
+     "queuing": 10.0,
+     "clustering": 10.0,
+     "system_dynamics": 6.7,
+     "game_theory": 6.7,
+     "linear_programming": 6.7,
+     "particle_swarm": 6.7,
+     "entropy_weight": 3.3,
+     "ahp": 3.3,
+     "network": 3.3,
+     "cellular_automata": 3.3,
+     "markov": 3.3,
+     "simulated_annealing": 3.3,
+     "kmeans": 3.3,
+     "topsis": 3.3
+    },
+    "kw_intensity": {
+     "sensitivity": 7,
+     "error": 0,
+     "assumption": 9,
+     "weakness": 3,
+     "strength": 4,
+     "comparison": 6,
+     "simulation": 10,
+     "system_dynamics": 0,
+     "validation": 0,
+     "limitation": 0,
+     "optimization": 0,
+     "queuing": 0,
+     "trade_off": 0,
+     "classifier": 0,
+     "ode_pde": 1,
+     "uncertainty": 0,
+     "entropy_weight": 0,
+     "monte_carlo": 0,
+     "regression": 0,
+     "robust": 0,
+     "clustering": 0,
+     "ahp": 0,
+     "baseline": 0,
+     "game_theory": 0,
+     "network": 0,
+     "cellular_automata": 0,
+     "linear_programming": 0,
+     "markov": 0,
+     "particle_swarm": 0,
+     "simulated_annealing": 0,
+     "kmeans": 0,
+     "topsis": 0
+    },
+    "abstract_first_type": {
+     "other": 43.3,
+     "background": 40.0,
+     "result": 10.0,
+     "method": 6.7
+    },
+    "abstract_has_number": 96.7,
+    "abstract_words_ok": 93.3
+   },
+   "content": {
+    "n": 49,
+    "models": {
+     "diff_eq": 55.1,
+     "curve_fit": 32.7,
+     "equilibrium": 26.5,
+     "regression": 20.4,
+     "stat_test": 12.2,
+     "heuristic": 12.2,
+     "weighting": 10.2,
+     "clustering": 10.2,
+     "monte_carlo": 10.2,
+     "risk": 8.2,
+     "lp_milp": 8.2,
+     "nonlinear_opt": 8.2,
+     "simulation": 8.2,
+     "cellular": 6.1
+    },
+    "arg_attr": {
+     "cover": 40.8,
+     "median": 0,
+     "p75": 1
+    },
+    "arg_compare": {
+     "cover": 81.6,
+     "median": 2,
+     "p75": 4
+    },
+    "arg_lit": {
+     "cover": 20.4,
+     "median": 0,
+     "p75": 0
+    },
+    "arg_data": {
+     "cover": 14.3,
+     "median": 0,
+     "p75": 0
+    },
+    "param_sent": {
+     "cover": 87.8,
+     "median": 3,
+     "p75": 5
+    },
+    "valid_sent": {
+     "cover": 98.0,
+     "median": 10,
+     "p75": 14
+    },
+    "decide_sent": {
+     "cover": 81.6,
+     "median": 2,
+     "p75": 4
+    },
+    "assume": {
+     "median": 12,
+     "justified_cover": 85.7
+    },
+    "taskmark": 2
+   }
+  },
+  "B": {
+   "summary": {
+    "n": 39,
+    "pages": {
+     "median": 25,
+     "p25": 25,
+     "p75": 25,
+     "min": 18,
+     "max": 33
+    },
+    "fig_captions": {
+     "median": 13,
+     "p25": 12,
+     "p75": 15,
+     "min": 0,
+     "max": 25
+    },
+    "tab_captions": {
+     "median": 5,
+     "p25": 3,
+     "p75": 6,
+     "min": 0,
+     "max": 15
+    },
+    "fig_max_ref": {
+     "median": 13,
+     "p25": 11,
+     "p75": 15,
+     "min": 0,
+     "max": 21
+    },
+    "tab_max_ref": {
+     "median": 5,
+     "p25": 3,
+     "p75": 6,
+     "min": 0,
+     "max": 14
+    },
+    "abstract_words": {
+     "median": 445,
+     "p25": 380,
+     "p75": 518,
+     "min": 0,
+     "max": 600
+    },
+    "ref_count": {
+     "median": 6,
+     "p25": 2,
+     "p75": 9,
+     "min": 0,
+     "max": 21
+    },
+    "words": {
+     "median": 6231,
+     "p25": 5576,
+     "p75": 6992,
+     "min": 2814,
+     "max": 9225
+    },
+    "sections": {
+     "introduction": 92.3,
+     "references": 92.3,
+     "sensitivity": 82.1,
+     "solution": 79.5,
+     "assumptions": 76.9,
+     "model": 71.8,
+     "toc": 66.7,
+     "notation": 61.5,
+     "strengths": 61.5,
+     "conclusion": 51.3,
+     "memo": 38.5,
+     "appendix": 33.3,
+     "weaknesses": 12.8,
+     "ai_report": 10.3,
+     "letter": 5.1,
+     "restatement": 2.6
+    },
+    "kw_presence": {
+     "assumption": 100.0,
+     "sensitivity": 97.4,
+     "strength": 89.7,
+     "comparison": 87.2,
+     "optimization": 87.2,
+     "weakness": 84.6,
+     "simulation": 79.5,
+     "error": 64.1,
+     "robust": 59.0,
+     "limitation": 53.8,
+     "network": 33.3,
+     "validation": 28.2,
+     "uncertainty": 25.6,
+     "classifier": 23.1,
+     "regression": 23.1,
+     "ahp": 20.5,
+     "genetic_algo": 20.5,
+     "ode_pde": 20.5,
+     "linear_programming": 17.9,
+     "clustering": 17.9,
+     "baseline": 15.4,
+     "queuing": 12.8,
+     "monte_carlo": 12.8,
+     "pca": 12.8,
+     "dijkstra": 10.3,
+     "entropy_weight": 10.3,
+     "cellular_automata": 7.7,
+     "integer_programming": 7.7,
+     "game_theory": 7.7,
+     "topsis": 7.7,
+     "trade_off": 7.7,
+     "system_dynamics": 7.7,
+     "particle_swarm": 7.7,
+     "markov": 5.1,
+     "lstm": 5.1,
+     "neural_net": 5.1,
+     "arima": 5.1,
+     "kmeans": 2.6,
+     "ablation": 2.6,
+     "agent_based": 2.6,
+     "simulated_annealing": 2.6
+    },
+    "kw_intensity": {
+     "sensitivity": 8,
+     "error": 1,
+     "assumption": 7,
+     "weakness": 3,
+     "strength": 4,
+     "comparison": 3,
+     "optimization": 9,
+     "simulation": 5,
+     "classifier": 0,
+     "cellular_automata": 0,
+     "queuing": 0,
+     "robust": 1,
+     "validation": 0,
+     "limitation": 1,
+     "monte_carlo": 0,
+     "ahp": 0,
+     "integer_programming": 0,
+     "linear_programming": 0,
+     "game_theory": 0,
+     "network": 0,
+     "genetic_algo": 0,
+     "uncertainty": 0,
+     "regression": 0,
+     "ode_pde": 0,
+     "dijkstra": 0,
+     "clustering": 0,
+     "entropy_weight": 0,
+     "topsis": 0,
+     "baseline": 0,
+     "trade_off": 0,
+     "system_dynamics": 0,
+     "markov": 0,
+     "kmeans": 0,
+     "particle_swarm": 0,
+     "ablation": 0,
+     "pca": 0,
+     "lstm": 0,
+     "agent_based": 0,
+     "neural_net": 0,
+     "simulated_annealing": 0,
+     "arima": 0
+    },
+    "abstract_first_type": {
+     "other": 46.2,
+     "background": 41.0,
+     "result": 10.3,
+     "method": 2.6
+    },
+    "abstract_has_number": 97.4,
+    "abstract_words_ok": 97.4
+   },
+   "by_year": {
+    "2017": {
+     "n": 5,
+     "pages": 23,
+     "fig_captions": 13,
+     "abstract_words": 397,
+     "ai_report": 0
+    },
+    "2019": {
+     "n": 5,
+     "pages": 25,
+     "fig_captions": 15,
+     "abstract_words": 360,
+     "ai_report": 0
+    },
+    "2020": {
+     "n": 4,
+     "pages": 27,
+     "fig_captions": 15,
+     "abstract_words": 497,
+     "ai_report": 0
+    },
+    "2021": {
+     "n": 5,
+     "pages": 25,
+     "fig_captions": 18,
+     "abstract_words": 589,
+     "ai_report": 0
+    },
+    "2022": {
+     "n": 6,
+     "pages": 25,
+     "fig_captions": 12,
+     "abstract_words": 447,
+     "ai_report": 0
+    },
+    "2023": {
+     "n": 3,
+     "pages": 25,
+     "fig_captions": 11,
+     "abstract_words": 518,
+     "ai_report": 0
+    },
+    "2024": {
+     "n": 4,
+     "pages": 25,
+     "fig_captions": 18,
+     "abstract_words": 445,
+     "ai_report": 0
+    },
+    "2025": {
+     "n": 7,
+     "pages": 26,
+     "fig_captions": 13,
+     "abstract_words": 430,
+     "ai_report": 57.1
+    }
+   },
+   "recent": {
+    "n": 25,
+    "pages": {
+     "median": 25,
+     "p25": 25,
+     "p75": 25,
+     "min": 24,
+     "max": 28
+    },
+    "fig_captions": {
+     "median": 13,
+     "p25": 12,
+     "p75": 16,
+     "min": 7,
+     "max": 21
+    },
+    "tab_captions": {
+     "median": 5,
+     "p25": 3,
+     "p75": 6,
+     "min": 0,
+     "max": 15
+    },
+    "fig_max_ref": {
+     "median": 14,
+     "p25": 12,
+     "p75": 15,
+     "min": 7,
+     "max": 21
+    },
+    "tab_max_ref": {
+     "median": 5,
+     "p25": 3,
+     "p75": 6,
+     "min": 0,
+     "max": 14
+    },
+    "abstract_words": {
+     "median": 447,
+     "p25": 414,
+     "p75": 529,
+     "min": 0,
+     "max": 600
+    },
+    "ref_count": {
+     "median": 5,
+     "p25": 0,
+     "p75": 7,
+     "min": 0,
+     "max": 19
+    },
+    "words": {
+     "median": 6214,
+     "p25": 5409,
+     "p75": 7133,
+     "min": 2814,
+     "max": 8619
+    },
+    "sections": {
+     "introduction": 92.0,
+     "sensitivity": 88.0,
+     "references": 88.0,
+     "solution": 84.0,
+     "assumptions": 76.0,
+     "notation": 72.0,
+     "model": 68.0,
+     "toc": 60.0,
+     "strengths": 52.0,
+     "conclusion": 40.0,
+     "memo": 36.0,
+     "appendix": 24.0,
+     "ai_report": 16.0,
+     "weaknesses": 4.0
+    },
+    "kw_presence": {
+     "sensitivity": 100.0,
+     "assumption": 100.0,
+     "optimization": 92.0,
+     "comparison": 88.0,
+     "strength": 84.0,
+     "weakness": 76.0,
+     "simulation": 76.0,
+     "error": 68.0,
+     "robust": 60.0,
+     "limitation": 52.0,
+     "validation": 40.0,
+     "uncertainty": 36.0,
+     "network": 32.0,
+     "regression": 32.0,
+     "ode_pde": 28.0,
+     "classifier": 24.0,
+     "genetic_algo": 24.0,
+     "baseline": 24.0,
+     "ahp": 20.0,
+     "clustering": 20.0,
+     "linear_programming": 16.0,
+     "monte_carlo": 16.0,
+     "entropy_weight": 16.0,
+     "pca": 16.0,
+     "game_theory": 12.0,
+     "topsis": 12.0,
+     "trade_off": 12.0,
+     "system_dynamics": 12.0,
+     "particle_swarm": 8.0,
+     "lstm": 8.0,
+     "integer_programming": 8.0,
+     "arima": 8.0,
+     "dijkstra": 4.0,
+     "kmeans": 4.0,
+     "ablation": 4.0,
+     "markov": 4.0,
+     "cellular_automata": 4.0,
+     "simulated_annealing": 4.0,
+     "neural_net": 4.0
+    },
+    "kw_intensity": {
+     "sensitivity": 9,
+     "robust": 1,
+     "assumption": 8,
+     "weakness": 2,
+     "strength": 4,
+     "comparison": 3,
+     "optimization": 9,
+     "simulation": 4,
+     "classifier": 0,
+     "ahp": 0,
+     "error": 1,
+     "game_theory": 0,
+     "network": 0,
+     "linear_programming": 0,
+     "limitation": 1,
+     "genetic_algo": 0,
+     "uncertainty": 0,
+     "regression": 0,
+     "ode_pde": 0,
+     "dijkstra": 0,
+     "validation": 0,
+     "monte_carlo": 0,
+     "clustering": 0,
+     "entropy_weight": 0,
+     "topsis": 0,
+     "baseline": 0,
+     "trade_off": 0,
+     "system_dynamics": 0,
+     "kmeans": 0,
+     "particle_swarm": 0,
+     "ablation": 0,
+     "lstm": 0,
+     "integer_programming": 0,
+     "markov": 0,
+     "pca": 0,
+     "cellular_automata": 0,
+     "simulated_annealing": 0,
+     "neural_net": 0,
+     "arima": 0
+    },
+    "abstract_first_type": {
+     "background": 52.0,
+     "other": 36.0,
+     "result": 8.0,
+     "method": 4.0
+    },
+    "abstract_has_number": 96.0,
+    "abstract_words_ok": 96.0
+   },
+   "content": {
+    "n": 39,
+    "models": {
+     "multi_objective": 38.5,
+     "heuristic": 35.9,
+     "weighting": 30.8,
+     "curve_fit": 28.2,
+     "equilibrium": 28.2,
+     "lp_milp": 23.1,
+     "regression": 20.5,
+     "diff_eq": 20.5,
+     "dim_reduction": 17.9,
+     "graph": 17.9,
+     "risk": 15.4,
+     "queuing": 12.8,
+     "monte_carlo": 12.8,
+     "nonlinear_opt": 10.3
+    },
+    "arg_attr": {
+     "cover": 51.3,
+     "median": 1,
+     "p75": 1
+    },
+    "arg_compare": {
+     "cover": 69.2,
+     "median": 2,
+     "p75": 3
+    },
+    "arg_lit": {
+     "cover": 10.3,
+     "median": 0,
+     "p75": 0
+    },
+    "arg_data": {
+     "cover": 20.5,
+     "median": 0,
+     "p75": 0
+    },
+    "param_sent": {
+     "cover": 82.1,
+     "median": 3,
+     "p75": 3
+    },
+    "valid_sent": {
+     "cover": 100.0,
+     "median": 7,
+     "p75": 10
+    },
+    "decide_sent": {
+     "cover": 79.5,
+     "median": 3,
+     "p75": 6
+    },
+    "assume": {
+     "median": 10,
+     "justified_cover": 87.2
+    },
+    "taskmark": 2
+   }
+  },
+  "C": {
+   "summary": {
+    "n": 73,
+    "pages": {
+     "median": 25,
+     "p25": 25,
+     "p75": 27,
+     "min": 22,
+     "max": 43
+    },
+    "fig_captions": {
+     "median": 15,
+     "p25": 12,
+     "p75": 19,
+     "min": 0,
+     "max": 28
+    },
+    "tab_captions": {
+     "median": 5,
+     "p25": 2,
+     "p75": 9,
+     "min": 0,
+     "max": 19
+    },
+    "fig_max_ref": {
+     "median": 15,
+     "p25": 12,
+     "p75": 18,
+     "min": 0,
+     "max": 26
+    },
+    "tab_max_ref": {
+     "median": 5,
+     "p25": 3,
+     "p75": 10,
+     "min": 0,
+     "max": 18
+    },
+    "abstract_words": {
+     "median": 437,
+     "p25": 386,
+     "p75": 490,
+     "min": 0,
+     "max": 774
+    },
+    "ref_count": {
+     "median": 7,
+     "p25": 2,
+     "p75": 12,
+     "min": 0,
+     "max": 78
+    },
+    "words": {
+     "median": 6775,
+     "p25": 6049,
+     "p75": 8051,
+     "min": 519,
+     "max": 14383
+    },
+    "sections": {
+     "references": 97.3,
+     "introduction": 95.9,
+     "model": 84.9,
+     "solution": 82.2,
+     "assumptions": 74.0,
+     "toc": 69.9,
+     "strengths": 68.5,
+     "sensitivity": 65.8,
+     "conclusion": 50.7,
+     "appendix": 42.5,
+     "memo": 39.7,
+     "notation": 32.9,
+     "weaknesses": 21.9,
+     "ai_report": 17.8,
+     "letter": 9.6,
+     "restatement": 1.4
+    },
+    "kw_presence": {
+     "comparison": 98.6,
+     "assumption": 97.3,
+     "error": 91.8,
+     "strength": 91.8,
+     "sensitivity": 86.3,
+     "weakness": 79.5,
+     "optimization": 75.3,
+     "regression": 71.2,
+     "robust": 65.8,
+     "network": 65.8,
+     "simulation": 57.5,
+     "uncertainty": 56.2,
+     "validation": 56.2,
+     "classifier": 54.8,
+     "limitation": 49.3,
+     "neural_net": 47.9,
+     "clustering": 41.1,
+     "random_forest": 27.4,
+     "arima": 26.0,
+     "lstm": 24.7,
+     "pca": 23.3,
+     "monte_carlo": 20.5,
+     "kmeans": 20.5,
+     "baseline": 19.2,
+     "markov": 17.8,
+     "ode_pde": 12.3,
+     "cellular_automata": 6.8,
+     "genetic_algo": 6.8,
+     "ahp": 5.5,
+     "grey_relation": 4.1,
+     "trade_off": 4.1,
+     "game_theory": 4.1,
+     "queuing": 2.7,
+     "topsis": 1.4,
+     "ablation": 1.4,
+     "agent_based": 1.4,
+     "entropy_weight": 1.4,
+     "linear_programming": 1.4
+    },
+    "kw_intensity": {
+     "sensitivity": 6,
+     "robust": 1,
+     "uncertainty": 1,
+     "error": 7,
+     "assumption": 6,
+     "limitation": 0,
+     "weakness": 2,
+     "strength": 4,
+     "comparison": 6,
+     "simulation": 1,
+     "network": 2,
+     "cellular_automata": 0,
+     "validation": 1,
+     "baseline": 0,
+     "regression": 6,
+     "optimization": 2,
+     "clustering": 0,
+     "classifier": 1,
+     "neural_net": 0,
+     "monte_carlo": 0,
+     "markov": 0,
+     "lstm": 0,
+     "arima": 0,
+     "kmeans": 0,
+     "ode_pde": 0,
+     "ahp": 0,
+     "topsis": 0,
+     "grey_relation": 0,
+     "pca": 0,
+     "random_forest": 0,
+     "ablation": 0,
+     "trade_off": 0,
+     "genetic_algo": 0,
+     "game_theory": 0,
+     "queuing": 0,
+     "agent_based": 0,
+     "entropy_weight": 0,
+     "linear_programming": 0
+    },
+    "abstract_first_type": {
+     "background": 56.2,
+     "other": 30.1,
+     "method": 8.2,
+     "result": 5.5
+    },
+    "abstract_has_number": 97.3,
+    "abstract_words_ok": 89.0
+   },
+   "by_year": {
+    "2017": {
+     "n": 4,
+     "pages": 29,
+     "fig_captions": 22,
+     "abstract_words": 384,
+     "ai_report": 0
+    },
+    "2019": {
+     "n": 6,
+     "pages": 29,
+     "fig_captions": 11,
+     "abstract_words": 483,
+     "ai_report": 0
+    },
+    "2020": {
+     "n": 6,
+     "pages": 33,
+     "fig_captions": 8,
+     "abstract_words": 465,
+     "ai_report": 0
+    },
+    "2021": {
+     "n": 6,
+     "pages": 25,
+     "fig_captions": 13,
+     "abstract_words": 479,
+     "ai_report": 0
+    },
+    "2022": {
+     "n": 10,
+     "pages": 25,
+     "fig_captions": 13,
+     "abstract_words": 442,
+     "ai_report": 0
+    },
+    "2023": {
+     "n": 12,
+     "pages": 25,
+     "fig_captions": 17,
+     "abstract_words": 442,
+     "ai_report": 0
+    },
+    "2024": {
+     "n": 11,
+     "pages": 26,
+     "fig_captions": 16,
+     "abstract_words": 423,
+     "ai_report": 54.5
+    },
+    "2025": {
+     "n": 18,
+     "pages": 25,
+     "fig_captions": 15,
+     "abstract_words": 390,
+     "ai_report": 38.9
+    }
+   },
+   "recent": {
+    "n": 57,
+    "pages": {
+     "median": 25,
+     "p25": 25,
+     "p75": 26,
+     "min": 22,
+     "max": 31
+    },
+    "fig_captions": {
+     "median": 15,
+     "p25": 12,
+     "p75": 18,
+     "min": 0,
+     "max": 28
+    },
+    "tab_captions": {
+     "median": 5,
+     "p25": 3,
+     "p75": 9,
+     "min": 0,
+     "max": 19
+    },
+    "fig_max_ref": {
+     "median": 16,
+     "p25": 13,
+     "p75": 18,
+     "min": 0,
+     "max": 26
+    },
+    "tab_max_ref": {
+     "median": 5,
+     "p25": 3,
+     "p75": 10,
+     "min": 0,
+     "max": 18
+    },
+    "abstract_words": {
+     "median": 436,
+     "p25": 386,
+     "p75": 485,
+     "min": 0,
+     "max": 688
+    },
+    "ref_count": {
+     "median": 7,
+     "p25": 2,
+     "p75": 10,
+     "min": 0,
+     "max": 26
+    },
+    "words": {
+     "median": 6664,
+     "p25": 5903,
+     "p75": 7330,
+     "min": 4395,
+     "max": 9727
+    },
+    "sections": {
+     "introduction": 98.2,
+     "references": 98.2,
+     "model": 84.2,
+     "solution": 82.5,
+     "assumptions": 80.7,
+     "strengths": 68.4,
+     "sensitivity": 68.4,
+     "toc": 66.7,
+     "conclusion": 43.9,
+     "memo": 42.1,
+     "notation": 38.6,
+     "appendix": 31.6,
+     "weaknesses": 22.8,
+     "ai_report": 22.8,
+     "letter": 5.3,
+     "restatement": 1.8
+    },
+    "kw_presence": {
+     "assumption": 100.0,
+     "comparison": 100.0,
+     "strength": 96.5,
+     "error": 93.0,
+     "optimization": 89.5,
+     "sensitivity": 86.0,
+     "weakness": 78.9,
+     "regression": 73.7,
+     "robust": 70.2,
+     "network": 68.4,
+     "uncertainty": 64.9,
+     "validation": 61.4,
+     "classifier": 59.6,
+     "simulation": 57.9,
+     "neural_net": 56.1,
+     "limitation": 50.9,
+     "clustering": 43.9,
+     "random_forest": 33.3,
+     "arima": 31.6,
+     "lstm": 29.8,
+     "pca": 24.6,
+     "monte_carlo": 22.8,
+     "kmeans": 22.8,
+     "baseline": 19.3,
+     "markov": 19.3,
+     "ode_pde": 10.5,
+     "genetic_algo": 8.8,
+     "ahp": 5.3,
+     "grey_relation": 5.3,
+     "trade_off": 5.3,
+     "game_theory": 5.3,
+     "topsis": 1.8,
+     "ablation": 1.8,
+     "cellular_automata": 1.8,
+     "entropy_weight": 1.8,
+     "queuing": 1.8,
+     "linear_programming": 1.8
+    },
+    "kw_intensity": {
+     "validation": 2,
+     "error": 7,
+     "assumption": 6,
+     "limitation": 1,
+     "weakness": 2,
+     "strength": 4,
+     "comparison": 6,
+     "optimization": 3,
+     "simulation": 1,
+     "classifier": 1,
+     "network": 3,
+     "neural_net": 1,
+     "sensitivity": 6,
+     "robust": 2,
+     "uncertainty": 1,
+     "baseline": 0,
+     "monte_carlo": 0,
+     "regression": 7,
+     "markov": 0,
+     "lstm": 0,
+     "arima": 0,
+     "clustering": 0,
+     "kmeans": 0,
+     "ode_pde": 0,
+     "ahp": 0,
+     "topsis": 0,
+     "grey_relation": 0,
+     "pca": 0,
+     "random_forest": 0,
+     "ablation": 0,
+     "trade_off": 0,
+     "genetic_algo": 0,
+     "game_theory": 0,
+     "cellular_automata": 0,
+     "entropy_weight": 0,
+     "queuing": 0,
+     "linear_programming": 0
+    },
+    "abstract_first_type": {
+     "background": 57.9,
+     "other": 31.6,
+     "method": 7.0,
+     "result": 3.5
+    },
+    "abstract_has_number": 96.5,
+    "abstract_words_ok": 89.5
+   },
+   "content": {
+    "n": 73,
+    "models": {
+     "regression": 69.9,
+     "neural_net": 54.8,
+     "stat_test": 41.1,
+     "tree_ml": 41.1,
+     "curve_fit": 35.6,
+     "spatial": 34.2,
+     "dim_reduction": 30.1,
+     "timeseries": 27.4,
+     "clustering": 23.3,
+     "monte_carlo": 20.5,
+     "risk": 19.2,
+     "markov": 17.8,
+     "mcdm_rank": 13.7,
+     "diff_eq": 13.7
+    },
+    "arg_attr": {
+     "cover": 47.9,
+     "median": 0,
+     "p75": 2
+    },
+    "arg_compare": {
+     "cover": 84.9,
+     "median": 3,
+     "p75": 5
+    },
+    "arg_lit": {
+     "cover": 11.0,
+     "median": 0,
+     "p75": 0
+    },
+    "arg_data": {
+     "cover": 15.1,
+     "median": 0,
+     "p75": 0
+    },
+    "param_sent": {
+     "cover": 87.7,
+     "median": 3,
+     "p75": 5
+    },
+    "valid_sent": {
+     "cover": 89.0,
+     "median": 6,
+     "p75": 12
+    },
+    "decide_sent": {
+     "cover": 80.8,
+     "median": 4,
+     "p75": 8
+    },
+    "assume": {
+     "median": 6,
+     "justified_cover": 64.4
+    },
+    "taskmark": 3
+   }
+  },
+  "D": {
+   "summary": {
+    "n": 42,
+    "pages": {
+     "median": 25,
+     "p25": 23,
+     "p75": 27,
+     "min": 20,
+     "max": 37
+    },
+    "fig_captions": {
+     "median": 16,
+     "p25": 12,
+     "p75": 19,
+     "min": 0,
+     "max": 32
+    },
+    "tab_captions": {
+     "median": 4,
+     "p25": 2,
+     "p75": 6,
+     "min": 0,
+     "max": 18
+    },
+    "fig_max_ref": {
+     "median": 15,
+     "p25": 10,
+     "p75": 18,
+     "min": 0,
+     "max": 72
+    },
+    "tab_max_ref": {
+     "median": 4,
+     "p25": 3,
+     "p75": 6,
+     "min": 0,
+     "max": 17
+    },
+    "abstract_words": {
+     "median": 422,
+     "p25": 376,
+     "p75": 469,
+     "min": 1,
+     "max": 674
+    },
+    "ref_count": {
+     "median": 7,
+     "p25": 3,
+     "p75": 11,
+     "min": 0,
+     "max": 61
+    },
+    "words": {
+     "median": 6586,
+     "p25": 5773,
+     "p75": 7346,
+     "min": 4215,
+     "max": 10020
+    },
+    "sections": {
+     "references": 97.6,
+     "introduction": 88.1,
+     "toc": 73.8,
+     "model": 71.4,
+     "assumptions": 66.7,
+     "solution": 57.1,
+     "conclusion": 54.8,
+     "sensitivity": 52.4,
+     "strengths": 50.0,
+     "appendix": 40.5,
+     "notation": 31.0,
+     "weaknesses": 14.3,
+     "restatement": 9.5,
+     "memo": 9.5,
+     "letter": 7.1,
+     "ai_report": 7.1
+    },
+    "kw_presence": {
+     "assumption": 97.6,
+     "comparison": 97.6,
+     "weakness": 90.5,
+     "strength": 90.5,
+     "network": 90.5,
+     "sensitivity": 76.2,
+     "optimization": 73.8,
+     "simulation": 66.7,
+     "error": 64.3,
+     "robust": 59.5,
+     "limitation": 50.0,
+     "validation": 40.5,
+     "dijkstra": 40.5,
+     "clustering": 35.7,
+     "queuing": 33.3,
+     "classifier": 31.0,
+     "uncertainty": 21.4,
+     "regression": 21.4,
+     "entropy_weight": 21.4,
+     "markov": 19.0,
+     "ahp": 14.3,
+     "genetic_algo": 14.3,
+     "pca": 14.3,
+     "agent_based": 11.9,
+     "monte_carlo": 11.9,
+     "trade_off": 11.9,
+     "system_dynamics": 9.5,
+     "ode_pde": 9.5,
+     "neural_net": 9.5,
+     "linear_programming": 9.5,
+     "kmeans": 7.1,
+     "topsis": 7.1,
+     "cellular_automata": 4.8,
+     "baseline": 4.8,
+     "simulated_annealing": 4.8,
+     "lstm": 4.8,
+     "arima": 2.4
+    },
+    "kw_intensity": {
+     "sensitivity": 5,
+     "robust": 1,
+     "validation": 0,
+     "error": 1,
+     "assumption": 5,
+     "weakness": 3,
+     "strength": 3,
+     "comparison": 4,
+     "optimization": 3,
+     "simulation": 3,
+     "classifier": 0,
+     "markov": 0,
+     "queuing": 0,
+     "uncertainty": 0,
+     "limitation": 0,
+     "network": 28,
+     "cellular_automata": 0,
+     "system_dynamics": 0,
+     "dijkstra": 0,
+     "regression": 0,
+     "clustering": 0,
+     "ahp": 0,
+     "entropy_weight": 0,
+     "ode_pde": 0,
+     "arima": 0,
+     "baseline": 0,
+     "genetic_algo": 0,
+     "agent_based": 0,
+     "monte_carlo": 0,
+     "trade_off": 0,
+     "kmeans": 0,
+     "neural_net": 0,
+     "pca": 0,
+     "linear_programming": 0,
+     "simulated_annealing": 0,
+     "lstm": 0,
+     "topsis": 0
+    },
+    "abstract_first_type": {
+     "other": 42.9,
+     "background": 35.7,
+     "result": 16.7,
+     "method": 4.8
+    },
+    "abstract_has_number": 100.0,
+    "abstract_words_ok": 92.9
+   },
+   "by_year": {
+    "2017": {
+     "n": 5,
+     "pages": 30,
+     "fig_captions": 17,
+     "abstract_words": 414,
+     "ai_report": 0
+    },
+    "2019": {
+     "n": 7,
+     "pages": 27,
+     "fig_captions": 16,
+     "abstract_words": 356,
+     "ai_report": 0
+    },
+    "2020": {
+     "n": 7,
+     "pages": 24,
+     "fig_captions": 10,
+     "abstract_words": 469,
+     "ai_report": 0
+    },
+    "2021": {
+     "n": 8,
+     "pages": 24,
+     "fig_captions": 19,
+     "abstract_words": 477,
+     "ai_report": 0
+    },
+    "2022": {
+     "n": 4,
+     "pages": 23,
+     "fig_captions": 14,
+     "abstract_words": 474,
+     "ai_report": 0
+    },
+    "2023": {
+     "n": 3,
+     "pages": 25,
+     "fig_captions": 18,
+     "abstract_words": 466,
+     "ai_report": 0
+    },
+    "2024": {
+     "n": 4,
+     "pages": 25,
+     "fig_captions": 16,
+     "abstract_words": 448,
+     "ai_report": 50.0
+    },
+    "2025": {
+     "n": 4,
+     "pages": 26,
+     "fig_captions": 21,
+     "abstract_words": 426,
+     "ai_report": 25.0
+    }
+   },
+   "recent": {
+    "n": 23,
+    "pages": {
+     "median": 25,
+     "p25": 23,
+     "p75": 25,
+     "min": 22,
+     "max": 27
+    },
+    "fig_captions": {
+     "median": 16,
+     "p25": 13,
+     "p75": 20,
+     "min": 0,
+     "max": 24
+    },
+    "tab_captions": {
+     "median": 5,
+     "p25": 2,
+     "p75": 6,
+     "min": 1,
+     "max": 14
+    },
+    "fig_max_ref": {
+     "median": 16,
+     "p25": 12,
+     "p75": 19,
+     "min": 0,
+     "max": 72
+    },
+    "tab_max_ref": {
+     "median": 5,
+     "p25": 3,
+     "p75": 6,
+     "min": 1,
+     "max": 15
+    },
+    "abstract_words": {
+     "median": 443,
+     "p25": 414,
+     "p75": 472,
+     "min": 267,
+     "max": 578
+    },
+    "ref_count": {
+     "median": 5,
+     "p25": 3,
+     "p75": 10,
+     "min": 0,
+     "max": 22
+    },
+    "words": {
+     "median": 6425,
+     "p25": 5895,
+     "p75": 6896,
+     "min": 4999,
+     "max": 10020
+    },
+    "sections": {
+     "references": 100.0,
+     "introduction": 91.3,
+     "toc": 78.3,
+     "assumptions": 65.2,
+     "model": 65.2,
+     "sensitivity": 65.2,
+     "conclusion": 47.8,
+     "solution": 47.8,
+     "notation": 43.5,
+     "strengths": 43.5,
+     "appendix": 17.4,
+     "memo": 17.4,
+     "ai_report": 13.0,
+     "restatement": 8.7,
+     "weaknesses": 8.7,
+     "letter": 8.7
+    },
+    "kw_presence": {
+     "comparison": 100.0,
+     "assumption": 95.7,
+     "weakness": 95.7,
+     "strength": 95.7,
+     "network": 95.7,
+     "sensitivity": 82.6,
+     "optimization": 78.3,
+     "limitation": 65.2,
+     "simulation": 65.2,
+     "error": 56.5,
+     "robust": 56.5,
+     "classifier": 34.8,
+     "clustering": 30.4,
+     "dijkstra": 30.4,
+     "uncertainty": 30.4,
+     "entropy_weight": 26.1,
+     "validation": 26.1,
+     "regression": 21.7,
+     "pca": 21.7,
+     "ahp": 17.4,
+     "genetic_algo": 17.4,
+     "neural_net": 17.4,
+     "monte_carlo": 17.4,
+     "ode_pde": 13.0,
+     "system_dynamics": 13.0,
+     "trade_off": 13.0,
+     "markov": 13.0,
+     "topsis": 13.0,
+     "linear_programming": 13.0,
+     "queuing": 13.0,
+     "kmeans": 8.7,
+     "lstm": 8.7,
+     "arima": 4.3,
+     "baseline": 4.3,
+     "agent_based": 4.3
+    },
+    "kw_intensity": {
+     "sensitivity": 6,
+     "error": 1,
+     "assumption": 5,
+     "limitation": 1,
+     "weakness": 3,
+     "strength": 3,
+     "comparison": 5,
+     "optimization": 4,
+     "clustering": 0,
+     "ode_pde": 0,
+     "network": 48,
+     "simulation": 2,
+     "entropy_weight": 0,
+     "arima": 0,
+     "system_dynamics": 0,
+     "dijkstra": 0,
+     "robust": 1,
+     "uncertainty": 0,
+     "baseline": 0,
+     "ahp": 0,
+     "genetic_algo": 0,
+     "regression": 0,
+     "neural_net": 0,
+     "pca": 0,
+     "kmeans": 0,
+     "validation": 0,
+     "classifier": 0,
+     "monte_carlo": 0,
+     "trade_off": 0,
+     "markov": 0,
+     "lstm": 0,
+     "topsis": 0,
+     "linear_programming": 0,
+     "queuing": 0,
+     "agent_based": 0
+    },
+    "abstract_first_type": {
+     "background": 52.2,
+     "other": 39.1,
+     "result": 8.7
+    },
+    "abstract_has_number": 100.0,
+    "abstract_words_ok": 100.0
+   },
+   "content": {
+    "n": 42,
+    "models": {
+     "graph": 50.0,
+     "weighting": 31.0,
+     "queuing": 28.6,
+     "multi_objective": 21.4,
+     "regression": 21.4,
+     "stat_test": 21.4,
+     "heuristic": 21.4,
+     "markov": 19.0,
+     "dim_reduction": 19.0,
+     "neural_net": 16.7,
+     "diff_eq": 14.3,
+     "equilibrium": 14.3,
+     "simulation": 14.3,
+     "monte_carlo": 11.9
+    },
+    "arg_attr": {
+     "cover": 35.7,
+     "median": 0,
+     "p75": 1
+    },
+    "arg_compare": {
+     "cover": 81.0,
+     "median": 2,
+     "p75": 4
+    },
+    "arg_lit": {
+     "cover": 14.3,
+     "median": 0,
+     "p75": 0
+    },
+    "arg_data": {
+     "cover": 7.1,
+     "median": 0,
+     "p75": 0
+    },
+    "param_sent": {
+     "cover": 85.7,
+     "median": 3,
+     "p75": 4
+    },
+    "valid_sent": {
+     "cover": 85.7,
+     "median": 5,
+     "p75": 8
+    },
+    "decide_sent": {
+     "cover": 88.1,
+     "median": 4,
+     "p75": 8
+    },
+    "assume": {
+     "median": 8,
+     "justified_cover": 64.3
+    },
+    "taskmark": 0
+   }
+  },
+  "E": {
+   "summary": {
+    "n": 51,
+    "pages": {
+     "median": 25,
+     "p25": 24,
+     "p75": 25,
+     "min": 17,
+     "max": 35
+    },
+    "fig_captions": {
+     "median": 13,
+     "p25": 8,
+     "p75": 15,
+     "min": 0,
+     "max": 27
+    },
+    "tab_captions": {
+     "median": 5,
+     "p25": 2,
+     "p75": 7,
+     "min": 0,
+     "max": 16
+    },
+    "fig_max_ref": {
+     "median": 12,
+     "p25": 8,
+     "p75": 15,
+     "min": 0,
+     "max": 66
+    },
+    "tab_max_ref": {
+     "median": 5,
+     "p25": 3,
+     "p75": 6,
+     "min": 0,
+     "max": 16
+    },
+    "abstract_words": {
+     "median": 454,
+     "p25": 405,
+     "p75": 501,
+     "min": 213,
+     "max": 585
+    },
+    "ref_count": {
+     "median": 6,
+     "p25": 1,
+     "p75": 11,
+     "min": 0,
+     "max": 32
+    },
+    "words": {
+     "median": 6969,
+     "p25": 6453,
+     "p75": 7748,
+     "min": 3743,
+     "max": 9621
+    },
+    "sections": {
+     "introduction": 94.1,
+     "references": 94.1,
+     "assumptions": 80.4,
+     "toc": 80.4,
+     "sensitivity": 66.7,
+     "model": 62.7,
+     "notation": 58.8,
+     "solution": 52.9,
+     "strengths": 51.0,
+     "conclusion": 41.2,
+     "appendix": 25.5,
+     "weaknesses": 21.6,
+     "ai_report": 7.8,
+     "memo": 7.8,
+     "letter": 3.9
+    },
+    "kw_presence": {
+     "assumption": 98.0,
+     "strength": 98.0,
+     "sensitivity": 96.1,
+     "comparison": 96.1,
+     "weakness": 86.3,
+     "optimization": 72.5,
+     "simulation": 64.7,
+     "classifier": 60.8,
+     "error": 54.9,
+     "robust": 51.0,
+     "limitation": 49.0,
+     "ahp": 47.1,
+     "network": 43.1,
+     "entropy_weight": 35.3,
+     "validation": 33.3,
+     "regression": 29.4,
+     "uncertainty": 25.5,
+     "ode_pde": 23.5,
+     "clustering": 23.5,
+     "linear_programming": 17.6,
+     "trade_off": 17.6,
+     "kmeans": 15.7,
+     "system_dynamics": 11.8,
+     "pca": 9.8,
+     "topsis": 9.8,
+     "neural_net": 9.8,
+     "monte_carlo": 7.8,
+     "genetic_algo": 7.8,
+     "baseline": 5.9,
+     "grey_relation": 3.9,
+     "particle_swarm": 3.9,
+     "arima": 3.9,
+     "dijkstra": 3.9,
+     "simulated_annealing": 3.9,
+     "markov": 2.0,
+     "ablation": 2.0,
+     "game_theory": 2.0
+    },
+    "kw_intensity": {
+     "sensitivity": 6,
+     "error": 1,
+     "assumption": 6,
+     "limitation": 0,
+     "weakness": 4,
+     "strength": 4,
+     "comparison": 5,
+     "baseline": 0,
+     "optimization": 2,
+     "regression": 0,
+     "classifier": 1,
+     "network": 0,
+     "linear_programming": 0,
+     "simulation": 1,
+     "monte_carlo": 0,
+     "uncertainty": 0,
+     "trade_off": 0,
+     "grey_relation": 0,
+     "pca": 0,
+     "validation": 0,
+     "ode_pde": 0,
+     "ahp": 0,
+     "entropy_weight": 0,
+     "robust": 1,
+     "genetic_algo": 0,
+     "clustering": 0,
+     "system_dynamics": 0,
+     "kmeans": 0,
+     "particle_swarm": 0,
+     "topsis": 0,
+     "arima": 0,
+     "markov": 0,
+     "neural_net": 0,
+     "dijkstra": 0,
+     "ablation": 0,
+     "game_theory": 0,
+     "simulated_annealing": 0
+    },
+    "abstract_first_type": {
+     "background": 60.8,
+     "other": 35.3,
+     "result": 3.9
+    },
+    "abstract_has_number": 100.0,
+    "abstract_words_ok": 100.0
+   },
+   "by_year": {
+    "2017": {
+     "n": 5,
+     "pages": 22,
+     "fig_captions": 3,
+     "abstract_words": 453,
+     "ai_report": 0
+    },
+    "2019": {
+     "n": 8,
+     "pages": 24,
+     "fig_captions": 5,
+     "abstract_words": 369,
+     "ai_report": 0
+    },
+    "2020": {
+     "n": 5,
+     "pages": 26,
+     "fig_captions": 13,
+     "abstract_words": 410,
+     "ai_report": 0
+    },
+    "2021": {
+     "n": 5,
+     "pages": 25,
+     "fig_captions": 11,
+     "abstract_words": 483,
+     "ai_report": 0
+    },
+    "2022": {
+     "n": 10,
+     "pages": 25,
+     "fig_captions": 12,
+     "abstract_words": 454,
+     "ai_report": 0
+    },
+    "2023": {
+     "n": 8,
+     "pages": 25,
+     "fig_captions": 14,
+     "abstract_words": 508,
+     "ai_report": 0
+    },
+    "2024": {
+     "n": 6,
+     "pages": 25,
+     "fig_captions": 13,
+     "abstract_words": 428,
+     "ai_report": 50.0
+    },
+    "2025": {
+     "n": 4,
+     "pages": 26,
+     "fig_captions": 15,
+     "abstract_words": 462,
+     "ai_report": 25.0
+    }
+   },
+   "recent": {
+    "n": 33,
+    "pages": {
+     "median": 25,
+     "p25": 25,
+     "p75": 25,
+     "min": 21,
+     "max": 28
+    },
+    "fig_captions": {
+     "median": 14,
+     "p25": 11,
+     "p75": 15,
+     "min": 2,
+     "max": 27
+    },
+    "tab_captions": {
+     "median": 5,
+     "p25": 3,
+     "p75": 6,
+     "min": 0,
+     "max": 12
+    },
+    "fig_max_ref": {
+     "median": 13,
+     "p25": 11,
+     "p75": 15,
+     "min": 5,
+     "max": 66
+    },
+    "tab_max_ref": {
+     "median": 5,
+     "p25": 4,
+     "p75": 6,
+     "min": 0,
+     "max": 12
+    },
+    "abstract_words": {
+     "median": 473,
+     "p25": 430,
+     "p75": 503,
+     "min": 213,
+     "max": 585
+    },
+    "ref_count": {
+     "median": 5,
+     "p25": 2,
+     "p75": 8,
+     "min": 0,
+     "max": 22
+    },
+    "words": {
+     "median": 7197,
+     "p25": 6622,
+     "p75": 7780,
+     "min": 3760,
+     "max": 9621
+    },
+    "sections": {
+     "references": 100.0,
+     "introduction": 97.0,
+     "assumptions": 84.8,
+     "toc": 81.8,
+     "notation": 78.8,
+     "sensitivity": 75.8,
+     "solution": 66.7,
+     "model": 63.6,
+     "strengths": 51.5,
+     "conclusion": 33.3,
+     "weaknesses": 27.3,
+     "appendix": 12.1,
+     "ai_report": 12.1,
+     "letter": 6.1
+    },
+    "kw_presence": {
+     "sensitivity": 100.0,
+     "comparison": 100.0,
+     "assumption": 97.0,
+     "strength": 97.0,
+     "weakness": 84.8,
+     "optimization": 84.8,
+     "simulation": 72.7,
+     "robust": 63.6,
+     "classifier": 60.6,
+     "limitation": 57.6,
+     "ahp": 54.5,
+     "error": 54.5,
+     "network": 42.4,
+     "entropy_weight": 42.4,
+     "regression": 33.3,
+     "ode_pde": 30.3,
+     "validation": 27.3,
+     "uncertainty": 27.3,
+     "clustering": 24.2,
+     "linear_programming": 21.2,
+     "trade_off": 21.2,
+     "system_dynamics": 18.2,
+     "kmeans": 18.2,
+     "topsis": 15.2,
+     "genetic_algo": 12.1,
+     "neural_net": 12.1,
+     "monte_carlo": 9.1,
+     "particle_swarm": 6.1,
+     "arima": 6.1,
+     "baseline": 6.1,
+     "dijkstra": 6.1,
+     "simulated_annealing": 6.1,
+     "markov": 3.0,
+     "ablation": 3.0,
+     "pca": 3.0,
+     "game_theory": 3.0
+    },
+    "kw_intensity": {
+     "sensitivity": 6,
+     "assumption": 7,
+     "weakness": 4,
+     "strength": 4,
+     "comparison": 5,
+     "optimization": 5,
+     "simulation": 2,
+     "network": 0,
+     "ahp": 1,
+     "entropy_weight": 0,
+     "robust": 1,
+     "validation": 0,
+     "classifier": 1,
+     "genetic_algo": 0,
+     "limitation": 1,
+     "error": 1,
+     "clustering": 0,
+     "linear_programming": 0,
+     "system_dynamics": 0,
+     "uncertainty": 0,
+     "monte_carlo": 0,
+     "ode_pde": 0,
+     "kmeans": 0,
+     "trade_off": 0,
+     "regression": 0,
+     "particle_swarm": 0,
+     "topsis": 0,
+     "arima": 0,
+     "baseline": 0,
+     "markov": 0,
+     "neural_net": 0,
+     "dijkstra": 0,
+     "ablation": 0,
+     "pca": 0,
+     "game_theory": 0,
+     "simulated_annealing": 0
+    },
+    "abstract_first_type": {
+     "background": 60.6,
+     "other": 33.3,
+     "result": 6.1
+    },
+    "abstract_has_number": 100.0,
+    "abstract_words_ok": 100.0
+   },
+   "content": {
+    "n": 51,
+    "models": {
+     "weighting": 66.7,
+     "equilibrium": 33.3,
+     "diff_eq": 29.4,
+     "regression": 27.5,
+     "risk": 27.5,
+     "multi_objective": 19.6,
+     "lp_milp": 17.6,
+     "heuristic": 17.6,
+     "clustering": 17.6,
+     "curve_fit": 15.7,
+     "neural_net": 13.7,
+     "sys_dynamics": 11.8,
+     "mcdm_rank": 11.8,
+     "nonlinear_opt": 9.8
+    },
+    "arg_attr": {
+     "cover": 49.0,
+     "median": 0,
+     "p75": 1
+    },
+    "arg_compare": {
+     "cover": 86.3,
+     "median": 2,
+     "p75": 3
+    },
+    "arg_lit": {
+     "cover": 27.5,
+     "median": 0,
+     "p75": 1
+    },
+    "arg_data": {
+     "cover": 13.7,
+     "median": 0,
+     "p75": 0
+    },
+    "param_sent": {
+     "cover": 90.2,
+     "median": 3,
+     "p75": 5
+    },
+    "valid_sent": {
+     "cover": 90.2,
+     "median": 5,
+     "p75": 7
+    },
+    "decide_sent": {
+     "cover": 88.2,
+     "median": 3,
+     "p75": 5
+    },
+    "assume": {
+     "median": 8,
+     "justified_cover": 76.5
+    },
+    "taskmark": 0
+   }
+  },
+  "F": {
+   "summary": {
+    "n": 41,
+    "pages": {
+     "median": 25,
+     "p25": 24,
+     "p75": 25,
+     "min": 21,
+     "max": 52
+    },
+    "fig_captions": {
+     "median": 13,
+     "p25": 5,
+     "p75": 15,
+     "min": 0,
+     "max": 26
+    },
+    "tab_captions": {
+     "median": 3,
+     "p25": 2,
+     "p75": 4,
+     "min": 0,
+     "max": 14
+    },
+    "fig_max_ref": {
+     "median": 12,
+     "p25": 5,
+     "p75": 16,
+     "min": 0,
+     "max": 25
+    },
+    "tab_max_ref": {
+     "median": 3,
+     "p25": 2,
+     "p75": 5,
+     "min": 0,
+     "max": 14
+    },
+    "abstract_words": {
+     "median": 457,
+     "p25": 375,
+     "p75": 519,
+     "min": 0,
+     "max": 727
+    },
+    "ref_count": {
+     "median": 4,
+     "p25": 0,
+     "p75": 11,
+     "min": 0,
+     "max": 56
+    },
+    "words": {
+     "median": 7783,
+     "p25": 6415,
+     "p75": 8588,
+     "min": 4204,
+     "max": 15372
+    },
+    "sections": {
+     "references": 95.1,
+     "introduction": 92.7,
+     "solution": 75.6,
+     "model": 70.7,
+     "assumptions": 68.3,
+     "strengths": 65.9,
+     "toc": 65.9,
+     "sensitivity": 61.0,
+     "conclusion": 41.5,
+     "appendix": 29.3,
+     "weaknesses": 26.8,
+     "notation": 26.8,
+     "memo": 22.0,
+     "ai_report": 7.3,
+     "restatement": 2.4,
+     "related_work": 2.4
+    },
+    "kw_presence": {
+     "comparison": 97.6,
+     "assumption": 95.1,
+     "strength": 95.1,
+     "weakness": 92.7,
+     "sensitivity": 78.0,
+     "simulation": 68.3,
+     "optimization": 63.4,
+     "error": 58.5,
+     "robust": 56.1,
+     "regression": 56.1,
+     "ahp": 46.3,
+     "limitation": 46.3,
+     "network": 41.5,
+     "entropy_weight": 41.5,
+     "classifier": 39.0,
+     "uncertainty": 34.1,
+     "clustering": 34.1,
+     "validation": 26.8,
+     "pca": 19.5,
+     "topsis": 17.1,
+     "trade_off": 14.6,
+     "game_theory": 14.6,
+     "kmeans": 12.2,
+     "ode_pde": 12.2,
+     "baseline": 12.2,
+     "markov": 9.8,
+     "linear_programming": 9.8,
+     "monte_carlo": 7.3,
+     "arima": 7.3,
+     "system_dynamics": 7.3,
+     "agent_based": 2.4,
+     "random_forest": 2.4,
+     "neural_net": 2.4,
+     "simulated_annealing": 2.4,
+     "queuing": 2.4,
+     "integer_programming": 2.4,
+     "genetic_algo": 2.4,
+     "grey_relation": 2.4
+    },
+    "kw_intensity": {
+     "sensitivity": 4,
+     "robust": 1,
+     "error": 1,
+     "assumption": 7,
+     "weakness": 3,
+     "strength": 6,
+     "comparison": 8,
+     "optimization": 1,
+     "simulation": 1,
+     "network": 0,
+     "agent_based": 0,
+     "uncertainty": 0,
+     "monte_carlo": 0,
+     "trade_off": 0,
+     "regression": 1,
+     "classifier": 0,
+     "ahp": 0,
+     "markov": 0,
+     "pca": 0,
+     "clustering": 0,
+     "entropy_weight": 0,
+     "arima": 0,
+     "kmeans": 0,
+     "validation": 0,
+     "game_theory": 0,
+     "linear_programming": 0,
+     "ode_pde": 0,
+     "limitation": 0,
+     "baseline": 0,
+     "topsis": 0,
+     "random_forest": 0,
+     "neural_net": 0,
+     "simulated_annealing": 0,
+     "queuing": 0,
+     "system_dynamics": 0,
+     "integer_programming": 0,
+     "genetic_algo": 0,
+     "grey_relation": 0
+    },
+    "abstract_first_type": {
+     "background": 53.7,
+     "other": 39.0,
+     "result": 4.9,
+     "method": 2.4
+    },
+    "abstract_has_number": 97.6,
+    "abstract_words_ok": 85.4
+   },
+   "by_year": {
+    "2017": {
+     "n": 4,
+     "pages": 35,
+     "fig_captions": 12,
+     "abstract_words": 477,
+     "ai_report": 0
+    },
+    "2019": {
+     "n": 4,
+     "pages": 26,
+     "fig_captions": 9,
+     "abstract_words": 438,
+     "ai_report": 0
+    },
+    "2020": {
+     "n": 6,
+     "pages": 23,
+     "fig_captions": 10,
+     "abstract_words": 421,
+     "ai_report": 0
+    },
+    "2021": {
+     "n": 6,
+     "pages": 25,
+     "fig_captions": 13,
+     "abstract_words": 446,
+     "ai_report": 0
+    },
+    "2022": {
+     "n": 7,
+     "pages": 25,
+     "fig_captions": 13,
+     "abstract_words": 457,
+     "ai_report": 0
+    },
+    "2023": {
+     "n": 4,
+     "pages": 25,
+     "fig_captions": 16,
+     "abstract_words": 518,
+     "ai_report": 0
+    },
+    "2024": {
+     "n": 5,
+     "pages": 25,
+     "fig_captions": 14,
+     "abstract_words": 398,
+     "ai_report": 20.0
+    },
+    "2025": {
+     "n": 5,
+     "pages": 25,
+     "fig_captions": 12,
+     "abstract_words": 371,
+     "ai_report": 40.0
+    }
+   },
+   "recent": {
+    "n": 27,
+    "pages": {
+     "median": 25,
+     "p25": 25,
+     "p75": 25,
+     "min": 22,
+     "max": 33
+    },
+    "fig_captions": {
+     "median": 13,
+     "p25": 9,
+     "p75": 16,
+     "min": 0,
+     "max": 22
+    },
+    "tab_captions": {
+     "median": 3,
+     "p25": 2,
+     "p75": 5,
+     "min": 0,
+     "max": 14
+    },
+    "fig_max_ref": {
+     "median": 13,
+     "p25": 11,
+     "p75": 16,
+     "min": 0,
+     "max": 20
+    },
+    "tab_max_ref": {
+     "median": 3,
+     "p25": 2,
+     "p75": 5,
+     "min": 0,
+     "max": 14
+    },
+    "abstract_words": {
+     "median": 457,
+     "p25": 375,
+     "p75": 520,
+     "min": 0,
+     "max": 608
+    },
+    "ref_count": {
+     "median": 4,
+     "p25": 0,
+     "p75": 11,
+     "min": 0,
+     "max": 19
+    },
+    "words": {
+     "median": 7117,
+     "p25": 6559,
+     "p75": 8298,
+     "min": 4352,
+     "max": 9141
+    },
+    "sections": {
+     "references": 100.0,
+     "introduction": 92.6,
+     "model": 81.5,
+     "solution": 77.8,
+     "strengths": 74.1,
+     "toc": 74.1,
+     "assumptions": 66.7,
+     "sensitivity": 63.0,
+     "notation": 33.3,
+     "conclusion": 33.3,
+     "memo": 33.3,
+     "weaknesses": 29.6,
+     "appendix": 22.2,
+     "ai_report": 11.1,
+     "restatement": 3.7,
+     "related_work": 3.7
+    },
+    "kw_presence": {
+     "strength": 100.0,
+     "comparison": 100.0,
+     "assumption": 96.3,
+     "weakness": 96.3,
+     "sensitivity": 88.9,
+     "regression": 66.7,
+     "error": 63.0,
+     "simulation": 59.3,
+     "entropy_weight": 59.3,
+     "robust": 55.6,
+     "optimization": 51.9,
+     "limitation": 51.9,
+     "clustering": 48.1,
+     "ahp": 48.1,
+     "classifier": 44.4,
+     "uncertainty": 37.0,
+     "network": 37.0,
+     "validation": 33.3,
+     "topsis": 25.9,
+     "kmeans": 18.5,
+     "pca": 18.5,
+     "game_theory": 14.8,
+     "ode_pde": 14.8,
+     "baseline": 14.8,
+     "arima": 11.1,
+     "trade_off": 11.1,
+     "linear_programming": 7.4,
+     "markov": 7.4,
+     "system_dynamics": 7.4,
+     "monte_carlo": 3.7,
+     "random_forest": 3.7,
+     "neural_net": 3.7,
+     "simulated_annealing": 3.7,
+     "queuing": 3.7,
+     "integer_programming": 3.7,
+     "grey_relation": 3.7
+    },
+    "kw_intensity": {
+     "sensitivity": 5,
+     "robust": 1,
+     "uncertainty": 0,
+     "error": 1,
+     "assumption": 7,
+     "weakness": 3,
+     "strength": 7,
+     "comparison": 9,
+     "simulation": 1,
+     "regression": 1,
+     "classifier": 0,
+     "clustering": 0,
+     "ahp": 0,
+     "entropy_weight": 1,
+     "arima": 0,
+     "kmeans": 0,
+     "validation": 0,
+     "optimization": 1,
+     "pca": 0,
+     "game_theory": 0,
+     "linear_programming": 0,
+     "ode_pde": 0,
+     "network": 0,
+     "limitation": 1,
+     "topsis": 0,
+     "monte_carlo": 0,
+     "random_forest": 0,
+     "trade_off": 0,
+     "neural_net": 0,
+     "simulated_annealing": 0,
+     "baseline": 0,
+     "markov": 0,
+     "queuing": 0,
+     "system_dynamics": 0,
+     "integer_programming": 0,
+     "grey_relation": 0
+    },
+    "abstract_first_type": {
+     "background": 55.6,
+     "other": 40.7,
+     "result": 3.7
+    },
+    "abstract_has_number": 96.3,
+    "abstract_words_ok": 92.6
+   },
+   "content": {
+    "n": 41,
+    "models": {
+     "weighting": 63.4,
+     "regression": 56.1,
+     "equilibrium": 43.9,
+     "curve_fit": 26.8,
+     "dim_reduction": 22.0,
+     "mcdm_rank": 22.0,
+     "game": 22.0,
+     "risk": 19.5,
+     "stat_test": 19.5,
+     "clustering": 17.1,
+     "diffusion": 17.1,
+     "spatial": 17.1,
+     "diff_eq": 14.6,
+     "timeseries": 12.2
+    },
+    "arg_attr": {
+     "cover": 31.7,
+     "median": 0,
+     "p75": 1
+    },
+    "arg_compare": {
+     "cover": 80.5,
+     "median": 2,
+     "p75": 6
+    },
+    "arg_lit": {
+     "cover": 34.1,
+     "median": 0,
+     "p75": 1
+    },
+    "arg_data": {
+     "cover": 19.5,
+     "median": 0,
+     "p75": 0
+    },
+    "param_sent": {
+     "cover": 75.6,
+     "median": 3,
+     "p75": 5
+    },
+    "valid_sent": {
+     "cover": 87.8,
+     "median": 5,
+     "p75": 9
+    },
+    "decide_sent": {
+     "cover": 90.2,
+     "median": 3,
+     "p75": 8
+    },
+    "assume": {
+     "median": 11,
+     "justified_cover": 70.7
+    },
+    "taskmark": 4
+   }
+  }
+ }
+}

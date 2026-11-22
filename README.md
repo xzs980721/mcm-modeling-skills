@@ -36,6 +36,7 @@
 - 使用已有数据或结果生成、重绘和美化数据图。 [mcm-data-figure](mcm-data-figure/SKILL.md)
 - 根据题面和模型成果装配可直接交给 Image2 的完整英文路线图提示词。 [mcm-solution-roadmap](mcm-solution-roadmap/SKILL.md)
 - 从单篇论文 PDF 提取两类 Markdown 知识卡，分别写入用户指定目录的 `modeling/` 和 `visualization/`。 [mcm-paper-cards](mcm-paper-cards/SKILL.md)
+- 判断"怎么做才可能拿奖"与"这篇稿子能到什么档"：动笔前出简报、交稿前出评分与改法。 [mcm-judge](mcm-judge/SKILL.md)
 
 ### 工具与参考
 
