@@ -93,13 +93,18 @@ corpus: <对照语料，例如 A 题 n=52>
 
 ## STAGE_CHECK.md
 
-**追加式**：每个阶段追加一节，不覆盖历史。同一阶段的多轮回退各记一节。
+**追加式**：每个阶段追加一节，不覆盖历史。同一阶段的多轮回退各记一节。每个阶段内先有若干 tick 行，末尾一个 gate 小节。
 
 ```markdown
 # STAGE_CHECK
 contract: v1
 
-## Stage <N>｜<阶段名>｜round <1..2>
+## Stage <N>｜<阶段名>｜tick 记录
+| # | 增量 | 结果 | 证据 | 改法（fix 时一行） |
+|---|---|---|---|---|
+| S<N>-1 | Task 1 模型 | pass/fix | <文件:节号> | <一条> |
+
+## Stage <N>｜<阶段名>｜gate｜round <1..2>
 verdict: pass | conditional | return
 checked: <ISO 时间>
 

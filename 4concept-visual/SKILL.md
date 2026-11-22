@@ -44,9 +44,9 @@ Image2 图件若遇到模型或工具不可用、当届规则限制或纳入条�
 
 ## 阶段自检
 
-本阶段完成、进入下一阶段之前，调用 [mcm-judge](../mcm-judge/SKILL.md) 的 **check 模式**（Stage 4）：
+调用 [mcm-judge](../mcm-judge/SKILL.md) 的 **check 模式**（Stage 4），分两层：阶段内每完成一个增量就 tick 一次，阶段收尾再跑 gate。
 
-1. 它按 `mcm-judge/references/stage-checks.md` 的 S4 节逐条核对，结果追加到 `reports/STAGE_CHECK.md`。
+1. 增量怎么切见 `mcm-judge/references/stage-checks.md` 的「增量节奏」；tick 只查该增量的 2–3 条并输出一行，gate 按该文 S4 节逐条核对。结果追加到 `reports/STAGE_CHECK.md`。
 2. `verdict: return` 时，按它给出的不超过 3 条改法修，然后重跑核对；同一阶段最多 2 轮（见 [数值口径](../_references/thresholds.md)）。
 3. 两轮仍 `return` 时，把未通过项写进"遗留"节并前进——缺口留痕，不要卡住。
 4. 开始下一阶段前先读上一阶段的"遗留"节，确认已修。
