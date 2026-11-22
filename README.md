@@ -39,12 +39,19 @@
 
 ### 工具与参考
 
-完整流程按任务使用 Python 或 R 求解和绘图，使用 Typst 或 XeLaTeX 编译论文，并使用环境中的 `nature-figure` 和内置 Image2 完成相应图件。范文 PDF 与生成的知识卡由赛题工作区提供。
+完整流程按任务使用 Python 或 R 求解和绘图，使用 Typst 或 XeLaTeX 编译论文，并使用环境中的 `nature-figure` 和内置 Image2 完成相应图件。
 
 - [建模方法优化流程](_references/modeling-method-workflow.md)
 - [图表工作流](_references/figure-workflow.md)
 - [数学建模基本规范](_references/math_modeling_norms.md)
 - [项目路线图](ROADMAP.md)
+
+### 范文知识库
+
+- [建模方法卡](knowledge-cards/modeling) 记录模型机制、求解、验证和迁移条件。
+- [图表方法卡](knowledge-cards/visualization) 记录图表的论证任务、视觉编码和重绘思路。
+
+可在 `plan.md` 中将知识卡根目录设为本仓库的 `knowledge-cards/`。仓库收录 Markdown 卡片，原论文由读者从自己的范文库获取。卡片的 `source.pdf_root` 是原范文库目录名，`source.pdf` 是库内相对路径。核对原文时，按本机范文库实际位置定位该文件，并使用 `source.pdf_pages` 查看物理页码。
 
 上游技能与模板来自 MathModelAgent，科研绘图流程复用 nature-figure。 [MathModelAgent](https://github.com/jihe520/MathModelAgent) · [nature-skills](https://github.com/Yuan1z0825/nature-skills)
 
