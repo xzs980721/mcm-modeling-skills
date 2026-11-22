@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2019/ICM-D/论文/1924801.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "da13ec34669b47199b0947662edd926cb55c768ecc149e1df64bf6b12f623d07"
   pdf_pages: [5, 6, 10, 13, 15, 16]
 tags: ["多尺度仿真", "通量", "敏感性分析"]

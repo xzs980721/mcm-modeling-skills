@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2202171.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f94cc3d51ae43307029d68cc7e25528e7abf537119b0c007f16cc87fc93b772a"
   pdf_pages: [5, 6, 7, 8, 9, 10]
 tags: ["森林碳库", "转换时点", "多目标权衡"]

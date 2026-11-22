@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2019/MCM-B/论文/1915782.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "41065334fbffbfc489aac42af3c7ff1a3a431b75ae380051c0cb2050add90103"
   pdf_pages: [8]
 tags: ["余区优化", "联合选址", "应急转运"]

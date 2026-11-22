@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2516695.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "53c86d64bd350c52b989574acb6693009a2448905664ac4fd9e0d0a65e19549f"
   pdf_pages: [16, 17]
 tags: ["动态贝叶斯", "风险与干预", "全球灵敏度"]

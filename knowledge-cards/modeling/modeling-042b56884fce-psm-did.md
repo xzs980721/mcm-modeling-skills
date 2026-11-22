@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2510862.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "042b56884fcebe1928a7ccc60853390f4c140b1210d033ece9087a1ec0fd6bda"
   pdf_pages: [18, 19, 20, 21, 22, 23, 24]
 tags: ["堆叠集成", "SHAP", "匹配双重差分"]

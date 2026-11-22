@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2204883.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "224f81a27d80f49399d5d6533f3ae949dae5acd967ac38bb156bd5f1ebcb0f8e"
   pdf_pages: [21, 22, 23]
 tags: ["时序预测", "多目标规划", "绩效诊断"]

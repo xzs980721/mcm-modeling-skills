@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2007/MCM-A/论文/What to Feed a Gerrymander.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c099ee8594d1691669083387b92f941f0908ced50117c4845b2cbdf1bd163b3f"
   pdf_pages: [9, 10, 11, 12, 19, 31]
 tags: ["区划优化", "邻接约束", "人口均衡"]

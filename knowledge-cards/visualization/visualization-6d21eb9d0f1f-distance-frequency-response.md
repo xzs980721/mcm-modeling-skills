@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2018/MCM-A/论文/86103.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6d21eb9d0f1f13d61ef2df427746944e466a909d1ca692aac1a62a7e186d89fe"
   pdf_pages: [20]
 tags: ["随机海面", "遮蔽效应", "传播响应"]

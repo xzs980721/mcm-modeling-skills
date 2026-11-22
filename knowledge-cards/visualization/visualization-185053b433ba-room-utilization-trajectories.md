@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2019/ICM-D/论文/1923074.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "185053b433ba9368ce4c6744f0224c811b7681788abb3e4a16321e84008f761f"
   pdf_pages: [16, 18]
 tags: ["容量校准", "遗传算法", "网络映射"]

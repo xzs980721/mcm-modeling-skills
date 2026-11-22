@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2021/MCM-A/论文/2100454.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e388ac19f5d8227982d604fc4fcbea8889177beefb2b505d874bdf206797b645"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 24, 25]
 tags: ["分解", "竞争", "气候分面"]

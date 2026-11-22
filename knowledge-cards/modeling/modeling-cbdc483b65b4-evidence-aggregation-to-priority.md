@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2021/MCM-C/论文/2107870.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "cbdc483b65b4f43c7a3c67ace5e5c4ff3ec278521c0adab7cb7bbbc9bf0cc2a8"
   pdf_pages: [4, 13, 14, 15, 16, 17, 18, 24]
 tags: ["半监督分类", "概率融合", "分档复核"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2220714.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "aed587c1b33c6a61b23f39d58dc51057f355e4504d6c52900d2b4228385e9eb9"
   pdf_pages: [5]
 tags: ["生产力", "碳库递推", "多准则评估"]

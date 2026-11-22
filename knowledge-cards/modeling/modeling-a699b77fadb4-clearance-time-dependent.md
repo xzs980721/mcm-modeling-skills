@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2019/ICM-D/论文/1922074.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a699b77fadb4cd75203a1b41e7205e09c47f1e8088bd0856b144524b11782824"
   pdf_pages: [12, 13, 14, 15, 23, 24]
 tags: ["动态网络", "需求代理", "路径规划"]

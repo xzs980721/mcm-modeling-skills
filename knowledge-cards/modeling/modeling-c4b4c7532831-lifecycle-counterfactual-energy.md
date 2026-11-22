@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2009/MCM-B/论文/Mobile to Mobil.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c4b4c75328314b9f8f4a9638aa060b399315fd6b598218e6478ae8c0448af856"
   pdf_pages: [1, 5, 6, 7, 8]
 tags: ["技术替代", "一次能源", "反事实"]

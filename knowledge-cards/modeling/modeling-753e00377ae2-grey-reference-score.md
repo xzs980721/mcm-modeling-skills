@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2017/ICM-E/论文/68242.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "753e00377ae25e175f648ddd06e5b2e00d260878319e9d111d39265419ab2f67"
   pdf_pages: [7, 8, 9, 10, 11, 12, 13, 19]
 tags: ["城市规划", "灰色关联", "政策评估"]

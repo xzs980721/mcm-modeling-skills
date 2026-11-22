@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2019/MCM-C/论文/1922154.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b7129095ee32fb8f0edd9f0142487c00a957c419e2eeebf5bfa610761fe363a1"
   pdf_pages: [7, 8, 9, 10, 11, 12, 13, 14, 23]
 tags: ["元胞自动机", "近邻环境", "误差热图"]

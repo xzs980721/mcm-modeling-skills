@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2020/ICM-E/论文/2017963.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9c77cf5fd890fd2ad9aa32cc2804be4666f602ec35aecc358e1bdab7c14a261f"
   pdf_pages: [8, 9, 10, 11, 12, 13, 14, 15, 16]
 tags: ["消减能力", "综合赋权", "灰色模型"]

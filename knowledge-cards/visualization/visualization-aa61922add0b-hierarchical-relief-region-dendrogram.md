@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2015/MCM-A/论文/34317.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "aa61922add0b3a1679de20bc077d3d766b1029e41856cfbdfdf557ba8e02c416"
   pdf_pages: [24]
 tags: ["应急物流", "覆盖约束", "生产需求"]

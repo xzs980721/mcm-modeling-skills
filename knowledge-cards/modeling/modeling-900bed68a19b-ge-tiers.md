@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2024/ICM-E/论文/2407414.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "900bed68a19b083e78ddb10a51b67b4f1694c7ea2d980c1768247e92e3d0fd5b"
   pdf_pages: [18, 19, 20, 21, 22]
 tags: ["极值", "破产概率", "地标"]

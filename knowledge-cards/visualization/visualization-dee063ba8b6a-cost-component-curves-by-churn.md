@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2015/ICM-C/论文/37284.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "dee063ba8b6abbf6cf446883ecea8ae5580de86a3b728f9b995d69a8304ea842"
   pdf_pages: [16, 17]
 tags: ["二部匹配", "遗传算法", "联合可行域"]

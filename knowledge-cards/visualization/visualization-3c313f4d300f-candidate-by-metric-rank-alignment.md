@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2014/ICM-C/论文/30221.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3c313f4d300faf9da0f3932dbda5bd4af4432bfb2f63f09e1f29669bffc47492"
   pdf_pages: [9, 11, 12, 14, 15]
 tags: ["应力布局", "引文投影", "名次对照"]

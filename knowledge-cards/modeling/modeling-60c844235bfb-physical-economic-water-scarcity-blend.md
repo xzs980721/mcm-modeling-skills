@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2016/ICM-E/论文/49630.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "60c844235bfbcd25d70895441b91a539be318f248db926da1dca5db7530ecda1"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 tags: ["缺水指标", "灰色预测", "政策灵敏度"]

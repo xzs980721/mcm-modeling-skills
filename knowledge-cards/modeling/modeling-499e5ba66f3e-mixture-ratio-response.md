@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2020/MCM-B/论文/2007698.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "499e5ba66f3e5ff77d5101a247034b8248cefdadcba21e7de5e6ce4ed6a0fdd9"
   pdf_pages: [12, 13, 14, 18]
 tags: ["元胞自动机", "水沙比", "侵蚀"]

@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2406324.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a83561c5c6030213d72c2c295e21f78c68e9409e087abffbc0495ed325e9be94"
   pdf_pages: [7, 8, 9, 10, 11]
 tags: ["网球", "滤波", "迁移"]

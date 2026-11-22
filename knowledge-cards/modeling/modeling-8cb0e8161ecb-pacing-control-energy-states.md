@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2022/MCM-A/论文/2209812.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8cb0e8161ecbec7c4a9b5d61985d2a0b3424df9055fff5dfc9ae715b88a747bd"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12, 13, 15, 19]
 tags: ["最优控制", "动态规划", "原图缺失"]

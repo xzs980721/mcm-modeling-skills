@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2510006.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "aebefa681d005eb13b0cadebaffdca9cbbbfee303fe646d5dbc332e66e683a83"
   pdf_pages: [6, 7, 8, 9, 10, 11]
 tags: ["奥运", "新设赛事", "时间序列"]

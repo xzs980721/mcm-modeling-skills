@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2401298.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "bfe48df994a311d261217a6b597118ee42bda6906e200c3acf31a4a4d11f7422"
   pdf_pages: [10, 14, 15]
 tags: ["发球校正", "残差势头", "动态贝叶斯"]

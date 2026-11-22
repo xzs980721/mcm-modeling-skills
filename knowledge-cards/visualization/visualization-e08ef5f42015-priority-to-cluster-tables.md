@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2020/MCM-C/论文/2010638.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e08ef5f420154a04a6a2c08b5dfd5f49b792b0840d538366e630e83edce75a01"
   pdf_pages: [14, 15, 23, 27, 28, 29, 30, 31, 32]
 tags: ["多项逻辑回归", "AHP", "滞后分析"]

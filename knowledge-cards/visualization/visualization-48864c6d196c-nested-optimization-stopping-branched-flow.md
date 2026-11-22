@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2016/MCM-C/论文/47823.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "48864c6d196cb0aaf536bd376cf50c3a31d909085d9ba1103cb8050897be74e7"
   pdf_pages: [15]
 tags: ["教育投资", "增广拉格朗日", "粒子群"]

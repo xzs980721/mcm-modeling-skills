@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2020/ICM-F/论文/2006291.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "724ac56ecc39fab0214ff0651663479e725efc138a5511a38a6fad65ec5a0a3e"
   pdf_pages: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21]
 tags: ["迁移安置", "文化成本", "承载约束"]

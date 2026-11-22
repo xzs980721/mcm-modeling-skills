@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2021/MCM-A/论文/2101951.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "d45ca6233315e2936a7f864495c5092f8e1eb18b88b36902c92c9cf0622a465b"
   pdf_pages: [3, 9, 10, 11]
 tags: ["竞争阈值", "情境降解", "方差"]

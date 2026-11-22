@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2017/MCM-A/论文/66500.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "89a227cbcce1829edda2cc89151c1022b8e778eb38d76662d60f987c2783f03b"
   pdf_pages: [16, 17, 18, 19, 20]
 tags: ["多库联合", "调度优化", "水文风险"]

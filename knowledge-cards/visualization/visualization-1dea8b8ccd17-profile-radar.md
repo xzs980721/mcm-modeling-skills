@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2024/ICM-F/论文/2417340.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1dea8b8ccd1793841c2bd524e47213152a25a6c85d7e548a71b383bde51b4716"
   pdf_pages: [9, 10]
 tags: ["野生动物保护", "网络", "神经网络"]

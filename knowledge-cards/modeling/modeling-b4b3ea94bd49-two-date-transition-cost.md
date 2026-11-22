@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2019/ICM-E/论文/1916777.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b4b3ea94bd4997161c8614a9b74b67bafcc5876c535436eb22738171fa958bce"
   pdf_pages: [12, 13, 14]
 tags: ["生态成本", "用地转移", "空间决策"]

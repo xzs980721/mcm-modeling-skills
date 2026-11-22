@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2025/MCM-A/论文/2500836.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c409a2584804f74fde54580d2169ddc35169129b48bf79da79f721d8eb5716b4"
   pdf_pages: [22]
 tags: ["阶梯磨损", "反演", "三维剖面"]

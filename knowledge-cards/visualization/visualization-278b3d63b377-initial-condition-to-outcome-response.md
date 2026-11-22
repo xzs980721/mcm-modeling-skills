@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2024/MCM-A/论文/2405424.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "278b3d63b377e0385ffa3991f4d6603036b5cbc802f100fa2e886e9f4976d2d1"
   pdf_pages: [23]
 tags: ["生态基线", "动态反馈", "情景稳定性"]

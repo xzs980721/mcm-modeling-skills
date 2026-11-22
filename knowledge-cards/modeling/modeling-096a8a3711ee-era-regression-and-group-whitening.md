@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2014/MCM-B/论文/29696.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "096a8a3711eebe93676e0749e6aaefe3a6d1abe7fb391c01edcb6de53a2aa4df"
   pdf_pages: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 36, 37, 38]
 tags: ["PCA", "余弦相似度", "数据白化"]

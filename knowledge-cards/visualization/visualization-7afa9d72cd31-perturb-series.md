@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2409404.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7afa9d72cd318695acc8027e842940cdd259f626887d377b9dad457ffc640b08"
   pdf_pages: [21]
 tags: ["网球", "累积控制", "分类"]

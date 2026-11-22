@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2014/ICM-C/论文/27688.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c076fe4a582b11cfebf32cbcf3b1d6315f79b84ff82f684ae45c6d9f641494e2"
   pdf_pages: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 tags: ["合作网络", "时间引文图", "拓扑排序"]

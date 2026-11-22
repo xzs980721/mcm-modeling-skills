@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2021/MCM-B/论文/2127300.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1a223de06f95b3b8720b559b527db4fe06660ee5e5a499aeab1630251c9efbb4"
   pdf_pages: [10]
 tags: ["格网风险", "拓扑约束", "遗传搜索"]

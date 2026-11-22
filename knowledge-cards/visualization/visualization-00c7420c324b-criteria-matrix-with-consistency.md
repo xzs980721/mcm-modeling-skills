@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2021/MCM-C/论文/2101587.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "00c7420c324bc69c8b9783f018babc06eed8c36035a3159e2e35dca88ae3cc0e"
   pdf_pages: [9]
 tags: ["事件筛查", "图像裁剪", "优先级"]

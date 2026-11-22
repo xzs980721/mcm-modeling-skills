@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2009/MCM-B/论文/Modeling Telephony Energy Consumption.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "41b5e1c20a620ace39b44e1a5a01060e37df2b7847ff75f687886f00420412be"
   pdf_pages: [8, 9]
 tags: ["设备用电", "参数核算", "表格"]

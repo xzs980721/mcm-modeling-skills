@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2016/MCM-A/论文/44398.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2d25fcdd8854b6242f6f26a9f8ecb36b9abb180c326eca24b9b962ebf4ebfa2b"
   pdf_pages: [22, 29]
 tags: ["CFD", "多工况比较", "热量平衡"]

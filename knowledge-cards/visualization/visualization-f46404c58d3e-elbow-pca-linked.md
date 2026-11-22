@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2025/ICM-F/论文/2507789.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f46404c58d3e78734abdb682b6805705f3c3b336b1f6ac7c29e20a071438fb41"
   pdf_pages: [8, 9]
 tags: ["网络安全治理", "混合数据分群", "政策文本"]

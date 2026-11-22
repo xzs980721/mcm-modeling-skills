@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2017/MCM-B/论文/56731.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a60a94599d5de0b306019be0888900343109ab3f6c49dbd6788b8e9066a019c7"
   pdf_pages: [2, 3, 4, 12, 13, 14, 23]
 tags: ["收费站", "排队论", "交通仿真"]

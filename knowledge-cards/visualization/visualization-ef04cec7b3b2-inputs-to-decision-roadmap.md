@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2020/MCM-C/论文/2004647.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ef04cec7b3b245164911918476b928d0503bc045a90099fadaa3ab7d42cb0419"
   pdf_pages: [4]
 tags: ["评分文本融合", "Kendall", "高斯过程"]

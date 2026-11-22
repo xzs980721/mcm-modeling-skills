@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2017/ICM-E/论文/65123.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e36461ec86f7956dfe1661007e25931673cde0bfc1a438c87aea6a6f73ec8b0a"
   pdf_pages: [19, 20]
 tags: ["主成分", "多指标评价", "组合预测"]

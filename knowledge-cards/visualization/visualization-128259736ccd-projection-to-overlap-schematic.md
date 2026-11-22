@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2012/MCM-A/论文/14297.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "128259736ccd4a58b003f872505bc37290c915bbc1db90717e30003fcb8c8421"
   pdf_pages: [23, 24, 25]
 tags: ["概念图", "几何抽象", "遮阴"]

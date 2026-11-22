@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2024/ICM-F/论文/2426941.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8f33a8332340b17d027012159540d36846b531df2f594b8e963fb443694713af"
   pdf_pages: [5, 6, 7, 8]
 tags: ["野生动物保护", "机构选择", "状态转移"]

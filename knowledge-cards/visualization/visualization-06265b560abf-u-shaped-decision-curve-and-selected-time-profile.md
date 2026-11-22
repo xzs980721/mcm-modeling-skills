@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2016/MCM-A/论文/54164.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "06265b560abfd13156be868cf5a621399f125d47ca17088ef9869dda58d8d912"
   pdf_pages: [16, 17, 20, 22, 24, 26, 28, 30, 32, 34, 37, 38]
 tags: ["冷却实验", "温控优化", "恒容与恒面积"]

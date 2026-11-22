@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2024/MCM-B/论文/2425792.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4cbde897bb3a881ab0d29ee4b1cb1abc31b03e72b1acf52d941d1d17850adc82"
   pdf_pages: [8]
 tags: ["轨迹状态", "协方差", "搜救地图"]

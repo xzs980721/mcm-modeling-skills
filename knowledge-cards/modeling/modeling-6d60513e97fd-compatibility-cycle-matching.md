@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2007/ICM-C/论文/Analysis of Kidney Transplant System Using Markov Process Models.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6d60513e97fd54ddc6d511381e6baed589468cc928fb6b11c837b829aee6742b"
   pdf_pages: [8, 9, 10]
 tags: ["等候系统", "马尔可夫过程", "配对交换"]

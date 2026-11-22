@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2017/ICM-D/论文/55295.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9001b6d98e1a4837c5d4c9acbc6a42dc35b906708fdb55f7a267155a9fcffaf9"
   pdf_pages: [12, 17]
 tags: ["排队网络", "动态分派", "吞吐波动"]

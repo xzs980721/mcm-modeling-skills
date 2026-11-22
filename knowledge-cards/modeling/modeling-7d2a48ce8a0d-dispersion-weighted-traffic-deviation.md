@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2014/MCM-A/论文/26333.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7d2a48ce8a0dcb370af2459b3df8736b0e5b83897f44dcdf63566fb3929e3e67"
   pdf_pages: [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
 tags: ["换道", "交通场景", "模糊决策"]

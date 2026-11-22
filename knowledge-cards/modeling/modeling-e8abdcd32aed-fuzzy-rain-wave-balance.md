@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2020/MCM-B/论文/2010821.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e8abdcd32aed331018b8ae2bf3ba6b413278d392987c4af7c52a61c1646ebaee"
   pdf_pages: [13, 14, 15, 16, 20]
 tags: ["形状优化", "侵蚀动力学", "湿度预测"]

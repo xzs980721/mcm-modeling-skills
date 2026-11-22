@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2017/ICM-F/论文/72283.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "776dd1c3ee73499f5e1973f74034930a3bf8ec42f6d151e4b6161b8b3a259b06"
   pdf_pages: [20, 21]
 tags: ["马尔可夫", "人口演进", "社会指标"]

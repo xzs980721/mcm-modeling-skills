@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2020/MCM-B/论文/2011873.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "17498b2e0a9e9d71514ae61945a0b31d61bbf39e3670c0e60178e5a4b15d923e"
   pdf_pages: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 tags: ["Mohr–Coulomb", "潮汐", "降雨冲刷"]

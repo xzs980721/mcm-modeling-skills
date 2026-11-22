@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2018/MCM-B/论文/74316.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1198d12dab779fcd23ee1a51289263bccc77784bf89efd8f6e47a0d5bae01ac7"
   pdf_pages: [17]
 tags: ["语言预测", "误差修正", "办公室选址"]

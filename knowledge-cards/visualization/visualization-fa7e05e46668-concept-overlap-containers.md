@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2018/ICM-F/论文/87280.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "fa7e05e4666888e6d4e2045f6e9f57073c711507cc65f90c9a4756b71aadf336"
   pdf_pages: [16]
 tags: ["隐私成本", "分层特征", "损失补偿"]

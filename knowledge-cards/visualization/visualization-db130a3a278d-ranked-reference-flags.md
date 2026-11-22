@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2012/ICM-C/论文/Finding Conspirators in the Network via Machine Learning.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "db130a3a278dd6f4a998e2a6bd812b3925dee31d27ef42a74df9d99d3bc9e86a"
   pdf_pages: [12]
 tags: ["网络分析", "小样本", "稳定性"]

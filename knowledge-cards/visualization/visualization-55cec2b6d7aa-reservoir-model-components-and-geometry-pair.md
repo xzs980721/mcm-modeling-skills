@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2017/MCM-A/论文/55280.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "55cec2b6d7aa4922f68d15fc21fa26a3cb284b6740afda67facc0b7a656af7a5"
   pdf_pages: [7, 8]
 tags: ["多库选址", "风险成本", "地形纵剖面"]

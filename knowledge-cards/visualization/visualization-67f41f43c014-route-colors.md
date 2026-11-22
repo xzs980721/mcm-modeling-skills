@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2017/ICM-D/论文/56632.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "67f41f43c01401f0624952e3997deb0f50dfe9e73bc8e42a29c40590ac943e7e"
   pdf_pages: [5]
 tags: ["随机排队", "参数估计", "解析仿真"]

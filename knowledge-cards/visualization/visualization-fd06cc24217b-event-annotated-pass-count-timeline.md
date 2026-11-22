@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2020/ICM-D/论文/2006782.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "fd06cc24217b47c528d8a621746f26fd7dac463e5e38ff232e10f1469e8986cb"
   pdf_pages: [9]
 tags: ["传球模体", "对手对照", "时序节奏"]

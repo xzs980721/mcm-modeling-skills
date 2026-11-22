@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2025/ICM-D/论文/2504188.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "978f34a74e69dd15959482b90d655158905b77732518b61c767f8d2ffeef390d"
   pdf_pages: [23, 25]
 tags: ["交通可达性", "排队", "随机覆盖"]

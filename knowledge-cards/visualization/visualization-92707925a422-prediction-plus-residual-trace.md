@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2218743.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "92707925a42229d96fcb9826b9fb9e7a656b82524bbccab0c1440f79b61c8b71"
   pdf_pages: [10, 17]
 tags: ["滚动预测", "尾部风险", "稳健性"]

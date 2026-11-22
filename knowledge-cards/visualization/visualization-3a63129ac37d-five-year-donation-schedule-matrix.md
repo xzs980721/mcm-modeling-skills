@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2016/MCM-C/论文/50193.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3a63129ac37d7407a0d5912bee9763d77c693f49210a95fd183ae31f58fac43f"
   pdf_pages: [17]
 tags: ["风险约束", "灰色预测", "捐赠配置"]

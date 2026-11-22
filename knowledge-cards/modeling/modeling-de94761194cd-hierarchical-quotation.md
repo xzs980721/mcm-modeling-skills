@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2018/ICM-F/论文/88508.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "de94761194cd745774904561771102afb8b174f865078de663d5355f958bb081"
   pdf_pages: [16, 17, 18, 19]
 tags: ["熵权", "TOPSIS", "动态定价"]

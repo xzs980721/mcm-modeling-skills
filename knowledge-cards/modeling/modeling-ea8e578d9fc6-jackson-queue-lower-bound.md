@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2009/MCM-A/论文/Pseudo-Finite Jackson Networks and Simulation.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ea8e578d9fc6436157a20cc75fff393b73f0b1af8b44a41da697b4cb761a9aa5"
   pdf_pages: [1, 5, 6, 10, 11, 12]
 tags: ["Jackson网络", "放行比例", "稳态下界"]

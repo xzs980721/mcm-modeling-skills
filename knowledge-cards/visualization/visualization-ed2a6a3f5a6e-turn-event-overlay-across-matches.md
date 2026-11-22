@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2401445.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ed2a6a3f5a6e8574dd007cd0c38435b4144da9a3b0bda6b9d9d5db381acdd8a1"
   pdf_pages: [17, 19, 20, 21]
 tags: ["DTW", "隐状态", "转折事件"]

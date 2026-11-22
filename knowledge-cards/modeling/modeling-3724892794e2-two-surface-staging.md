@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2019/MCM-B/论文/1908286.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3724892794e2e4c9358738fb3f43b388941d45be850e0505caf6150217b21e51"
   pdf_pages: [10, 11, 12, 13, 14, 15, 20]
 tags: ["三维装箱", "救灾选址", "需求覆盖"]

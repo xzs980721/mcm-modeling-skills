@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2019/ICM-E/论文/1924813.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9ea8a1a2136e6c263ffbf4a6febd59b9d64831565780535011f4bb7e4e2bff52"
   pdf_pages: [1, 11, 12, 13, 14, 15, 16]
 tags: ["生态服务", "资产减值", "寿命核算"]

@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2007/MCM-B/论文/Boarding at the Speed of Flight.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f8428eafb99b92f6ce94c3201682562d5b1b5805d60931786cc05b1c30ee0606"
   pdf_pages: [9, 10]
 tags: ["航空登机", "排队瓶颈", "分组模拟"]

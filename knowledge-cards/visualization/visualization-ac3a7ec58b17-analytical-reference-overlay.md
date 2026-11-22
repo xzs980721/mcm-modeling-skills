@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2009/MCM-A/论文/A Simulation-Based Assessment of Traffic Circle Control.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ac3a7ec58b173547decb985dea7ee81627b91ebfcb5eecf61ae3edd3e6af0c02"
   pdf_pages: [9, 10, 11]
 tags: ["模型验证", "解析基准", "散点与曲线", "拥堵阈值"]

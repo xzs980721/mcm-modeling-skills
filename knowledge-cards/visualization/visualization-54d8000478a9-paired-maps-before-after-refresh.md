@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2021/MCM-C/论文/2107815.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "54d8000478a91f6570553566e8ed2f5a809be0d5c07a11ffefdc13a7845b6d52"
   pdf_pages: [16, 20, 24]
 tags: ["多模态评分", "增量更新", "事件优先级"]

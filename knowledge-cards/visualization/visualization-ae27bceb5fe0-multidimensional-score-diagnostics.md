@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2021/MCM-C/论文/2123823.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ae27bceb5fe06483285012a99b7485c963b2c3afaa663f8dea8eb22e43aac55e"
   pdf_pages: [14, 15, 16]
 tags: ["组合预测", "伪标签", "纵向模型"]

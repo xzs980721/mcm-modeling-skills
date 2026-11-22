@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2025/ICM-F/论文/2504223.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "5e77f0ca84c7df6723ad4c98cf14253eda12addc5ce8e1c758b4e72842b5bba9"
   pdf_pages: [17]
 tags: ["网络安全政策", "因果评估", "风险统计"]

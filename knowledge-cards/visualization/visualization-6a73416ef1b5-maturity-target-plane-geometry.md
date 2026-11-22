@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2022/ICM-D/论文/2208928.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6a73416ef1b579f6e904225535c5bf5f27705020472fd0c938ac04cda2d16c07"
   pdf_pages: [12]
 tags: ["复合赋权", "三维改进空间", "测量协议"]

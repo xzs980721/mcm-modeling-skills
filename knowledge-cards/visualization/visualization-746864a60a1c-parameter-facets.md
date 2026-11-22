@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2018/MCM-A/论文/77845.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "746864a60a1cf3bbccc8f24d92458c2e30605ba9b9f6aef019547b164b3471fd"
   pdf_pages: [12, 13, 14, 15, 17, 18]
 tags: ["分层介质", "多跳模拟", "频带包络"]

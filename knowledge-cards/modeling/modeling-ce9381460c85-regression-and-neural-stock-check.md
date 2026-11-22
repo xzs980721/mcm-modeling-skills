@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2223269.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ce9381460c85e364f28fcd01276353c08d4341e7d6e36e1cd1f726b7cc4c3f4e"
   pdf_pages: [5, 6, 7, 8, 9, 17, 18, 19]
 tags: ["碳储预测", "多目标规划", "分期结果"]

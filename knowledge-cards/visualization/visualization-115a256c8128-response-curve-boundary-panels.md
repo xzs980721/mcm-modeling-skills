@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2021/MCM-A/论文/2122025.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "115a256c81280c6b6e6bfa5340ff534f34e42aad3505389327deed42f10068ce"
   pdf_pages: [9]
 tags: ["参数拟合", "元胞状态", "空间分解"]

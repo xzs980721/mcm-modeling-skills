@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2018/ICM-D/论文/73156.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1a30e830d8b456ce5833e5a4c35ec038ef077b60446c37a37243e7cb7f85e857"
   pdf_pages: [7]
 tags: ["电动车采用", "充电站布局", "排队与网络"]

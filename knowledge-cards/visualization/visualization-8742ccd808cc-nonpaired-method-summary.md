@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2007/MCM-A/论文/A Cluster-Theoretic Approach to Political Districting.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8742ccd808cc8f275928817c581ebd36562b3eb4664e7ee8464cc8b6d6d5b3d2"
   pdf_pages: [16]
 tags: ["地理区划", "加权聚类", "空间紧致"]

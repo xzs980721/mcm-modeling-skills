@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2020/ICM-F/论文/2013233.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9fe8df2168bf7d2d0e5c50b82134688b0d04ce168b9c9abb1979886b6cf77e7e"
   pdf_pages: [12, 17, 19]
 tags: ["二分匹配", "政策情境", "人权指标"]

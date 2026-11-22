@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2020/MCM-A/论文/2018167.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c0f48f11c4d32bbc6aee8027cc6241b3481244f5964b8442e9bf070c6cd05456"
   pdf_pages: [5, 6]
 tags: ["线性预测", "元胞自动机", "模糊评价"]

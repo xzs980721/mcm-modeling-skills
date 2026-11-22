@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2007/MCM-A/论文/When Topologists Are Politicians.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4f585ee8eaf73d44f04e8044a84f51168dbb6b365809edfdd40f87f981588cd3"
   pdf_pages: [12, 13, 14]
 tags: ["分区", "局部优化", "图算法"]

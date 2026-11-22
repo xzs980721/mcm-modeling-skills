@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2216618.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8ea11cbcf70bb2edee3dd6912bad6650806d56f77ec4dbbde81562912951c978"
   pdf_pages: [7, 8, 9]
 tags: ["产品碳循环", "森林综合指数", "参数峰值"]

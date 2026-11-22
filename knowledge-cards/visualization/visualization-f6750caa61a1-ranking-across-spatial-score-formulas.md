@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2019/MCM-C/论文/1901213.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f6750caa61a12138edff473c814bf8e464c102e2d361875b04416a4cda820872"
   pdf_pages: [27, 28]
 tags: ["矩阵传播", "两阶段分类", "空间分级"]

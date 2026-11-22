@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2019/MCM-B/论文/1923964.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e10023eb8e4805154c90d79455b137513cfac3b0317231f5df83b7ae8c5bdc32"
   pdf_pages: [24]
 tags: ["地形最短路", "社会道路图", "救灾选址"]

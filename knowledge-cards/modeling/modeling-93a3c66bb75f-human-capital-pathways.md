@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2017/ICM-F/论文/72197.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "93a3c66bb75f324add2da297fa98ca36b9ff1df65c3f8540512652b18b31db6f"
   pdf_pages: [6, 7, 8, 12, 13, 14, 15, 18, 19, 20, 21]
 tags: ["人力资本", "收入结构", "人口情景"]

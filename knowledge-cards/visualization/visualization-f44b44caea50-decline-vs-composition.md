@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2019/ICM-E/论文/1902029.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f44b44caea50254145f12dd49b8b4c89088dbc4be7ceb29133423b663e206166"
   pdf_pages: [15, 25]
 tags: ["生态服务价值", "面积折算", "目标规划"]

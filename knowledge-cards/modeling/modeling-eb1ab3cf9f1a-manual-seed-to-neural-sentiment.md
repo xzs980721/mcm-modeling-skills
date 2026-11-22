@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2020/MCM-C/论文/2007707.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "eb1ab3cf9f1a49a9a49c171e77a0d808b12109066b68957e7348a6bde93b7fc4"
   pdf_pages: [10, 11, 12, 13, 14, 15, 21, 26, 27, 28, 29]
 tags: ["文本评分", "差分方程", "成功指数"]

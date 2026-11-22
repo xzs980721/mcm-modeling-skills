@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2022/MCM-A/论文/2212245.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "acfb5bca4a9c442b62bce6e8024c7347659ce7fb57357b291128254e05fbb76b"
   pdf_pages: [12, 13, 14, 15, 16, 17, 18, 19, 20]
 tags: ["混合供能", "逐段配速", "风向分析"]

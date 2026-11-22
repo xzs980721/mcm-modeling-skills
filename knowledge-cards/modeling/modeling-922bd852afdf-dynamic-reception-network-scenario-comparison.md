@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2016/ICM-F/论文/46634.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "922bd852afdfd20c587332f9f923d7dec20f9e62c384b669074f71403191fbee"
   pdf_pages: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 tags: ["人道接收", "场景敏感性", "容量"]

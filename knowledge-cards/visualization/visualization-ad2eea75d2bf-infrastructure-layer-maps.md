@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2018/MCM-C/论文/80560.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ad2eea75d2bf72a47de6e25e44e61cfd7a533406edb02fbeed8be133aae42e7e"
   pdf_pages: [20]
 tags: ["能源投资回报", "动态 IS-LM", "政策反事实"]

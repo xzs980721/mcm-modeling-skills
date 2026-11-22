@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2020/MCM-A/论文/2017785.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3ed56bb6440476a9fc20ecc26312e3ed86c2026fa412a52346fa87053e94aed7"
   pdf_pages: [11, 12, 13, 14, 15, 16, 17, 18, 19, 27, 28, 29, 30, 31, 32]
 tags: ["格点回归", "代理人", "渔获收益"]

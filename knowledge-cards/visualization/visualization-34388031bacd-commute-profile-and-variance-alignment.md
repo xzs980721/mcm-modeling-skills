@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2017/MCM-C/论文/55583.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "34388031bacd6d1ecb242009b8fe85f4776f42872d28553f90c2f3904420000c"
   pdf_pages: [16, 19]
 tags: ["自动驾驶交通", "时空离散", "多场景"]

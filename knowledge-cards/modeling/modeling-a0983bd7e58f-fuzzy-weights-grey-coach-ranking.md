@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2014/MCM-B/论文/26636.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a0983bd7e58f8e4f33628e2e26cf8bfbcc585684b759093b2ea23390ca2c35d3"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13, 22, 23, 24, 25, 26, 27, 28]
 tags: ["灰色关联", "时代分组", "评价稳健性"]

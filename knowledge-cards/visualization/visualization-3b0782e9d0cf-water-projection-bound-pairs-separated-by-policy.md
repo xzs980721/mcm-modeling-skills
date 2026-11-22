@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2016/ICM-E/论文/43443.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3b0782e9d0cf11f46085f338962981eba060148b5622286956b375d079c721c2"
   pdf_pages: [14]
 tags: ["水量平衡", "区间情景", "单项干预"]

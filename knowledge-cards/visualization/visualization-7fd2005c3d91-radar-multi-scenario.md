@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2025/ICM-E/论文/2502355.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7fd2005c3d91b23a6451ad148cc1ec1b16c15ec7f6a264f1e49145ea096b22d8"
   pdf_pages: [23]
 tags: ["农业生态", "食物网", "动态干预"]

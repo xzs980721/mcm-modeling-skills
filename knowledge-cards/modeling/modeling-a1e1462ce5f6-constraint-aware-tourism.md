@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2025/MCM-B/论文/2505199.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a1e1462ce5f6fbbd5aa802eed8df7876d93b4227922e0d98d8032b381b06381b"
   pdf_pages: [7, 8, 9, 10, 11, 12, 13, 14, 15]
 tags: ["旅游管理", "承载约束", "多目标进化"]

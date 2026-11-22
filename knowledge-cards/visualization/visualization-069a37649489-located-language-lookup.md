@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2018/MCM-B/论文/73410.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "069a37649489a1cad790a23de3924db0d5867eb5518f4edc68af66a9b73a71de"
   pdf_pages: [20, 21, 22, 23, 26]
 tags: ["语言人口", "转移矩阵", "选址"]

@@ -51,7 +51,7 @@
 - [建模方法卡](knowledge-cards/modeling) 记录模型机制、求解、验证和迁移条件。
 - [图表方法卡](knowledge-cards/visualization) 记录图表的论证任务、视觉编码和重绘思路。
 
-可在 `plan.md` 中将知识卡根目录设为本仓库的 `knowledge-cards/`。仓库收录 Markdown 卡片，原论文由读者从自己的范文库获取。卡片的 `source.pdf_root` 是原范文库目录名，`source.pdf` 是库内相对路径。核对原文时，按本机范文库实际位置定位该文件，并使用 `source.pdf_pages` 查看物理页码。
+`plan.md` 的默认知识卡根目录为 `knowledge-cards/`，相对于技能仓库根目录。原论文库路径默认待定，仓库内卡片以 `source.pdf_root: null` 表示待配置，`source.pdf` 保留论文在原资料库中的相对路径。配置原论文库后，将其根目录与 `source.pdf` 拼接，并依 `source.pdf_pages` 核对物理页码。原论文库待定时仍可检索卡片，原文核对状态记为待核。
 
 上游技能与模板来自 MathModelAgent，科研绘图流程复用 nature-figure。 [MathModelAgent](https://github.com/jihe520/MathModelAgent) · [nature-skills](https://github.com/Yuan1z0825/nature-skills)
 

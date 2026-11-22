@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2018/MCM-C/论文/82150.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "43b699816133e27f4772ec768ef6004c968b025aff52b5ca8895952e17bb02fa"
   pdf_pages: [7, 8, 9]
 tags: ["能源规划", "熵权决策", "向量自回归"]

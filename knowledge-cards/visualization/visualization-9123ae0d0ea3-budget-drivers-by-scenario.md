@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2021/MCM-B/论文/2116496.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9123ae0d0ea39176e4cb5625da9e20fecdcc66f68e0d3df9923ff51470d7ad73"
   pdf_pages: [7, 18, 25]
 tags: ["救灾", "分阶段部署", "情景压力测试"]

@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2024/ICM-D/论文/2429211.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8a1c8a22d498d03d3d6dfeb7be47a66d49fe6cbddc4e5e8d3531d4ea2b0f75f6"
   pdf_pages: [13]
 tags: ["五大湖", "动态网络", "线性规划"]

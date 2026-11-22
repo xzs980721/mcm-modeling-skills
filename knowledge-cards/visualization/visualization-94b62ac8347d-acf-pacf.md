@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2401919.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "94b62ac8347de97bc31a11c0ca026b731fcbc1f3eaf1cb67f0a348e9b9cc9734"
   pdf_pages: [13]
 tags: ["网球", "降维", "灰色预测"]

@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2024/ICM-F/论文/2413565.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "11fc5b0848ec94f61c449e886da3b8829519dae91f3e731b415c40a2ebd150c9"
   pdf_pages: [9]
 tags: ["合作机构", "互补性", "回归诊断"]

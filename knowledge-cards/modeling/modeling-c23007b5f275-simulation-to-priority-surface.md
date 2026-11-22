@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2021/MCM-B/论文/2104673.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c23007b5f275eb5d56f70f9bb036bbb416f0fe170ec132043ec025adc941f3fc"
   pdf_pages: [10, 11, 12, 13, 14, 18]
 tags: ["应急观测", "格点风险", "约束敏感性"]

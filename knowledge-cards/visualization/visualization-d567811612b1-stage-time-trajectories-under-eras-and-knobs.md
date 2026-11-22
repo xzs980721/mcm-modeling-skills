@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2016/ICM-D/论文/44173.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "d567811612b1ae74edb7d5647bbfb035ce4e63e6cb82be1b9bde8ad2c4e87f8b"
   pdf_pages: [6, 7, 8, 9, 10, 11, 16, 18, 19, 20]
 tags: ["媒介演化", "分类过滤", "网络意见模型"]

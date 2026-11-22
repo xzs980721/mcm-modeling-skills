@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2020/ICM-F/论文/2013772.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4350a37b2f3f9d7e4b69f70857c59dcc8246527233528e47046ed9dacf0a0a18"
   pdf_pages: [4, 6]
 tags: ["文化价值", "分级", "产出检验"]

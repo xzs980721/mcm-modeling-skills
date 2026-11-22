@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2025/ICM-E/论文/2517273.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9809f4b6fea74a774c44dffec79aab102442680a44ccbb2406a6c87700981d5b"
   pdf_pages: [5]
 tags: ["农田", "阶段动力学", "经济评价"]

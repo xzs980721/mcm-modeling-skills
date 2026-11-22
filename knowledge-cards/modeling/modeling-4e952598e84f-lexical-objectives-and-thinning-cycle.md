@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2203489.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4e952598e84f53160dd363b3c03cdc5c6f8b9cd5116425891e3f42320310b466"
   pdf_pages: [11, 12, 13, 14, 15, 18, 19, 20]
 tags: ["森林栅格", "产品碳流", "目标优先级"]

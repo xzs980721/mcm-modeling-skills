@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2009/MCM-B/论文/America’s New Calling.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f800b5db971cf659890c4cb08596a30db4e101fe6b385bb52191007ed49a7e61"
   pdf_pages: [15]
 tags: ["设备采用", "分层模拟", "用电"]

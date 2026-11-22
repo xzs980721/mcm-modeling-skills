@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2019/MCM-A/论文/1902727.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2e04a61b6992851cd613ee8062d46f0174f0d1af8e2a0b032d19c3d26cdade4e"
   pdf_pages: [8]
 tags: ["种群平衡", "气候响应", "能量收支"]

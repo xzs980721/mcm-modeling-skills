@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2017/MCM-B/论文/70174.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8bf62421abcbd0212c8cef7cf6b6cc35f390a4005a09be17ff325e6b10c15e17"
   pdf_pages: [12]
 tags: ["多主体", "汇流模式", "结果对照"]

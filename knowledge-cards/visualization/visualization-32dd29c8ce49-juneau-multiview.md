@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2025/MCM-B/论文/2502617.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "32dd29c8ce49b9cb80cc53668dfce0e335b835419195829fc79ffd009f43487b"
   pdf_pages: [3]
 tags: ["旅游权衡", "边际效应", "SLSQP"]

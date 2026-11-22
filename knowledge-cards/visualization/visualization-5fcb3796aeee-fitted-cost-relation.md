@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2019/ICM-E/论文/1903455.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "5fcb3796aeee888c273058f40646d3e50c2c3df1864b7f968bcf366923d7b836"
   pdf_pages: [12]
 tags: ["生态服务", "层次赋权", "收益预测"]

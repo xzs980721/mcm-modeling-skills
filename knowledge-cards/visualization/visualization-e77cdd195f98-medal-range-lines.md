@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2517690.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e77cdd195f980a180586154baf9c8500c77493f2cbe0ef44f3a84281807ca3bb"
   pdf_pages: [11]
 tags: ["奥运", "随机森林", "教练贡献"]

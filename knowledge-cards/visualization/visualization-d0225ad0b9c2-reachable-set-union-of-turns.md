@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2015/MCM-B/论文/36178.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "d0225ad0b9c2d2dcdb91f20526f5bed617d1c221aff50ab700ad9cf85b1df9ff"
   pdf_pages: [8, 9, 19]
 tags: ["海上救援", "可达域", "搜索效率"]

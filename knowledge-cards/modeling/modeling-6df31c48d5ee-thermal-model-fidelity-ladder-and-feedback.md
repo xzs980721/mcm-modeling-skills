@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2016/MCM-A/论文/44845.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6df31c48d5eeb6b5addad69ff82eb249b9699bf6b3ce61bbc0464d7d8b9c0a75"
   pdf_pages: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
 tags: ["热流耦合", "解析与数值对比", "PID"]

@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2018/ICM-D/论文/81402.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e1ca19211adf4ea616b24129392d401b0989f7e028c2fdcbdd8b60f231138a45"
   pdf_pages: [18, 19]
 tags: ["供需配流", "EV 扩散", "节点网络"]

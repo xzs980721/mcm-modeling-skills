@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2406176.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e8c860a19d4d8e4b9c9cacdbe3fc8c6375ebf9c488162ea2639c52e36e4c7360"
   pdf_pages: [11]
 tags: ["网球", "状态递推", "偏差序列"]

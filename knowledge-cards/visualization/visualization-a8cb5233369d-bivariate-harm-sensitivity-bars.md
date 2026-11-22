@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2020/ICM-E/论文/2010035.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a8cb5233369dd7b8bd28a5d8a3d6405d3610c0d0e3f9d577c3bc9329729f876a"
   pdf_pages: [21, 22]
 tags: ["生命周期", "动态规划", "垃圾管理"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2202838.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1d924820e28342662682418a3df1eb424965cdafb9d229fcdb4adf013fac6758"
   pdf_pages: [12, 13, 14, 15, 16, 17, 20, 21, 22]
 tags: ["森林多价值", "方案矩阵", "优化前后比较"]

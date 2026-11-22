@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2014/MCM-A/论文/30532.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8ec338d6848d9f21eb803830a30e7ee74cfdf0fae7248c914d07f35f78376415"
   pdf_pages: [18]
 tags: ["交通元胞自动机", "因子分析", "灵敏度"]

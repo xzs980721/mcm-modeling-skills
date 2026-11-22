@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2022/MCM-A/论文/2200289.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "5638909897fca926fcff4308b16d0ea0faf62f6abcdc7b4ca0cb417f8d636e83"
   pdf_pages: [16, 17, 18, 24]
 tags: ["骑行配速", "模拟退火", "赛段敏感性"]

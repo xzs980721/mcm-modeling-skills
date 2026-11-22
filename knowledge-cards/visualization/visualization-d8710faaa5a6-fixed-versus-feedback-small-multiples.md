@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2024/MCM-A/论文/2407093.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "d8710faaa5a6a44d4cd771aee92f0694d666230647a24e2bb622a4f36eb61685"
   pdf_pages: [8, 11, 12, 13, 14, 15, 16]
 tags: ["分组动力学", "反馈", "生态稳定性"]

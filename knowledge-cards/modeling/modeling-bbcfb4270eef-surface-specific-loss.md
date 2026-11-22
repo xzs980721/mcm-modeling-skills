@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2018/MCM-A/论文/76082.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "bbcfb4270eef5cc6d1d6706651a7e8bd82400539ddda554de3a5e60a07745509"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 20, 21]
 tags: ["通信传播", "地表反射", "链路预算"]

@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2021/MCM-A/论文/2110178.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2941b30b6d048e990a7927790734a156174a2877d22c778bd7f84455e16a883b"
   pdf_pages: [4, 22, 23]
 tags: ["基质分解", "时间尺度", "气候对照"]

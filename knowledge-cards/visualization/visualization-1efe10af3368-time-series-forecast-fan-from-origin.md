@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2015/ICM-D/论文/38996.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1efe10af33686734c9dc12c9b8c9ac65446a5e759d61a48ccfffed2365117ac2"
   pdf_pages: [14]
 tags: ["生态资源", "理想轨迹", "系统动力学"]

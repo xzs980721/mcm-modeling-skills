@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2016/MCM-B/论文/48573.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "bfcd509c9901202280a1a2ed47493f8973f47a59ab4bbda38aff888004a88241"
   pdf_pages: [12, 15]
 tags: ["库存动力学", "清理策略", "碰撞预警"]

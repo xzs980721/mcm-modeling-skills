@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2019/MCM-C/论文/1900577.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7ac4ae90c58d30279425c874ec238f1c374a52610d92ea82535001ca3c94f0b4"
   pdf_pages: [13, 14, 15, 16, 19]
 tags: ["空间扩散", "时序基线", "县级数据"]

@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2015/ICM-D/论文/35780.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "97fea85bdc35e352917d33636c641faa44548d2f44167c05491cd69b1f61c48c"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 tags: ["协调指数", "状态控制", "发展规划"]

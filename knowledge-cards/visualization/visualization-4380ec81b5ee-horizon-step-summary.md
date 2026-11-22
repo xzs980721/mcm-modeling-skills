@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2018/MCM-B/论文/77238.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4380ec81b5ee9b4609444db0e383190b0bd18fb4dd1b2f0cf729c7324b22974f"
   pdf_pages: [20]
 tags: ["语言预测", "模糊聚类", "分布地图"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2202666.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6974cfdb97ee91c90dbb8067a742f0b3396c9f0764cbc1ecae1c36a913c81ea8"
   pdf_pages: [11, 19]
 tags: ["林分碳库", "动态规划", "方案矩阵"]

@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2014/ICM-C/论文/25318.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "80484ae12e72b5b7a610125a3a3567a0f8edf013c2abaf655af64a4b22872e60"
   pdf_pages: [15, 18]
 tags: ["网络中心性", "加权 PageRank", "四象限散点"]

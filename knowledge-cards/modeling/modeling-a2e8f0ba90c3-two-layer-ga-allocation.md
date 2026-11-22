@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2022/MCM-B/论文/2228168.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a2e8f0ba90c3a1d5f49eda10401c8bc6fdc7dfa7def56d5906c1f50c1dda5e7c"
   pdf_pages: [14, 15, 16, 17, 18, 19, 20, 21]
 tags: ["双层规划", "水位阈值", "遗传算法"]

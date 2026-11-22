@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2011/MCM-B/论文/Fewest Repeaters for a Circular Area.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "84c1c7cfbe8a7683afc9ecdfed98abc890aa42280ca7af9e97f3351a7364064f"
   pdf_pages: [8, 9, 13]
 tags: ["设施布点", "区域覆盖", "网络图"]

@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2515235.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "bc0c751f7b82fa1d68d7a2dd80fed6f99d3772e9c2013f9f3def6d3b3ac4571a"
   pdf_pages: [22]
 tags: ["Tobit", "分段预测", "双重稳健"]

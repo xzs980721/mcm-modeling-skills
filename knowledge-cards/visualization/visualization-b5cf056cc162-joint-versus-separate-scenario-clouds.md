@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2019/MCM-C/论文/1909434.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b5cf056cc1626d9546ecf1b7643d5b11bf9e0f58bd1e30fec8108676bd6b139c"
   pdf_pages: [24]
 tags: ["向量自回归", "回推", "回归树"]

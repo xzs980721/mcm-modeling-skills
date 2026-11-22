@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2025/MCM-B/论文/2517929.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b41f823a7f46ea01077cf2db09eed8bac3fbf04ea70159b74b0385b731eb7dc1"
   pdf_pages: [16, 21]
 tags: ["旅游", "帕累托", "财政反馈"]

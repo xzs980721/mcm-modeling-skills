@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2019/ICM-F/论文/1916375.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "71e635b1ec5d51fc159022ea3f5942c73d833e086083834a0a502ac2dcf9adff"
   pdf_pages: [20]
 tags: ["模糊评价", "政策权衡", "动力学"]

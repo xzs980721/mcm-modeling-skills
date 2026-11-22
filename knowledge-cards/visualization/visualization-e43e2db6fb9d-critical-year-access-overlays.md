@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2020/MCM-A/论文/2003298.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e43e2db6fb9d941d42ad5244e76d701f94cd2620b9d3ff3997d7f56ecd240953"
   pdf_pages: [15, 16, 19]
 tags: ["POD", "温度阈值", "冷链"]

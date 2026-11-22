@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2018/MCM-B/论文/79002.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "238b850f5d9167018df1686a92dda3f343444e835b63719a23c8273575c9faff"
   pdf_pages: [18, 19, 20]
 tags: ["语言扩散", "洲际迁移", "办公网络"]

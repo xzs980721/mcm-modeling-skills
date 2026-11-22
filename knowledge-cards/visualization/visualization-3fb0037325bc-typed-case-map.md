@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2019/ICM-E/论文/1902917.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3fb0037325bc97a4455e7363d5a2567ba43c12da172b027ce698156a2aae4c27"
   pdf_pages: [22]
 tags: ["替代成本", "层次分析", "成本收益"]

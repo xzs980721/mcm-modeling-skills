@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2224507.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "36af755505eae0c01838bb7241e24bf48e5a558756e8f0e2d4ba070604ffa6bc"
   pdf_pages: [16, 18]
 tags: ["多指标投票", "参数分区", "账本诊断"]

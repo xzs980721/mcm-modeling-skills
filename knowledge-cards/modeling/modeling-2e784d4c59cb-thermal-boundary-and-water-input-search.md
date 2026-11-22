@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2016/MCM-A/论文/42221.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2e784d4c59cb795ca3664d190988ebbb90920bfca6148cb19c43c595340afd3e"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
 tags: ["传热模拟", "多目标优化", "工况灵敏度"]

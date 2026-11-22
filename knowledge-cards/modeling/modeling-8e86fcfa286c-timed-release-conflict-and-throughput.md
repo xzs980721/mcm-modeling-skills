@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2017/MCM-B/论文/70545.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8e86fcfa286c46c3d8bddc3ef1ab64b376abe7e07c86827adc811b6c086d9954"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 23, 24, 25, 26]
 tags: ["交替放行", "冲突代理", "敏感性"]

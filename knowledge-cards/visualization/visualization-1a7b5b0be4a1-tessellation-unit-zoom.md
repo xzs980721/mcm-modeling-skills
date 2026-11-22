@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2009/MCM-B/论文/Energy Implications of Cellular Proliferation in the U.S.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1a7b5b0be4a1c71a955ca31092dddb8982f80e254340708aec6b35b4d309787b"
   pdf_pages: [9, 10]
 tags: ["电话替代", "能耗", "参数比较"]

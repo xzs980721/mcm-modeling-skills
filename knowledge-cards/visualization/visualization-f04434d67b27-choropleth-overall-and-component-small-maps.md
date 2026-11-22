@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2022/ICM-F/论文/2218577.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f04434d67b2764a3c4668c903a33b5eb55c26183a7fbb50bb07bc2e326b4f3c2"
   pdf_pages: [11, 13]
 tags: ["TOPSIS", "部门分工", "情景分布"]

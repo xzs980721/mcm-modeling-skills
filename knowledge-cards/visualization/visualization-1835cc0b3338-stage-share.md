@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2017/ICM-D/论文/55285.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1835cc0b33380fd573868a1811058e70b0b12cdee5389fc78d3f0977c72e8520"
   pdf_pages: [10, 13]
 tags: ["串行排队", "服务容量", "情景仿真"]

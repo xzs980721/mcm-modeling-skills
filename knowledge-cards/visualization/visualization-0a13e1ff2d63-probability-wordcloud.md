@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2505964.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "0a13e1ff2d6393fb9fd891b0da1e24a6d4cc88b52404c821c28d991a4c1dd62c"
   pdf_pages: [16]
 tags: ["奥运", "运动员概率", "过度离散"]

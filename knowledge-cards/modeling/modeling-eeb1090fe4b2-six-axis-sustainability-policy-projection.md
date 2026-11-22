@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2015/ICM-D/论文/38727.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "eeb1090fe4b2231af023d6bb25b69dc4db8eb570bb4ac2393f5caf426047aed0"
   pdf_pages: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 tags: ["可持续性剖面", "预测假设", "政策台账"]

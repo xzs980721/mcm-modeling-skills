@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2022/MCM-A/论文/2210307.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9214e14a10c374aca78aad09f163e83ff0e29a363cc70ee7e32a6ec8bb028e01"
   pdf_pages: [14]
 tags: ["骑行力学", "赛道分段", "指南排版"]

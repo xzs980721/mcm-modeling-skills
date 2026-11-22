@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2014/ICM-C/论文/28747.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "054d7c394a43f4c3c1714fded14fc1a40d8a623901f276672b76578864d5d4d1"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20]
 tags: ["节点删除", "PageRank", "带符号排名差"]

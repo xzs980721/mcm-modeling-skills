@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2025/MCM-B/论文/2509557.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "0704b0e6b0695b9ec421c4a9f14c7ee4e9d7fd527c9ef5d854d742633b59e77a"
   pdf_pages: [14]
 tags: ["旅游", "状态反馈", "联合灵敏度"]

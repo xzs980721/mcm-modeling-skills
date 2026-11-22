@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2022/ICM-D/论文/2215444.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "036e3efac766e2d6a403bb4296f96fb2d008745e82476f776c9b35891276a6d2"
   pdf_pages: [6, 9, 10, 11, 12, 13, 14]
 tags: ["AHP–熵权", "系统动力学", "关联规则"]

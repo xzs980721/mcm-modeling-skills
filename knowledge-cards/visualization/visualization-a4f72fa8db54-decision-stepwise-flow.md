@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2203120.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a4f72fa8db5498d784f1e51cb4bfb7307e15b3b9bf5b7930b7cae0f5028eb403"
   pdf_pages: [11, 12, 21]
 tags: ["ARIMA 诊断", "动态规划", "成本敏感性"]

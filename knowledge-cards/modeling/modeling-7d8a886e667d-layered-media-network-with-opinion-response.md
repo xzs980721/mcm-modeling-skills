@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2016/ICM-D/论文/42220.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7d8a886e667d31359d24b5d791882826f4ba14878e6fe899bcc84f708cee57be"
   pdf_pages: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 tags: ["多层关系", "媒体变迁", "灵敏度"]

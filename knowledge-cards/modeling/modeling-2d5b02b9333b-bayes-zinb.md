@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2524070.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2d5b02b9333b57628e98e4636b6bf6a628d63a923dcbcdbf41114a0a1c6348ef"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12, 13]
 tags: ["奖牌计数", "贝叶斯零膨胀", "关联规则"]

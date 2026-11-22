@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2200401.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7bddb27c24ac00c33b76ef70c08f8d44a10b3f04f0822562d9dd19ad795a5b5c"
   pdf_pages: [18]
 tags: ["网格边界", "滚动校准", "回测对照"]

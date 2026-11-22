@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2507817.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "81f99eb4455949cdaab1ab385f40dc5a367e5cf4d094a15d67269354cfa8c842"
   pdf_pages: [21]
 tags: ["奥运", "预测区间", "稀疏回归"]

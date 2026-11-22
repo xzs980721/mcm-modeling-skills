@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2017/MCM-C/论文/55585.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "278f2f6812f35e7cb88c8d5006ab37eaf45f59a61ce62ee4c7079db4adeffe53"
   pdf_pages: [16]
 tags: ["混合车辆", "状态规则", "多维交通表现"]

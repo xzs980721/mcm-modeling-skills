@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2016/ICM-E/论文/52849.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "d43f6d9817f04a3317d2aab3f4acbdf073eec74bbc37ab0f1a5dfc9ad56115a2"
   pdf_pages: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 tags: ["水资源", "系统动力学", "分配均衡"]

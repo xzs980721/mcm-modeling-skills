@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2014/ICM-C/论文/31262.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "fe3de8fb602f97ce213f5672592f71e127d16c3a3f9a58a6e7d255502a9bb6a8"
   pdf_pages: [16]
 tags: ["图网络", "角色分解", "主成分"]

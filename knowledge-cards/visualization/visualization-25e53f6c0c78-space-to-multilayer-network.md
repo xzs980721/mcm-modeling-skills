@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2019/ICM-D/论文/1922748.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "25e53f6c0c78cc5b4b595496ae2194ba5336a94d87e993fa480b6e99214ec0fc"
   pdf_pages: [17, 18, 26, 27]
 tags: ["人流密度", "容量网络", "时间步"]

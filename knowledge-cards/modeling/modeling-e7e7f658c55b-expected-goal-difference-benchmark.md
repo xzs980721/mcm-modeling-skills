@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2020/ICM-D/论文/2013140.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e7e7f658c55b4016d24ec944ba047a25c6ad90b346b234e7442e3badb1c8e064"
   pdf_pages: [11, 12, 13, 14, 15, 16]
 tags: ["分层传球", "战术规则", "熵权"]

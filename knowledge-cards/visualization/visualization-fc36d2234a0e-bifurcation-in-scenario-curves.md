@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2019/MCM-A/论文/1926690.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "fc36d2234a0ecaca2ba985d62814040fc82e8e3cdce8b9996c0ba0f6c71ada78"
   pdf_pages: [16]
 tags: ["个体模拟", "区域动力学", "参数分岔"]

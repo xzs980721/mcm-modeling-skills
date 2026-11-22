@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2021/MCM-A/论文/2120808.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1f31b6f6909523e6dcbe6762260ee96a741c2d4ffab42537f93aa37d33b04287"
   pdf_pages: [13, 16, 17, 18, 23]
 tags: ["生态性状", "回归筛选", "扰动诊断"]

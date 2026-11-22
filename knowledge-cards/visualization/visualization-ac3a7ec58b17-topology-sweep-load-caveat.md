@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: '2009/MCM-A/论文/A Simulation-Based Assessment of Traffic Circle Control.pdf'
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: ac3a7ec58b173547decb985dea7ee81627b91ebfcb5eecf61ae3edd3e6af0c02
   pdf_pages: [3, 7, 12, 14, 15]
 tags: ['拓扑扫参', '控制条件图题', '总负荷', '灵敏度分析']

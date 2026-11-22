@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2022/ICM-F/论文/2224021.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "bbc0bf5c7c8ef78da4ec487f0b65a3ca3b3d4554e825ae9e04f5e7f8fe1e7b5e"
   pdf_pages: [12]
 tags: ["综合公平", "市场均衡", "结构方程"]

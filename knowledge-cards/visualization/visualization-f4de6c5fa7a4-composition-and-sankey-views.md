@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2022/MCM-B/论文/2200084.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f4de6c5fa7a435c4b3e7d9083f39d4908d496cb9ee52671ac84cf83880794ae4"
   pdf_pages: [11, 12]
 tags: ["级联水库", "分配网络", "竞拍边际效用"]

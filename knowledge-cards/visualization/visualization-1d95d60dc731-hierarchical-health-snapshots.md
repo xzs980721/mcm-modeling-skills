@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2015/ICM-C/论文/37075.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1d95d60dc7317ae45e99a3e936f25cc0a5a40578ad3757f2f807f0ad2d7d92ca"
   pdf_pages: [16]
 tags: ["人员离职", "主间接产出", "箱形对照"]

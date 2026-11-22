@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2018/ICM-D/论文/78826.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ed3ee7b716f1278850924ae8252cacdd40789bb0b458e5ee38488daffa3d612b"
   pdf_pages: [5, 6, 7, 8, 9, 22]
 tags: ["设施选址", "蜂窝网格", "充电覆盖"]

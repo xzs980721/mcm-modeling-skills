@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2019/ICM-E/论文/1926224.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6c85a3eab272f07fcf5b4a262cdfa73026eacf2f730df9bda7c64ce65af2fbea"
   pdf_pages: [1, 10, 11, 12, 13]
 tags: ["生态成本", "区域参数", "蒙特卡洛"]

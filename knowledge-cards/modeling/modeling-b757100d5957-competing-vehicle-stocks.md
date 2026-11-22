@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2018/ICM-D/论文/80386.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b757100d595769e7f32414d175105c21997bdf3dc66d6fdd09655b1772d072c3"
   pdf_pages: [12, 13, 14, 22, 23]
 tags: ["电动车竞争", "标准差椭圆", "空间分类"]

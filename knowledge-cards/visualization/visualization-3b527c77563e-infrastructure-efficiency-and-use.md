@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2009/MCM-B/论文/Wireless Networks An Easy Cell.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3b527c77563e4d8fe98fb99fe4e0b22747d0d7fda27412fbd33f6eacfb98701f"
   pdf_pages: [15, 16]
 tags: ["蜂窝网络", "空间数据", "能耗预测"]

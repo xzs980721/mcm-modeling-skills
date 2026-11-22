@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2024/ICM-E/论文/2413552.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8fb63875f3e7f7e81ff49c06d2c9d0824b3b1fcb76a109f896ff50a19dc0762a"
   pdf_pages: [7, 8, 9, 10, 11, 12, 13]
 tags: ["空间回归", "社区防灾", "文保"]

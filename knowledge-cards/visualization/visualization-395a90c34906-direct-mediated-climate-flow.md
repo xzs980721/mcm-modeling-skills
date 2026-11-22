@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2018/ICM-E/论文/78511.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "395a90c349068dce46813ac99b8fc011aecf67977f181d363e35d03f596fe3d8"
   pdf_pages: [9]
 tags: ["气候压力", "分层评价", "预算优化"]

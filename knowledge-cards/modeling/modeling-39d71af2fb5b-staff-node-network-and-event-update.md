@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2015/ICM-C/论文/35778.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "39d71af2fb5b2501328ac7149ad3847594000e495dd21b116f490efe4eef6487"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 tags: ["组织变动", "随机仿真", "招聘策略"]

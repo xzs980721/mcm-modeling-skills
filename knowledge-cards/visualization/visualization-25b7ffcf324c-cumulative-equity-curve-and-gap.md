@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2022/ICM-F/论文/2220722.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "25b7ffcf324c172c80d00eccd8b2fb3c6df26f99eedc7df0fca772ef8ce0dbc9"
   pdf_pages: [10, 22]
 tags: ["机会与资源公平", "横截面差距", "情景"]

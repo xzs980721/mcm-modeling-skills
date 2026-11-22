@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2015/ICM-C/论文/33572.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b32fb4b143f7ba50a281f0f6e82eb94cde99a76976588288eb8e484d75cacaf3"
   pdf_pages: [6, 8]
 tags: ["多层组织网", "人员流动", "月度预算"]

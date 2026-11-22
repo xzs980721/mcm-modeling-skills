@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2025/MCM-A/论文/2501567.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "d77e804d8263a4a2425a2b66afb09a71b14fa2c24afa9c6ec94ad058c7bda040"
   pdf_pages: [11]
 tags: ["Archard 磨损", "混合分布", "寿命"]

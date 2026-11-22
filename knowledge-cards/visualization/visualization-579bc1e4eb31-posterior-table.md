@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2025/MCM-A/论文/2504218.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "579bc1e4eb31f1d38604304483ece97190b941a1ebd862313d3fdd2cab4f1de7"
   pdf_pages: [21]
 tags: ["磨损偏微分方程", "足迹", "贝叶斯反演"]

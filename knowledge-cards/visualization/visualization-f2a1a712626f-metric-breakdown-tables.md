@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2017/ICM-E/论文/71672.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f2a1a712626f83633e79710bcb48c52ba72481e1886392471d58a2184f17f0e0"
   pdf_pages: [9, 11, 14, 17]
 tags: ["城市规划", "耦合得分", "单项反事实"]

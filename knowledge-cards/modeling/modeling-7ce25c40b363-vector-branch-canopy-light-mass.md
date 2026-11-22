@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2012/MCM-A/论文/15065.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7ce25c40b3634868b2866ea251591b19e5c6d7cee0b816178784175f3b23c94d"
   pdf_pages: [1, 2, 3, 8, 9, 10, 13, 14, 17, 18, 19, 20, 21, 22, 23, 24, 27, 28, 29]
 tags: ["枝条向量", "树冠", "受光"]

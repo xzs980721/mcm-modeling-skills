@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2021/MCM-B/论文/2105363.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "782528587e107b0c29d8011fb0031d1689b6c063e955f5aa408ab74c8f1c1afd"
   pdf_pages: [18, 21, 22, 23, 24]
 tags: ["火险分级", "设备配置", "地形适应"]

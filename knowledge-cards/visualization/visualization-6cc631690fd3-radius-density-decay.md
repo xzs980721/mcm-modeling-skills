@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2018/ICM-D/论文/82504.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6cc631690fd3446cb81e6fb2841dc0074be6b3c9b54ee50e9f65740ae672fde8"
   pdf_pages: [16]
 tags: ["充电设施", "曼哈顿聚类", "布局验证"]

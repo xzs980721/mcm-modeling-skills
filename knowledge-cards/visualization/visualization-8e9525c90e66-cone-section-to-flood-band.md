@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2020/ICM-F/论文/2005623.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8e9525c90e66874e589da766c95a596b06a6d6c87ce2678de7ceb8fc3a7e727f"
   pdf_pages: [9]
 tags: ["海平面", "安置分配", "情境对照"]

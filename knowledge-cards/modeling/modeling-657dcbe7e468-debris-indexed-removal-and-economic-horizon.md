@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2016/MCM-B/论文/42745.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "657dcbe7e4680eafdb7e0bab06cdd9feb1f7ab039f560d8bf7e70faf3df80063"
   pdf_pages: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
 tags: ["碎片治理", "经济模拟", "时序收益"]

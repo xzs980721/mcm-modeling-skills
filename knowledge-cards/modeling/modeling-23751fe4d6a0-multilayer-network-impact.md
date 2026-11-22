@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2025/ICM-D/论文/2519935.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "23751fe4d6a0c8075a79839cee87363037f06c5757e398f24391b11414c53e6e"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12]
 tags: ["交通网络", "路网韧性", "轨道选线"]

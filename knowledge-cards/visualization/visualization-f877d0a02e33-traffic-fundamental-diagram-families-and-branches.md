@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2017/MCM-C/论文/55261.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f877d0a02e332e8c2a991e49398896de946c8618f5c1d4c6764eeb73772c9d13"
   pdf_pages: [7, 8, 9, 16, 20]
 tags: ["交通基本图", "驾驶协作", "传感器核验"]

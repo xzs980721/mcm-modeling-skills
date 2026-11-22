@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2024/MCM-B/论文/2407038.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "93f6fe25a7d1388a4d65ac48286405829dd019bb4311a19815772e15ed2f85f9"
   pdf_pages: [10, 11, 21]
 tags: ["海流外推", "运动力学", "搜救覆盖"]

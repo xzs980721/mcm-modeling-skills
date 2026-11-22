@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2229059.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6fa24f4fcc8e73622740ad2607bec21b4f0854690a05373462a8d3d2bca3132d"
   pdf_pages: [8, 9, 10, 11, 12, 13, 14, 15, 23, 24]
 tags: ["信号归一", "时序回测", "事件标注"]

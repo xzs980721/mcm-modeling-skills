@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2022/MCM-A/论文/2209466.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c8807e59e2efd7874fb29761e74a8d7549c812d690872d56b4cf55cefcb3263e"
   pdf_pages: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 25]
 tags: ["生理恢复", "动态规划", "风况分面"]

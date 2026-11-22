@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2019/MCM-C/论文/1906204.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ab5020ac67fd7da5a1b32aef6a3378999a9a64f4adbe028421bf6396d257bd08"
   pdf_pages: [12]
 tags: ["分区聚类", "有向游走", "支持向量回归"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2025/ICM-E/论文/2508861.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e5e853127ff99662784c624d311d6f56e3309c19a833f4e23269e684926082b0"
   pdf_pages: [4]
 tags: ["生态农业", "扩散方程", "有机转型"]

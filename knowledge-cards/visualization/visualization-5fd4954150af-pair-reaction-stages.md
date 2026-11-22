@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2010/ICM-C/论文/Shedding Light on Marine Pollution.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "5fd4954150afd8ce8026d2e748979395af60fe2a424b87804a808b47786a5fcd"
   pdf_pages: [3]
 tags: ["海洋污染", "材料变化", "质量估计"]

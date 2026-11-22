@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2014/MCM-A/论文/31333.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "55620c80e4f8949f390731947146f90078283964a472157263c5efffb82cab6f"
   pdf_pages: [3, 4, 5, 6, 7, 12, 13, 14, 15]
 tags: ["道路规则", "重复仿真", "并列柱图"]

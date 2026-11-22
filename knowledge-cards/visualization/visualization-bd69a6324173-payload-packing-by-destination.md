@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2019/MCM-B/论文/1924588.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "bd69a6324173782bc766f8e5687e0cc8589fcb41f363579952f4b738be235363"
   pdf_pages: [18]
 tags: ["装箱定位", "避障图", "应急班次"]

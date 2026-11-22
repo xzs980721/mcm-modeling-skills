@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2016/ICM-D/论文/47876.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f2b25493071428ac272375a107fa559e4e15c4304b7de4500776b57d8c77c662"
   pdf_pages: [20]
 tags: ["多状态建模", "新闻价值", "预测核验"]

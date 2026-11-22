@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2019/ICM-E/论文/1916129.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "01661af2cf07d31d163e8142e5b32e217c708b88ef00bb1ce0a7a35f4301168b"
   pdf_pages: [4, 5, 6, 7, 8, 9, 10, 22, 23]
 tags: ["生态成本", "影子价格", "时间反馈"]

@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2020/MCM-A/论文/2007799.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7c06f4a0a719b330374ea9f1aed1f86228fbb4be92f65e5857e40d1cf9a248f0"
   pdf_pages: [16, 17, 18, 24, 25, 26]
 tags: ["季节预测", "元胞模型", "成本收益"]

@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2011/MCM-A/论文/A Half-Blood Half-Pipe, A Perfect Performance.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "20f6a4251d26dfbfcb2caa3b66ff24340333d995d0c389f1d2ab46c299d6fd38"
   pdf_pages: [1, 4, 8, 9, 10, 11, 13]
 tags: ["能量守恒", "B样条", "形状优化"]

@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2212336.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2eec1313dc9871cdbf69e710d4fa9c2ef58bcab26dfb74e1d78c28e4d1a68d1b"
   pdf_pages: [3, 6]
 tags: ["混合预测", "动态规划", "遗传优化"]

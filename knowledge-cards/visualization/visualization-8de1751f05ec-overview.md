@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2025/MCM-A/论文/2501909.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8de1751f05ecf0d5dd1c88442b61b017d7ac112a8161fb47b4275e3d2901f550"
   pdf_pages: [4]
 tags: ["台阶磨损", "边缘分布", "材质"]

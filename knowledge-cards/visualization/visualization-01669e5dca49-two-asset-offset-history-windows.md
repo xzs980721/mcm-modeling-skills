@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2218931.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "01669e5dca4903a33663c7d2d552f31ab94ded0a754f8cd6ad2e39d3022ac0c3"
   pdf_pages: [14]
 tags: ["LM-BP", "预测验证", "费率表面"]

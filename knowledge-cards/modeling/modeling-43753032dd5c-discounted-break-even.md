@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2024/ICM-E/论文/2410578.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "43753032dd5c8180518fb65437beaf6f4c91a4ade8bfc9497133e8689dbe67d3"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12, 24]
 tags: ["承保平衡", "灰色预测", "文保成本"]

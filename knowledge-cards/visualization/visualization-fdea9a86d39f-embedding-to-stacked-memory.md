@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2020/MCM-C/论文/2003717.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "fdea9a86d39f65f6fb78db23457eb9997d577b1ce29a319da04ccd243deef937"
   pdf_pages: [14, 15]
 tags: ["LDA", "声誉窗口", "评分文本一致性"]

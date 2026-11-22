@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2022/ICM-F/论文/2211240.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "ca7212476ad9366dcaf69bce6612522372c20b0be8abd4be2b90ca7096730b62"
   pdf_pages: [8, 9, 10, 11, 12]
 tags: ["发展指标", "马氏距离", "再分配"]

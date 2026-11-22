@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2025/MCM-B/论文/2504448.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c8f924f0c2b98c57586571c5fdcd25b7bb8b29df55e70741238b1140905189a1"
   pdf_pages: [15, 21]
 tags: ["旅游", "动态规划", "环境指数"]

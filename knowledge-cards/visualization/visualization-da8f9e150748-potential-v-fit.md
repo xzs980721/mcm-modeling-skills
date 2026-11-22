@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2418251.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "da8f9e150748c19a8f5cb7bacedde4cf99de4a3faf70f0eaf68371339f8ce8d6"
   pdf_pages: [14]
 tags: ["网球", "循环网络", "ARIMA"]

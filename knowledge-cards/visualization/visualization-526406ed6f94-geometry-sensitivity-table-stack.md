@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2020/MCM-B/论文/2019696.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "526406ed6f94fdc1be475ffe07dd857f8088aff235b73c70d1b187048657cdfe"
   pdf_pages: [21]
 tags: ["分阶段侵蚀", "几何优化", "含水率"]

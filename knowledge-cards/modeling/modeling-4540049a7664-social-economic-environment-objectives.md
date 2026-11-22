@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2022/MCM-B/论文/2202748.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4540049a766477e1b24d23a3e0b099b515f0bf53eea0f9a8e8efad56c54ac644"
   pdf_pages: [14, 15, 16, 17, 18, 19, 20]
 tags: ["输配模型", "多目标规划", "部分图像缺失"]

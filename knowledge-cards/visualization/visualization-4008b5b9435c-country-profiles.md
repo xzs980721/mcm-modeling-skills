@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2501869.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4008b5b9435cb7b9823bc76bc2991ebea865cf6859f96e18107691537dae20a5"
   pdf_pages: [14]
 tags: ["零膨胀", "奖牌预测", "工具变量"]

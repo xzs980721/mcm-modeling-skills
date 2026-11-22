@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2015/MCM-A/论文/40764.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "20552f3436da8b1ccbf8620d4efe94ff24a0c166e232ad7823ac3960552137da"
   pdf_pages: [3, 22]
 tags: ["随机仿真", "基线校验", "公共卫生资源"]

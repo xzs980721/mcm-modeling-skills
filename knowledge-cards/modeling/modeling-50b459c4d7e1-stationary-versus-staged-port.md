@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2020/MCM-A/论文/2003485.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "50b459c4d7e171600c15ca4a59af3cd00d9c7fa09ffe2a5efba87967aa14687c"
   pdf_pages: [15, 16, 17, 18, 34, 35, 36]
 tags: ["栖息地", "马尔可夫", "港口布局"]

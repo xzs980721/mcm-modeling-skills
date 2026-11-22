@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2010/MCM-B/论文/Centroids, Clusters, and Crime.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7cebae4027b3464cfdb45ebe7f0c7795c9515ca2be51b68a3ffd8edf045c52f6"
   pdf_pages: [12, 13]
 tags: ["树状图", "聚类距离", "轮廓系数"]

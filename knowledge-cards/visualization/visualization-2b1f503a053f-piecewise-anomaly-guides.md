@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2018/ICM-E/论文/74971.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2b1f503a053fac0981afcd431d7e5635151d5e3fba910b5d3c5364171f170cf1"
   pdf_pages: [6]
 tags: ["气候异常", "脆弱性聚类", "阈值预测"]

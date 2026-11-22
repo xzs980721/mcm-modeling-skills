@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2007/MCM-B/论文/Novel Approaches to Airplane Boarding.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2a0cc9101a96b60403d4843b6e081e5f55fd076d0438d938a9c05b6599244985"
   pdf_pages: [32]
 tags: ["登机排序", "处理器模拟", "遗传优化"]

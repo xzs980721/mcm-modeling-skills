@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2011/ICM-C/论文/Electric Cars as a Widespread Means of Transportation.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a294c587613025525ea652c6ddb7c603ef7fba355dda2c98f4c92d8720ea0323"
   pdf_pages: [7, 8, 9]
 tags: ["半对数图", "替代技术", "交叉"]

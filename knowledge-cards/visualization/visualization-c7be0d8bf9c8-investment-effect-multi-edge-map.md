@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2015/ICM-D/论文/34985.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c7be0d8bf9c8002b4bc1121e5089ef3185c523217c241901fdcc02344ca9e509"
   pdf_pages: [1, 13]
 tags: ["多目标投资", "空间演化", "粒子群"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2018/ICM-E/论文/93840.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "dffa69973d00c4189de8120a639638c47675715a343cca9db5f49e193a037ac9"
   pdf_pages: [10]
 tags: ["系统韧性", "平衡点", "分岔边界"]

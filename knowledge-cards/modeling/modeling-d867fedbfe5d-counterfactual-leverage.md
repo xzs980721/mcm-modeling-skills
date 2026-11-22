@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2425454.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "d867fedbfe5de768fd3f5a5f817af4379a2677d2049772d5c310f856376b6998"
   pdf_pages: [7, 8, 9, 10, 11, 12, 13]
 tags: ["网球", "反事实", "随机森林"]

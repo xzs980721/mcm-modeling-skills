@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2014/MCM-B/论文/26911.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "19b2e144fe7e2b89d4e68f5288db76272cb81e396c3d2893445179a6fb8bddb2"
   pdf_pages: [16]
 tags: ["时代偏差", "最大熵", "层次结构"]

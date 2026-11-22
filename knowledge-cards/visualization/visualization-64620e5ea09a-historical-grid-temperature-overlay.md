@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2020/MCM-A/论文/2001334.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "64620e5ea09a09f3db7f8057663ce1b094f1ff522eccf1d889378a1b412dab99"
   pdf_pages: [9]
 tags: ["海温", "迁移轨迹", "破产风险"]

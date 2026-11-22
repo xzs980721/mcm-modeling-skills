@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2522820.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e8451c7e6f02315f30b176eace914b98d7f6a62d2984ac413c5fdf9641b904c6"
   pdf_pages: [12, 13, 14, 15]
 tags: ["分层计数", "密度聚类", "赛事配额"]

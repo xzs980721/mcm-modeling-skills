@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2015/MCM-A/论文/32150.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b7715ba1fb8aec84a5e7cd4ce81aa75f2fdef6aaca98167d0f4e0279ed71d4be"
   pdf_pages: [23, 24, 25, 29, 30, 31]
 tags: ["医疗资源配置", "地理可视化", "情景对照"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2018/ICM-E/论文/72968.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "5f2ee2235ee32dabd3548f4e9c412b3234f6548f4ce28c936c331783f4586a70"
   pdf_pages: [25]
 tags: ["气候韧性", "指数分解", "指标重加权"]

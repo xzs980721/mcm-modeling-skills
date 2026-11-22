@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2015/MCM-B/论文/32879.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2c587e51ecc9209b9e7553cb1ade060b1a6b5581a54773a57fdbb5eb56dd6c54"
   pdf_pages: [5, 6]
 tags: ["贝叶斯更新", "搜索救援", "路径比较"]

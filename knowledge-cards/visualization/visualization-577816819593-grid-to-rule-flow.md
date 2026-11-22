@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2012/MCM-B/论文/C.A.R.S. Cellular Automaton Rafting Simulation Subtitle — SIAM Prize Recipient,.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "577816819593b863db3466b64def189f5b0c5c605c63749f1519bf14c8e9d1d9"
   pdf_pages: [9, 11]
 tags: ["漂流调度", "动态分配", "响应面"]

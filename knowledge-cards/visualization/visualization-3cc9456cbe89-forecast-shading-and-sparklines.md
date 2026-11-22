@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2020/MCM-C/论文/2009116.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3cc9456cbe89f8cd28cd62b55f0b60a5ac49acafa1ab6323118955cbe7044199"
   pdf_pages: [18]
 tags: ["情感测度", "主成分", "时间预测"]

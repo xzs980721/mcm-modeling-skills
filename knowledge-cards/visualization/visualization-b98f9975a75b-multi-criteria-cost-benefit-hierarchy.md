@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2017/MCM-A/论文/55069.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b98f9975a75b71579284df451b7bd116443e7580c15e51cfa2c9d0a3d08b03d8"
   pdf_pages: [23]
 tags: ["水库治理", "规划优化", "多气候情景"]

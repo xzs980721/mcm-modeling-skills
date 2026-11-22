@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2018/MCM-C/论文/72969.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f2349d15afe26f49d7183ab8cc7759d1eb9a275b69a6c6bdc51796cfae0b860a"
   pdf_pages: [8, 10, 11]
 tags: ["能源画像", "混合预测", "目标协调"]

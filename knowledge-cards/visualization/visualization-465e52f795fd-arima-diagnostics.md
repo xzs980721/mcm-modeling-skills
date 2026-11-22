@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2025/MCM-B/论文/2501687.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "465e52f795fd36f31df25b2a6592b11b0a1286b0a11e2424b6727973128d27fe"
   pdf_pages: [13]
 tags: ["旅游限流", "福利量化", "非线性优化"]

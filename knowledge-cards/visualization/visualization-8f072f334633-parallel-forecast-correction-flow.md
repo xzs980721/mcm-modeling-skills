@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2200688.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "8f072f3346333a2c59786c46ab623501d9366b484aa5f995bf522e5a3aa50554"
   pdf_pages: [9]
 tags: ["分解预测", "滑动窗口", "交易成本"]

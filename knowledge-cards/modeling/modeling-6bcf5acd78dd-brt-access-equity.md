@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2025/ICM-D/论文/2516219.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6bcf5acd78dd6cff84bbbf52895464a07b02bff83554831f3051b279274a9a6c"
   pdf_pages: [15, 16, 17, 18, 19, 20]
 tags: ["灾后交通", "网络均衡", "公交规划"]

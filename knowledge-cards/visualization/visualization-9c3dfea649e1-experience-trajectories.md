@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2521556.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9c3dfea649e18e012725e8669e69f6af4c9ca1a09a473057b75cab05a97f6354"
   pdf_pages: [22]
 tags: ["TrueSkill", "奖牌分配", "残差断点"]

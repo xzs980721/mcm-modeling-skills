@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2022/ICM-D/论文/2224178.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4102740b02aa617e5e1d0f08f21160f7f0e1d9ee6e4b54ce0a7e227520add531"
   pdf_pages: [15, 16, 17, 18, 19]
 tags: ["元网络", "主成分赋权", "随机 Petri 网"]

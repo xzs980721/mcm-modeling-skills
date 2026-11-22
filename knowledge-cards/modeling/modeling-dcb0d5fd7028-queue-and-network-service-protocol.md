@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2022/ICM-D/论文/2218897.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "dcb0d5fd7028f04549020f7a8c5815b898317ed530069096e5c28351ff9b5373"
   pdf_pages: [15, 16, 17, 18, 19]
 tags: ["模糊综合", "排队模型", "网络级联"]

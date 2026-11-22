@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2020/ICM-E/论文/2008521.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4b739e6881cbc41f2ac6e9060222b334b51654076ee6f2382fcf02550411d706"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11]
 tags: ["塑料回收", "综合影响", "区域协调"]

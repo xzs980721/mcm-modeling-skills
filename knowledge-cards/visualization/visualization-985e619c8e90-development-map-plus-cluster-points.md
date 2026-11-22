@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2022/ICM-F/论文/2204803.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "985e619c8e90593b44308398d5999f4a005b12054df7bcfdecde228ceec3084e"
   pdf_pages: [10, 11]
 tags: ["发展指数", "发展组别", "情景模糊评价"]

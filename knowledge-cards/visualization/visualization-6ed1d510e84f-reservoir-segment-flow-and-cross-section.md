@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2017/MCM-A/论文/65448.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6ed1d510e84f4df632f639e1a28265751d5559461c460e266d004b4fa3c6e3a0"
   pdf_pages: [15, 17]
 tags: ["水动力", "选址对照", "调度"]

@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2022/ICM-F/论文/2208238.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f665ce77ffe7f4eb7a7d90df9e83f79d10711d445311f83e00a2ab85318a5811"
   pdf_pages: [13, 16]
 tags: ["Theil 指数", "合作分配", "可视化比较"]

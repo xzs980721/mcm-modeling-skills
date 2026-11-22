@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2016/ICM-E/论文/52831.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "0ee510b9dfda0dccf48d161dd98ef31c274646009d50015526a2ce77071859b1"
   pdf_pages: [5, 7, 13]
 tags: ["跨国回归", "持出验证", "干预情景"]

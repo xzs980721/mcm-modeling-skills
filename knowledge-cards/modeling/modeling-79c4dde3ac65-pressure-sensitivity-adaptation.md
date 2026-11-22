@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2018/ICM-E/论文/73119.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "79c4dde3ac655054620dd977f55e4781c551a5d37fbb2111095e4a31d133df24"
   pdf_pages: [7, 8, 9, 10, 11, 12, 15, 16, 23]
 tags: ["气候压力", "脆弱度评估", "干预支出"]

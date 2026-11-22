@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2014/MCM-B/论文/28414.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1d5d71f5af463d4a33a70619ae5fc4338783522ae75d915d8b470f232fdebdd1"
   pdf_pages: [8, 10, 29]
 tags: ["模型集成", "时间权重", "名次灵敏度"]

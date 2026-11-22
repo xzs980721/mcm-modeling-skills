@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2022/MCM-B/论文/2213970.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a2471885eda19664306fd6e160df2e8d8e301ee029e084af767a13ec9d12137d"
   pdf_pages: [6]
 tags: ["串联水库", "博弈分配", "技术情景"]

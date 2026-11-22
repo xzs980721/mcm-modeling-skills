@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2017/MCM-B/论文/68303.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "6c8a9ede3ae2713843f869d98e6e59f3f6df6c0de87da5ded380d038fd73806d"
   pdf_pages: [6, 7, 8, 10]
 tags: ["合流设计", "交通仿真", "线性规划"]

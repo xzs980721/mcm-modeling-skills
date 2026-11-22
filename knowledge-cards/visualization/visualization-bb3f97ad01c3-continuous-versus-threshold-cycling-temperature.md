@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2016/MCM-A/论文/48649.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "bb3f97ad01c343997f4e2092132b2d25129d1b5ecdd15f83bd0cd81734da77a9"
   pdf_pages: [26, 28]
 tags: ["有限元", "多准则评价", "温控时间线"]

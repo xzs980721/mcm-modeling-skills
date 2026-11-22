@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2020/MCM-C/论文/2002116.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7050c6f5353b68e4339fcc261cc0377886372f98ae875cdd0310f1b53a8e1b0e"
   pdf_pages: [18]
 tags: ["情感评分", "评论信息量", "声誉预测"]

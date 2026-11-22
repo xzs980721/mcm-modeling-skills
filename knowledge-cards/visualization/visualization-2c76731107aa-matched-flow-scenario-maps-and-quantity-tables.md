@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2016/ICM-F/论文/43181.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2c76731107aa2c8f057f70c0ad94465c40f76b6bfcae60fca6bde898872cf282"
   pdf_pages: [9, 10, 13]
 tags: ["人道安置", "最小费用流", "动态容量"]

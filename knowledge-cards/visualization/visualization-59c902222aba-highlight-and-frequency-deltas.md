@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2020/ICM-D/论文/2013245.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "59c902222abadb7cb14f3d2162ac3efc76f96154a917216dd141900a84c66dda"
   pdf_pages: [13, 14, 15, 16]
 tags: ["层次聚类", "滑动窗口", "传球"]

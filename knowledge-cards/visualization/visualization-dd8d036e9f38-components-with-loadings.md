@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2019/ICM-F/论文/1916704.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "dd8d036e9f38315f71173f255566cbae2a736eae4393bf01f62efcbfb036bb22"
   pdf_pages: [10]
 tags: ["DSGE", "主成分", "空间溢出"]

@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2020/ICM-F/论文/2013733.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3dac225281a951b5c4a97cbe278f1fe08b76e73f60bd1dd0f16fb933140c59a5"
   pdf_pages: [6, 7]
 tags: ["迁移意向", "随机文化指数", "供给均衡"]

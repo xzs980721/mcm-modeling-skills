@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2024/ICM-D/论文/2417004.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1c941a9883ae2e930061dc0026ba566079f95bb5d26a9ec674233633b1b4c092"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 tags: ["五大湖", "水量平衡", "多目标优化"]

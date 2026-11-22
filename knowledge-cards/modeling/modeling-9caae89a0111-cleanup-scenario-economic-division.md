@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2020/ICM-E/论文/2021103.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9caae89a0111c48d54afc57cd5212be4c7f525532398f1ddfeda94ce91f56d86"
   pdf_pages: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 tags: ["塑料存量", "种群阈值", "情境分摊"]

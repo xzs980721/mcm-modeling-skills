@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2014/MCM-B/论文/30680.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "48c2cd8895efcbd2e436b06cb2e2721d820610ba81baa67de2b3a48703f91ef5"
   pdf_pages: [12]
 tags: ["赛事网络", "特征向量中心性", "教练效应"]

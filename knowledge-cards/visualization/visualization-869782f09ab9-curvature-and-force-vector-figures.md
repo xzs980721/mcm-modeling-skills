@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2022/MCM-A/论文/2216547.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "869782f09ab98e3ec43d62a2f94f7ff8fc003a06a923072a796cbfec8b0ba261"
   pdf_pages: [13]
 tags: ["肌肉疲劳", "离散求解", "状态诊断"]

@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2024/MCM-B/论文/2419984.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c2ee18e8369d3eaf05c941094e6e9e02d26ffd12404e4c180ddca7f73ed0b4a9"
   pdf_pages: [6, 7, 8, 9, 10, 11, 16, 17, 18, 19, 20]
 tags: ["运动仿真", "贝叶斯搜救", "空间概率"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2017/ICM-E/论文/61502.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f0a50d47a2e6f10487d9cac421f00b6cb7abba906c695f19baec95a9cb36b9d0"
   pdf_pages: [1, 14]
 tags: ["复合指数", "城市政策", "跨城基准"]

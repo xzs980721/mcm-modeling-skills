@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2018/ICM-E/论文/88902.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "cefa4db954263b279392aea229f392ad217bb6b678f1aaaf1fd79a0c1697e27e"
   pdf_pages: [16, 17]
 tags: ["概率图模型", "脆弱度", "时序依赖"]

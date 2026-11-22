@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2024/ICM-E/论文/2410889.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "40245dbfaab2963a4a6115167b75ebdad30096e793ab0229fb62e4a41070241b"
   pdf_pages: [6, 7, 8, 9, 10, 11, 19, 21]
 tags: ["承保", "目标规划", "熵权"]

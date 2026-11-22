@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2012/MCM-B/论文/15171.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e855f13aada27873e1ca01999f05913302d85712d1c5a0a44851596ddc8de411"
   pdf_pages: [23, 24]
 tags: ["漂流调度", "容量", "贪心"]

@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2025/MCM-A/论文/2511565.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "5fc1ab4de42d83638d908797f8dc2557db7b420c4920fd540813c4cb4d96264d"
   pdf_pages: [12, 13, 14, 15, 16, 17, 18]
 tags: ["Delaunay 三角网", "磨损反演", "异常诊断"]

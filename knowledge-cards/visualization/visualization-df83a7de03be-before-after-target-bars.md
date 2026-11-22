@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2025/ICM-F/论文/2521039.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "df83a7de03bea0afc64a216c4dd04c4bb8701e98e9c8ba41f0ff62c1bf6df36e"
   pdf_pages: [10]
 tags: ["网络安全治理", "政策评估", "非线性回归"]

@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2024/MCM-A/论文/2400996.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "5f4b988c4f8e4939c914d7805fdd4dd670956cfc63af299f4908e46836726fd8"
   pdf_pages: [8]
 tags: ["龄级", "对照仿真", "恢复时间"]

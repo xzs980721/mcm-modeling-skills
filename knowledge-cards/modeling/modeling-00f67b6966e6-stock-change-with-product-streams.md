@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2218144.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "00f67b6966e6d97a8cb8d039d79aa244b94ad9c92cc31d218326e8fcaeef5647"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12]
 tags: ["木产品碳核算", "多维价值", "策略前后对比"]

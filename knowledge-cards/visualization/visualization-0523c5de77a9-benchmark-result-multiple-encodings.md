@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2022/MCM-C/论文/2208834.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "0523c5de77a9842979bcb820f4200c523350986e3521fcc8c0f78f839b110405"
   pdf_pages: [13, 14, 15, 16, 20, 23]
 tags: ["协整诊断", "时序切分", "费用压力"]

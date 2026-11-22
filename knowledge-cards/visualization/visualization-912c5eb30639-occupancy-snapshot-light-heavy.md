@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2014/MCM-A/论文/29282.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "912c5eb3063984e645ba47f1bc82090a1e31324dc82d715e86ca8021ac493e2e"
   pdf_pages: [19]
 tags: ["道路规则", "状态转移", "多指标"]

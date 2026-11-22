@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2019/ICM-E/论文/1902054.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "4ff1f32fd8d793cae970377d9a1c6a89714170db3df3e0ca8ec41b5e90b206f9"
   pdf_pages: [11]
 tags: ["生态价值", "逻辑斯蒂", "成本收益"]

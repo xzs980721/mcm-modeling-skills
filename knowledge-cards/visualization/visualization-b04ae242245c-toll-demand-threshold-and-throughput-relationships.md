@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2017/MCM-B/论文/69427.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b04ae242245c02e34ecf77df70df8c8080490238b74fefa0c2e74576df52786b"
   pdf_pages: [12, 18, 21]
 tags: ["交通流", "最小风险", "场站设计"]

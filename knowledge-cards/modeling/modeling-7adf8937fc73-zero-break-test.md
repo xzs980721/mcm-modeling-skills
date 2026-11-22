@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2500759.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7adf8937fc73635bb5159618d633763072d379f6e39601616f5a651186b3eb3c"
   pdf_pages: [11, 12, 13]
 tags: ["奥运奖牌", "Bootstrap", "多维归因"]

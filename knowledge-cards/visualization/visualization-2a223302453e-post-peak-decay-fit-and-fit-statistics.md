@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2016/ICM-D/论文/54740.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2a223302453efc4eaadf5a90e3758c1af1f5e7450a02ac8bdd4ebb3b235520ff"
   pdf_pages: [10]
 tags: ["新闻时序", "图拓扑", "情景核验"]

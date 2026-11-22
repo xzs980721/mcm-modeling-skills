@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2019/ICM-F/论文/1904381.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2a09d2c88ab431f2c38363d29a8bceb47ed0e4a2dd2e2df9d09e5e1d7c217eff"
   pdf_pages: [10, 11]
 tags: ["货币需求", "IS–LM–FE", "汇率制度"]

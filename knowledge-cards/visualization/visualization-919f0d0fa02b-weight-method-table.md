@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2018/MCM-C/论文/78577.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "919f0d0fa02bd602bdd83e35091a90a0018624b204a581f7775f52a56e0b81c7"
   pdf_pages: [15]
 tags: ["能源结构", "多指标评价", "情景预测"]

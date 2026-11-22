@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2018/MCM-A/论文/76271.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "27d535ab5fff296e05d1de0044ab0ccd8fec00a4c83b46ba8199f893a33fb987"
   pdf_pages: [15, 16, 17, 19, 20, 27, 28, 30, 31]
 tags: ["射线路径", "随机地表", "概率验证"]

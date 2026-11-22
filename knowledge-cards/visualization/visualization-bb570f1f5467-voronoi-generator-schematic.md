@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2007/MCM-A/论文/Applying Voronoi Diagrams to the Redistricting Problem.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "bb570f1f5467ae8a97a8b81c3addf813edbf65aa1fb93eeaf2ef2e5430646679"
   pdf_pages: [7]
 tags: ["Voronoi", "地理分区", "人口栅格"]

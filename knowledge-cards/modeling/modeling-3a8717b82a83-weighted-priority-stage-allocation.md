@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2022/MCM-B/论文/2207864.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3a8717b82a837f5e01be7a24d9cd9ba686b4698f2b3b2451e22da1cfffd49eca"
   pdf_pages: [14, 15, 16, 17, 18, 19, 20]
 tags: ["等效库容", "熵权 TOPSIS", "供水分级"]

@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2516178.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "28e27c2aee0cfcda7dccb21061565665099698220e0ae2b39d82367764aa8f02"
   pdf_pages: [16, 23]
 tags: ["双阶段预测", "重采样", "DID"]

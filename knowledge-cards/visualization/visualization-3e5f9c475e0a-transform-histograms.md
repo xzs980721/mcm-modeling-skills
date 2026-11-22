@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2017/ICM-F/论文/68940.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3e5f9c475e0a4ed09efa180c42a00dcdc7f5abd796b9c90474b4d02c97066c1b"
   pdf_pages: [2, 16]
 tags: ["主体仿真", "生命周期", "人口稳定性"]

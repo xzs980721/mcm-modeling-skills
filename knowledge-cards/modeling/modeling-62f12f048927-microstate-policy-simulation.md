@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2017/ICM-F/论文/64486.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "62f12f048927e39394fd8f69181385dcf82fd80d68e59f75d51474ead31b6d96"
   pdf_pages: [8, 9, 10, 11, 12, 13, 14, 15, 16, 23, 24, 27, 28, 29, 30, 31, 32, 33, 34]
 tags: ["主体仿真", "人口策略", "政策权衡"]

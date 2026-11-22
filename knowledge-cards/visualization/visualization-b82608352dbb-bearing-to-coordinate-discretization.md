@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2015/MCM-B/论文/39173.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b82608352dbbe043cd7092dabcaea179ff110677e0a4598d1f78ad33f956b813"
   pdf_pages: [6, 7, 8]
 tags: ["搜索救援", "邻域约束", "漏检更新"]

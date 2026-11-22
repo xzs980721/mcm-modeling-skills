@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2513314.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "01ac1f6dcc1dd1ea7746947a82f6397d0d3994a59d4ea1fa7220882fce4d3b6f"
   pdf_pages: [13, 14, 15, 19, 20]
 tags: ["贝叶斯层级", "Dirichlet 多项式", "后验预测"]

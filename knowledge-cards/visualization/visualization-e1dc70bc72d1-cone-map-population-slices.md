@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2020/ICM-F/论文/2009139.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e1dc70bc72d107f21c40cca3fcc355c1488bb97d617c886af67c42e336434455"
   pdf_pages: [5, 6, 7]
 tags: ["地形近似", "协商响应", "文化传承"]

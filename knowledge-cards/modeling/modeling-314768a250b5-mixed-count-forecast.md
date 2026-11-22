@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2514362.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "314768a250b5f89ef10c465f317a49a3c8a28fe6c823ea9ed3564a3c46e4c408"
   pdf_pages: [7, 8, 9, 10, 13, 14, 15]
 tags: ["负二项", "零膨胀", "信息增益"]

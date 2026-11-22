@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2022/MCM-B/论文/2211922.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f61e7af65cc2a361e2a5f807f9c2ee49c9a2d31034a66aa528a653ca0926cdcc"
   pdf_pages: [8, 9, 10, 22, 23, 24]
 tags: ["双库差分", "多目标分配", "图体缺失"]

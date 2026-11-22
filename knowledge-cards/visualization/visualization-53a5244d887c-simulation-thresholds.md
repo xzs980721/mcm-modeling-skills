@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2503389.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "53a5244d887c0dac699f9926c9a30969112d6528a6b33573f86efa386e10fee3"
   pdf_pages: [14]
 tags: ["奥运", "模型融合", "首牌模拟"]

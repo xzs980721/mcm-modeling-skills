@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2009/MCM-A/论文/Three Steps to Make the Traffic Circle Go Round.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "eea233981b7ff452dc2317211d387904aa679fc2a57dcf0b4da5ce4fe3de0350"
   pdf_pages: [1, 4, 6, 7, 8]
 tags: ["交通流", "多尺度", "交叉验证"]

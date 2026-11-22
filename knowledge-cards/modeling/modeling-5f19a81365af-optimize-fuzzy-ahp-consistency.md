@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2014/MCM-B/论文/28875.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "5f19a81365afd1cccd192b8eac77082c501d203f0239b17b6518afbc641be201"
   pdf_pages: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 28, 29, 30, 31]
 tags: ["层次模糊评价", "一致性规划", "时序评分"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2017/ICM-E/论文/67171.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "0a99e096526c7d53d0356a88d256041154cc728758dfdc5340cc22ba3145386a"
   pdf_pages: [10, 11, 12, 15, 16, 17, 18]
 tags: ["城市增长", "参考向量", "预算配置"]

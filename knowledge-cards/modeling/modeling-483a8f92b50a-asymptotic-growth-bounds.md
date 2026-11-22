@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2019/MCM-A/论文/1917933.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "483a8f92b50a79d7837fce012e32655a1776e90d2ddaf8a04e9ea85036d0e22e"
   pdf_pages: [4, 5, 6, 7, 10]
 tags: ["异速增长", "生境面积", "代谢比较"]

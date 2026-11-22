@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2024/ICM-D/论文/2417831.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "fdef0531aaeea07fe88a1b084fe1a67a7eaf414b1681528b9a2b9eb1324bd621"
   pdf_pages: [9, 10, 11]
 tags: ["五大湖", "反馈", "水位"]

@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2510185.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c3a423a1fe51e518a175d0cff007e31519b59a614bbfa97b62d22ccff23c020d"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12, 13]
 tags: ["运动员潜力", "随机森林", "项目重要性"]

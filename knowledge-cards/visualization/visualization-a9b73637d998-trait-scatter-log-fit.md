@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2021/MCM-A/论文/2103782.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a9b73637d9986995e59df6fbf62d2bd9bea3d8e8be5805bbca20e81d5d490e44"
   pdf_pages: [8, 9]
 tags: ["等效生长", "聚类", "竞争敏感性"]

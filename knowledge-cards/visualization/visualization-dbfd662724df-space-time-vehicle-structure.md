@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2014/MCM-A/论文/25142.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "dbfd662724dfb35cdc44fc60c2a555fcb811afbcd29dfc2a927b1fafb41c85fd"
   pdf_pages: [15]
 tags: ["车流", "元胞自动机", "换道"]

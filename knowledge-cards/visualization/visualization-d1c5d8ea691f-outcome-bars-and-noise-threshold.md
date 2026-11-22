@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2022/ICM-F/论文/2209952.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "d1c5d8ea691f03bb5ee411f15f6e280aa22a28c4366f6c47b2396beb96efbe42"
   pdf_pages: [20, 21, 23]
 tags: ["熵权评价", "竞争情景", "公平敏感性"]

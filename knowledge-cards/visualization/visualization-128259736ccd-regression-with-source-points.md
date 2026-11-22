@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2012/MCM-A/论文/14297.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "128259736ccd4a58b003f872505bc37290c915bbc1db90717e30003fcb8c8421"
   pdf_pages: [34, 35]
 tags: ["植物形态", "几何近似", "模型核验"]

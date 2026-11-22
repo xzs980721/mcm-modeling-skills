@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2403774.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "86e7a4f375f7e1be1a13c0c9d29154cf60a201f86de9974ac083a611f30231e9"
   pdf_pages: [13, 21]
 tags: ["网球", "异常处理", "因果卷积"]

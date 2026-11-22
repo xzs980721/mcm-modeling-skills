@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2010/MCM-A/论文/The Sweet Spot - A Wave Model of Baseball Bats.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "eb6d0ef733b22659cf91061b52c50ed725662876221e5f4f0a03449dd8d9773d"
   pdf_pages: [12, 13]
 tags: ["碰撞模型", "机制比较", "物理量"]

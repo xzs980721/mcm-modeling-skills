@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2024/MCM-A/论文/2425397.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7e019200be75a4f5a7df506bc4faadfd2da10690d4ed7d4a7b78d91c46044f56"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13]
 tags: ["龄级离散", "相轨道", "冲击恢复"]

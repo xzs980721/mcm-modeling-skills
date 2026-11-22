@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2019/MCM-A/论文/1919022.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f4c0fbb6ec75053f953e05c828a44d5fd5ab532f7fefdb2f6b457049d04742b8"
   pdf_pages: [11]
 tags: ["能量流", "斑块占据", "修复情景"]

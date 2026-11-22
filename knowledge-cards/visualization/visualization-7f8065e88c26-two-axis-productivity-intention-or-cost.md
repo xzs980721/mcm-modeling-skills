@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2015/ICM-C/论文/33900.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7f8065e88c2696835a2ff689b106a262151e8a05a0bb9c2b67bbd85f6481974a"
   pdf_pages: [14, 15]
 tags: ["人员离职", "组织网络", "预算仿真"]

@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2024/MCM-B/论文/2411570.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1ce5260634e9d103f6e404dc6dc72b8a69d46b0aebbf34bfce8b7c85c0179336"
   pdf_pages: [7, 8, 19]
 tags: ["流体状态", "位置不确定性", "搜索曲线"]

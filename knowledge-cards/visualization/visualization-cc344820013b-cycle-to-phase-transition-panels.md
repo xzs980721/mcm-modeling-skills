@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2209336.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "cc344820013b129851803c2b59da5c1c83aa8014b8467ff9c07deffbd8d499a1"
   pdf_pages: [16, 17]
 tags: ["碳库核算", "组合权重", "经营阶段"]

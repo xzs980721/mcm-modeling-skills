@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2409961.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b2e65cb183a336844825205dea990a883d2605a682725dff39a733680cf829d5"
   pdf_pages: [12]
 tags: ["网球", "GRU", "积分梯度"]

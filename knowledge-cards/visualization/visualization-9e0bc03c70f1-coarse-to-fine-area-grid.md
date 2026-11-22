@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2019/MCM-A/论文/1924781.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9e0bc03c70f1abc5e4f6844c208d49a88b850826736217e25df712c3edae9c80"
   pdf_pages: [17]
 tags: ["捕食偏好", "生境阈值", "种群反馈"]

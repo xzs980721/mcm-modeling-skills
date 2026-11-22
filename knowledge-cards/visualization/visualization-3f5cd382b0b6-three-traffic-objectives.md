@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2014/MCM-A/论文/29911.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3f5cd382b0b69d29cff72dbecc17865bb24f4eca464694bf19c79ce13b4312f5"
   pdf_pages: [11, 12, 13, 24, 25, 28]
 tags: ["元胞自动机", "连续交通流", "政策比较"]

@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2021/MCM-C/论文/2101166.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "801e10daa2dab997a1389b9e26414c5c96b941046bc849d0deaed227352e0137"
   pdf_pages: [5, 24]
 tags: ["事件分类", "图像质量诊断", "时序监测"]

@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2025/ICM-F/论文/2517199.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f0c04548e5d6bb282178e3f99aa7b570a11f34459fe41d03a3e6c19b044c9968"
   pdf_pages: [20, 21]
 tags: ["网络安全政策", "面板统计", "时间预测"]

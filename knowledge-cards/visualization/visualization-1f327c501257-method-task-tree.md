@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2022/MCM-A/论文/2207343.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "1f327c50125714ad59855bcd4f1145cc3154d00ca73ddeae94053d4fd5458669"
   pdf_pages: [4]
 tags: ["分段功率", "赛道可视化", "场景扰动"]

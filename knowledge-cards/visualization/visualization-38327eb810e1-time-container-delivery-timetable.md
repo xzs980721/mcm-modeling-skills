@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2019/MCM-B/论文/1908904.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "38327eb810e129999c5285ecb6c63fdcd466d5a15c21ff95a7d6dbba2a574e0a"
   pdf_pages: [18, 19, 24]
 tags: ["补给调度", "三维装箱", "选址筛选"]

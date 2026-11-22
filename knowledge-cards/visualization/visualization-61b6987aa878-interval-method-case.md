@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2025/MCM-C/论文/2514461.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "61b6987aa878c1972fb338910cd32603ddec83a92b1c6ecf0f0b9cba29cfa715"
   pdf_pages: [15]
 tags: ["赛事数预测", "生存模型", "教练阈值"]

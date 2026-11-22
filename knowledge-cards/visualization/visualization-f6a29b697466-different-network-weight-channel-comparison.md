@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2014/ICM-C/论文/28199.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f6a29b6974667197057760495eb4671e3e10b3f8a145e9c2ccd8217b8a1ee565"
   pdf_pages: [4, 10]
 tags: ["Shapley 值", "外部引用代理", "网络稳健性"]

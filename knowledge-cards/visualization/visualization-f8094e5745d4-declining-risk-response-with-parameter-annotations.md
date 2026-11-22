@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2016/MCM-B/论文/52221.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f8094e5745d4f86729d61bbe3344da238cc0cf49b626344cfc2d70ebb634ba01"
   pdf_pages: [16, 17, 18, 19]
 tags: ["轨道保险", "碎片风险", "多准则清理"]

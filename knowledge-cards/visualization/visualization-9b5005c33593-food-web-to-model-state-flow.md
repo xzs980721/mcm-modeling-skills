@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2024/MCM-A/论文/2424371.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9b5005c33593974901b251ffdd56b3268e6275c653bcad0b8fee7742ebd2a1aa"
   pdf_pages: [10, 11, 21]
 tags: ["空间离散", "扰动测度", "3-R 指标"]

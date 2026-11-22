@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: '2009/MCM-A/论文/A Simulation-Based Assessment of Traffic Circle Control.pdf'
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: ac3a7ec58b173547decb985dea7ee81627b91ebfcb5eecf61ae3edd3e6af0c02
   pdf_pages: [3, 12, 14]
 tags: ['灵敏度分析', '几何参数扫描', '对数坐标', '吞吐与延时']

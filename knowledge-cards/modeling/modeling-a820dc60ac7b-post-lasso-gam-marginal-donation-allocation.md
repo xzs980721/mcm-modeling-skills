@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2016/MCM-C/论文/42939.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a820dc60ac7b432efb4953d4443d97abc79bc8a26a2c4ca4aabcccb44204cfe6"
   pdf_pages: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25]
 tags: ["教育资源配置", "LASSO", "非线性边际回报"]

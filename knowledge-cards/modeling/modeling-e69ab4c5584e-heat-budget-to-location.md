@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2020/MCM-A/论文/2004833.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "e69ab4c5584ef53a5ad43f9c7dbdde5cc4fc77595f041134ae192b58361aaac4"
   pdf_pages: [6, 7, 8, 9, 10, 24, 25, 26, 27, 28, 29, 30, 31]
 tags: ["海洋热平衡", "渔获增长", "投资回收"]

@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2016/ICM-F/论文/44348.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "adbba4d6fc74ca050a32e17af4e8c01e325701390ea54775b7ad56ef0fa56c87"
   pdf_pages: [3, 7]
 tags: ["人道流动", "重力模型", "流量反馈"]

@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2025/ICM-E/论文/2515136.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "43cfccb9edb41dbf8692d160274bd9579412e78b1e2c93987f41d48f67c38def"
   pdf_pages: [6, 7, 8, 9, 10, 11, 12, 13]
 tags: ["Petri网", "食物网", "转型评价"]

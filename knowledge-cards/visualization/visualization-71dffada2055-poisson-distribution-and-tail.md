@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2021/MCM-B/论文/2102199.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "71dffada2055fe1c454cc642a542a4ec9eb47e3663e2b93ceb4cd9965dc30b60"
   pdf_pages: [14]
 tags: ["森林防火", "覆盖选址", "泊松情境"]

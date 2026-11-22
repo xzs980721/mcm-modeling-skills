@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2017/MCM-C/论文/55278.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a011d0e27f40b59ab532e393ff2acd9f536defd604bf7e4b1593279329fd4788"
   pdf_pages: [11, 12]
 tags: ["元胞自动机", "车型条件", "专用道"]

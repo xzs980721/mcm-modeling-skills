@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2010/MCM-B/论文/Centroids, Clusters, and Crime.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7cebae4027b3464cfdb45ebe7f0c7795c9515ca2be51b68a3ffd8edf045c52f6"
   pdf_pages: [1, 7, 10, 11, 12, 13, 14, 16]
 tags: ["层次聚类", "多中心", "时序留出"]

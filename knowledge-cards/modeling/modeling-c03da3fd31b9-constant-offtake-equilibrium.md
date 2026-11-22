@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2019/MCM-A/论文/1910246.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "c03da3fd31b98e90324361c5baea3f32a44a40e183a37bb6295ffe3cdf9ddbe4"
   pdf_pages: [13, 14, 15, 16, 26, 27, 28]
 tags: ["生长曲线", "承载阈值", "生态系统"]

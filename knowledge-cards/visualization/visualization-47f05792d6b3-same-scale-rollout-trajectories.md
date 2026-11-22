@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2018/ICM-D/论文/82794.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "47f05792d6b38bde533b2f00a5268860e720491bfeb869f16e8ef85fa469b968"
   pdf_pages: [17, 20, 22]
 tags: ["双层充电网络", "电动车采用", "建设顺序"]

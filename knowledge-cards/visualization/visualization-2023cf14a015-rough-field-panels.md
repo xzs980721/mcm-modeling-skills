@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2018/MCM-A/论文/88255.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2023cf14a0156a03277532fb79c6de945f94f219753fa70687b004084d2f271b"
   pdf_pages: [7]
 tags: ["粗糙面反射", "阈值", "通信区间"]

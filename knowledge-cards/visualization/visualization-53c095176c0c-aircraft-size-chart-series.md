@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2007/MCM-B/论文/American Airlines Next Top Model.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "53c095176c0c8ae0acfb6f34788933015315c2b9bbea42a2b528f9a06195b16b"
   pdf_pages: [8, 9]
 tags: ["登机仿真", "机舱干扰", "随机延迟"]

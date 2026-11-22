@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2016/ICM-D/论文/49436.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "9dfceb9d4ab47a13058cd9c04a12f7272218d6af02d93a29c71b868f8a9c33fe"
   pdf_pages: [10]
 tags: ["媒介拓扑", "消息过滤", "对照模拟"]

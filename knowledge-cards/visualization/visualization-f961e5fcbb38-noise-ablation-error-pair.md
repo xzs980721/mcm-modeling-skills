@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2019/MCM-C/论文/1901679.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f961e5fcbb38e72d1820d374a0ab2d939e29875fe5964007481e61f0055c0d6b"
   pdf_pages: [14]
 tags: ["随机游走", "空间杜宾", "状态分类"]

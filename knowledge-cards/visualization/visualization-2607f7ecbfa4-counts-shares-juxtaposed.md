@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2018/MCM-B/论文/91566.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "2607f7ecbfa42a78907626dfd454e19e9a2ef3e31dcdd005d05ec778b7cbc1ee"
   pdf_pages: [16, 17, 20]
 tags: ["语言竞争", "跨国迁移", "分布预测"]

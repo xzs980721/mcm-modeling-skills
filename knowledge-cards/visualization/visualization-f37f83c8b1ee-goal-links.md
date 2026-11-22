@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2017/ICM-D/论文/67316.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f37f83c8b1ee84121ee7f9bc40e7014ec6f980bb6b4b9ac370557b42227904a8"
   pdf_pages: [3]
 tags: ["串行服务", "时变需求", "稳健配置"]

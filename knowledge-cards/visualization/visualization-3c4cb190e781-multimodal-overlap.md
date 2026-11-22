@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2025/ICM-D/论文/2507692.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3c4cb190e781cb8263f2e088e5f2c41e6078d4194a34ae35a510fce62e5e1b13"
   pdf_pages: [20, 21]
 tags: ["交通网络", "公交站点", "熵权"]

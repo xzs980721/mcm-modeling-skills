@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2018/ICM-F/论文/83744.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "386b67db94ac7dc34a134627549b03b23c6436a20399c6e63c84919a4164b373"
   pdf_pages: [8, 9, 10, 11, 12, 13, 14, 15, 16, 21, 22, 23, 24]
 tags: ["隐私经济", "外部性", "政策仿真"]

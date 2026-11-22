@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2019/ICM-D/论文/1908810.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "3d1a499ef799692e6b66b7c6fdfe82a0659edd9ff2d204c7ceb81cb33cf1aa40"
   pdf_pages: [17]
 tags: ["谱划分", "人群排队", "拥堵模拟"]

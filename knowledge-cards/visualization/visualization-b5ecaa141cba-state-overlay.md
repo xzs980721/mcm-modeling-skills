@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2024/MCM-C/论文/2410482.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b5ecaa141cba667909aadc7be753d2c381004f60cf9fb714e03d734d1612e32d"
   pdf_pages: [18]
 tags: ["网球", "马尔可夫链", "卡尔曼滤波"]

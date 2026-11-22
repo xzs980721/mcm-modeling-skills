@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2025/MCM-B/论文/2503268.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "beb1b37e92ff4337e3f1789e08348d1c973af6ced7d5d92c5a4b1a5105525ef7"
   pdf_pages: [5]
 tags: ["动力系统", "参数约束", "敏感性"]

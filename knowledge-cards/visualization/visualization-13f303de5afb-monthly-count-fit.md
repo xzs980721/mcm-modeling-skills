@@ -9,7 +9,7 @@ paper:
   problem: C
 source:
   pdf: "2021/MCM-C/论文/2109298.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "13f303de5afb2cd9ac453ba09057b20689c9dcd5fa9a5b5a45ab1ad3a73dff3e"
   pdf_pages: [19]
 tags: ["元胞模拟", "贝叶斯筛查", "敏感性"]

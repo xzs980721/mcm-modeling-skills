@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2019/ICM-D/论文/1900007.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "652672019cb9e4b53241bfd478c6cd71d0109a47fae17d77afdaf3d9c9200aee"
   pdf_pages: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
 tags: ["楼层图建模", "分流容量", "安全仿真"]

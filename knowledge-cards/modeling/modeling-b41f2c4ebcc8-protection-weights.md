@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2024/ICM-E/论文/2401102.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b41f2c4ebcc818585ade672724ceb0a858fd609924bfdc931dd64a181e23b9c5"
   pdf_pages: [19, 20, 21, 22, 23]
 tags: ["灾害预测", "需求风险优化", "文保"]

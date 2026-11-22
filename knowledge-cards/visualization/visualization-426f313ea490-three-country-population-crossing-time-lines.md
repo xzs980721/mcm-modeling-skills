@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2016/ICM-E/论文/53494.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "426f313ea49065eeb7fd0989fc68f3b793e958abbf817f33f64c3308b9252639"
   pdf_pages: [10]
 tags: ["埃及水缺口", "部门流量", "模型递进"]

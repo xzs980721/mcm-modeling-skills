@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2009/MCM-A/论文/One Ring to Rule Them All.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a5e085f38a7d0ca2082301592f7d48d5fdc6aff5348c2c0a268af8ad4d129b22"
   pdf_pages: [9, 11, 12, 13]
 tags: ["组合图", "极坐标", "空间拥堵"]

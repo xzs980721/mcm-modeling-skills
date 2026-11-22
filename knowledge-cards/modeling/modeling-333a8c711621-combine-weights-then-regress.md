@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2020/ICM-D/论文/2003723.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "333a8c711621c163873f5df688bbd113ac4940ebaecae34182996bfa82548115"
   pdf_pages: [9, 10, 11, 12, 13, 14, 15, 16, 17, 24, 25]
 tags: ["传球网络", "组合赋权", "多项逻辑回归"]

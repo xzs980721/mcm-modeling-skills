@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2020/ICM-E/论文/2016287.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "54d2ddd0fb6498a1ae5ce3888a8a9b26ef29aa5fda2e0c474cc6c4162c32bfec"
   pdf_pages: [4, 5, 8, 17]
 tags: ["承载率", "多变量预测", "政策分类"]

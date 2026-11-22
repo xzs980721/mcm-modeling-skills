@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2018/ICM-E/论文/89499.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "90bc677f45b0a29660c45c8124811ea395949e140b9de9d636c9b3e3b6c94c2b"
   pdf_pages: [11, 14]
 tags: ["压力状态响应", "熵权", "气候关联"]

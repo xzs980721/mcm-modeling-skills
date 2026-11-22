@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2025/ICM-F/论文/2513705.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "edcb0adbfe3b3d8895a38b685564f7d3bfecd4b2539bbede7108633b9a739aab"
   pdf_pages: [7, 8]
 tags: ["公共安全统计", "文本聚类", "双重差分"]

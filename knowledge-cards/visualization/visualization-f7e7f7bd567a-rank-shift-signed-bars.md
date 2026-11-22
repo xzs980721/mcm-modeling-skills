@@ -9,7 +9,7 @@ paper:
   problem: B
 source:
   pdf: "2014/MCM-B/论文/26160.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f7e7f7bd567a037e02055db47f79a1aba04ca1f3064d366b8b0cf12ee4be98c9"
   pdf_pages: [24]
 tags: ["灰色关联", "模糊评价", "跨期排名"]

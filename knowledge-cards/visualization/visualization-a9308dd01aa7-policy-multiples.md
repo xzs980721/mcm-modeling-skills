@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2024/ICM-F/论文/2422054.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a9308dd01aa7034781995383e784aad22dac167377c17d5456d5931e72fe50e2"
   pdf_pages: [19]
 tags: ["离散动态优化", "分配公平", "政策敏感性"]

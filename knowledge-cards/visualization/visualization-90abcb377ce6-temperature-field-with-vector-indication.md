@@ -9,7 +9,7 @@ paper:
   problem: A
 source:
   pdf: "2016/MCM-A/论文/46830.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "90abcb377ce6959e9e156c7908a2899949b522aa5ff11d48bd8f6e6641d3069d"
   pdf_pages: [15]
 tags: ["热量流图", "恒流与间歇控制", "多响应敏感度"]

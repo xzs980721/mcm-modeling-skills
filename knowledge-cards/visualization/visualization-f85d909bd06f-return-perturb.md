@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2024/ICM-E/论文/2400860.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "f85d909bd06fca2dde352f0b74dc0f0bcbdd8c2e9e7b926b420f4a6181a0d852"
   pdf_pages: [22]
 tags: ["灾害风险", "承保", "建筑保护"]

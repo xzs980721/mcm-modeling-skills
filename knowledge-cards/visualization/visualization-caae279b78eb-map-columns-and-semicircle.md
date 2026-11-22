@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2018/ICM-F/论文/93036.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "caae279b78eb7e3bb86cd8bc16ca7d2fd9338b27c489992ab5951e256c863b63"
   pdf_pages: [25]
 tags: ["双线性估值", "社会网络", "隐私经济"]

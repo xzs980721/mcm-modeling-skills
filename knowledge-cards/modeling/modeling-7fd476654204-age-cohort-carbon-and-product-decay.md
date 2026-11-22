@@ -9,7 +9,7 @@ paper:
   problem: E
 source:
   pdf: "2022/ICM-E/论文/2223495.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "7fd4766542049753f5ade37080731eb6e3c971b069580c0dd0bebf1b5187cf79"
   pdf_pages: [6, 7, 8, 9, 10, 11, 25]
 tags: ["龄级 ODE", "生态经济权衡", "演化博弈"]

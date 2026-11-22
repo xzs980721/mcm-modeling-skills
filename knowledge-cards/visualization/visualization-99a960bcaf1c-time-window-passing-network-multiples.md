@@ -9,7 +9,7 @@ paper:
   problem: D
 source:
   pdf: "2020/ICM-D/论文/2015044.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "99a960bcaf1c599afa3738585c5c123625e4796ccdb1de970bfac8083631b2f5"
   pdf_pages: [6, 8, 9]
 tags: ["传球网络", "马尔可夫", "团队评分"]

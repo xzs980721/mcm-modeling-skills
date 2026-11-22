@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2024/ICM-F/论文/2409949.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "a4cab5001f917d226c86d54dcd4bc08d8da99d840d9446963b2a9b79de984458"
   pdf_pages: [16, 17, 18, 19, 20]
 tags: ["野生动物保护", "逻辑框架", "岭回归"]

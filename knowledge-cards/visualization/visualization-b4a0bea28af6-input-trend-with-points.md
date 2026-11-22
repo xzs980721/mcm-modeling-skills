@@ -9,7 +9,7 @@ paper:
   problem: F
 source:
   pdf: "2019/ICM-F/论文/1905127.pdf"
-  pdf_root: "美赛范文_2006-2025"
+  pdf_root: null
   sha256: "b4a0bea28af6f4cf93309e5d1aabe7b5715722262290a76f8f8289e2390d3fa5"
   pdf_pages: [25]
 tags: ["交易匹配", "采用均衡", "跨国情境"]
